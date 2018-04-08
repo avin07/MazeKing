@@ -1,0 +1,8 @@
+adb forward tcp:54999 localabstract:Unity-com.xsj.cqzgf
+nox_adb.exe connect 127.0.0.1:62001
+
+export DEVELOPER_DIR="/Applications/XCode.app/Contents/Developer" 
+./symbolicatecrash yxqy.crash yxqyios.app.dSYM > yxqy.log
+
+mini:	c0bbd9d94c3a9e59a244a762b2d6d8416ffd85bf
+5s:		fe5c5701812412e4115253cfffa8cc0b986fe1ed

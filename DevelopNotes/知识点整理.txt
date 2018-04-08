@@ -1,0 +1,52 @@
+shader（基础知识，光照，卡通渲染，后期，描边，战争迷雾）
+图形学基础：
+	向量点乘叉乘，齐次向量，SRT矩阵。
+	点与线段关系，点与举行关系。欧拉角与四元数
+渲染：
+	Mipmap,zfighting,阴影，裁剪的种类和时机，光照模型，光栅化，法线贴图
+	static
+	渲染管线选择
+	动态批次合并
+	水，卡通渲染，消融，战争迷雾，描边。
+
+	协程Coroutine
+	a*寻路
+	行为树
+	LUA
+	资源热更方案
+	JIT AOT
+	monobehaviour生命周期
+
+AI：
+	FSM
+网络：
+	
+	了解protobuf
+	socket
+	同步机制（帧同步，状态同步）	
+了解UNITY新版本功能
+设计模式
+2017和2018的新功能
+
+算法：
+	迷宫生成算法
+移动端：
+	il2cpp
+	交互
+	sdk
+插件：	
+	A星寻路
+	战争迷雾
+	AudioToolkit
+	HighlightingSystem
+	7zip
+	DOTWEEN
+	BuildReport
+	UITWEENING
+框架：
+
+c#：
+	委托
+	反射
+	struct class（值，引用）
+c++：

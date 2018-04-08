@@ -1,0 +1,32 @@
+5.1
+	VR
+	Networking
+	Analytics
+
+5.2
+
+5.3
+	Editor Test runner
+	2D渲染
+	Unity IAP（内购）
+
+5.5	
+	LineRenderer
+	启动画面制作工具
+
+5.6
+	GPU Instancing
+	后期处理栈
+	NavMesh
+	IOS平台PerformanceReporting
+
+	Post-processing栈
+	Unity Collaborate
+	Cloud 发布
+	UnityTeams
+	Timeline
+	Cinemachine
+	Assetbundle浏览器
+	模型导入改进
+	实时阴影改进
+	NVIDIA VRWorks
