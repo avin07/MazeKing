@@ -63,7 +63,6 @@ class AppMain : SingletonBehaviour<AppMain>
         ItemManager.GetInst().Init();
         EquipManager.GetInst().Init();
         PetManager.GetInst().Init();
-        VillageManager.GetInst().Init();
         RaidManager.GetInst().Init();
         TaskManager.GetInst().Init();
         CombatManager.GetInst().Init();

@@ -257,10 +257,6 @@ class TaskManager : SingletonObject<TaskManager>
 
                 if (taskNpcState == 5)
                 {
-                        if (GameStateManager.GetInst().GameState == GAMESTATE.VILLAGE) //显示元素选项
-                        {
-                                VillageManager.GetInst().ShowVillagerOption();                              
-                        }
                         if (GameStateManager.GetInst().GameState == GAMESTATE.HOME || GameStateManager.GetInst().IsGameInRaid())
                         {
                                 NpcConfig nc = NpcManager.GetInst().GetNpcCfg(npcCfgId);
@@ -521,15 +517,6 @@ class TaskManager : SingletonObject<TaskManager>
                         {
                                 currentNpcTaskDic.Add(msg.idTaskCfg, String.Empty);
                                 AddToNewTaskList(msg.idTaskCfg);
-                                //if (GameStateManager.GetInst().GameState == GAMESTATE.HOME)
-                                //{
-                                //        HomeManager.GetInst().CheckAllTaskNpcIcon();
-                                //}
-
-                                //if (GameStateManager.GetInst().GameState == GAMESTATE.VILLAGE)
-                                //{
-                                //        VillageManager.GetInst().RefreshTaskIcon();
-                                //}
                         }
                         else
                         {
@@ -577,10 +564,6 @@ class TaskManager : SingletonObject<TaskManager>
                                         HomeManager.GetInst().CheckAllTaskNpcIcon();
                                 }
                         }
-                        if (GameStateManager.GetInst().GameState == GAMESTATE.VILLAGE)
-                        {
-                                VillageManager.GetInst().RefreshTaskIcon();
-                        }
                 }
                 else if (currentBoardTaskDic.ContainsKey(msg.idTaskCfg))
                 {
@@ -622,11 +605,6 @@ class TaskManager : SingletonObject<TaskManager>
                                 {
                                         HomeManager.GetInst().CheckAllTaskNpcIcon();
                                 }
-                        }
-
-                        if (GameStateManager.GetInst().GameState == GAMESTATE.VILLAGE)
-                        {
-                                VillageManager.GetInst().RefreshTaskIcon();
                         }
                 }
 

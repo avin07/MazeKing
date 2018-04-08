@@ -28,7 +28,6 @@ class CombatManager : SingletonObject<CombatManager>
         {
                 NONE,
                 RAID,
-                VILLAGE,
         };
 
         COMBAT_STAGE m_CombatStage = COMBAT_STAGE.NONE;
@@ -402,13 +401,6 @@ class CombatManager : SingletonObject<CombatManager>
                         RaidManager.GetInst().EnterCombat();
                         m_ExistedObjList = RaidManager.GetInst().GetBattleEnemyObjList();
                         //RaidTeamManager.GetInst().TeamGotoBattle(m_MyBattlePoint, GetForward(false));
-                }
-                else if (GameStateManager.GetInst().GameState == GAMESTATE.VILLAGE)
-                {
-                        m_CombatStage = COMBAT_STAGE.VILLAGE;
-                        VillageManager.GetInst().EnterCombat();
-                        VillageManager.GetInst().GetBattlePoints(m_nEventNodeId, ref m_MyBP, ref m_EnemyBP);
-                        m_ExistedObjList = VillageManager.GetInst().GetBattleEnemyObjList();
                 }
 
                 PrepareFighters();
@@ -1257,10 +1249,6 @@ class CombatManager : SingletonObject<CombatManager>
                 if (m_CombatStage == COMBAT_STAGE.RAID)
                 {
                         RaidManager.GetInst().ExitCombat();
-                }
-                else if (m_CombatStage == COMBAT_STAGE.VILLAGE)
-                {
-                        VillageManager.GetInst().ExitCombat();
                 }
 
 #if UNITY_STANDALONE

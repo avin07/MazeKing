@@ -28,7 +28,6 @@ public class UI_RaidFormation : UIBehaviour
         enum RF_MODE
         {
                 RAID,
-                VILLAGE,
                 DEFEND,
         };
         RF_MODE m_Mode = RF_MODE.RAID;    //1副本 2村庄 3DIY 4防守设置
@@ -84,21 +83,6 @@ public class UI_RaidFormation : UIBehaviour
                 CommonSetup();
         }
 
-
-        public void Setup(int villageId, UIBehaviour prev) //村庄副本
-        {
-                m_Mode = RF_MODE.VILLAGE;
-                m_PrevUI = prev;
-                m_CfgId = villageId;
-                m_nMaxTeamCount = GlobalParams.GetInt("init_max_team_member") + PlayerController.GetInst().GetPropertyInt("team_member_limit");
-
-                VillageConfig villageCfg = VillageManager.GetInst().GetVillageCfg(villageId);
-                if (villageCfg != null)
-                {                        
-                        m_ExistFormation = UserManager.GetInst().GetFormation(villageCfg.formation_id);
-                }
-                CommonSetup();
-        }
 
         void DefendOver()
         {
@@ -157,8 +141,6 @@ public class UI_RaidFormation : UIBehaviour
                 switch (m_Mode)
                 {
                         case RF_MODE.RAID:
-                                break;
-                        case RF_MODE.VILLAGE:
                                 break;
                         case RF_MODE.DEFEND:
                                 DefendOver();
@@ -622,18 +604,6 @@ public class UI_RaidFormation : UIBehaviour
                                         WorldMapManager.GetInst().GoIntoRaid(m_nFloor, petlist, GetItemList());
                                 }
                                 break;
-                        case RF_MODE.VILLAGE:
-                                {
-                                        int food = PlayerController.GetInst().GetPropertyInt("food");
-                                        int need_food = RaidConfigManager.GetInst().GetRaidInfoCfg(m_CfgId).cost_vitality;
-                                        if (food < need_food)
-                                        {
-                                                GameUtility.PopupMessage("食物不足！");
-                                                return;
-                                        }
-                                        WorldMapManager.GetInst().GoToVillage(petlist, GetItemList());
-                                }
-                                break;
                         case RF_MODE.DEFEND:
                                 break;
                 }
@@ -678,22 +648,4 @@ public class UI_RaidFormation : UIBehaviour
                 //DefendOver();
         }
 
-        public void OnClickTestPlayerVillage()
-        {
-                string petlist = "";
-                for (int i = 0; i < 6; i++)
-                {
-                        if (m_UnitDict.ContainsKey(i))
-                        {
-                                petlist += m_UnitDict[i].m_Pet.ID + CommonString.pipeStr;
-                        }
-                        else
-                        {
-                                petlist += "0|";
-                        }
-                }
-                Message.CSMsgVillageMatching msg = new Message.CSMsgVillageMatching();
-                msg.petlist = petlist.Remove(petlist.LastIndexOf('|'));
-                NetworkManager.GetInst().SendMsgToServer(msg);
-        }
 }

@@ -1361,7 +1361,6 @@ public class HomeManager : SingletonObject<HomeManager>
         m_state = state;
         if (state == HomeState.None)
         {
-            //ChangeCameraRotation(GlobalParams.GetVector3("village_camera_rot"));
             SetHomeCameraEventMask(InitLayer);
         }
 
@@ -2474,28 +2473,6 @@ public class HomeManager : SingletonObject<HomeManager>
         }
     }
 
-    public void SetNpcBrick(VillageConfig cfg)
-    {
-        int height = 0;
-        for (int z = 0; z < HomeSize; z++)
-        {
-            for (int x = 0; x < HomeSize; x++)
-            {
-                height = GetHeightByPos(x, z);
-                if (height >= 0)
-                {
-                    for (int y = 1; y < height + 1; y++)
-                    {
-                        if (JudgeIsBrickNeedCreat(x, y, z, height))
-                        {
-                            SetNpcBrickMod(x, y, z, cfg);
-                        }
-                    }
-                }
-            }
-        }
-    }
-
     BoxCollider[] m_BrickBoxArry;
     const int BoxColliderObjNum = 20;
     void SetBrickBox(int x, int y, int z)
@@ -2727,34 +2704,6 @@ public class HomeManager : SingletonObject<HomeManager>
             else
             {
                 InputManager.GetInst().SwitchInup(true);
-            }
-        }
-    }
-
-    void SetNpcBrickMod(int x, int y, int z, VillageConfig cfg)
-    {
-        if (cfg != null)
-        {
-            if (y >= 1 && y <= cfg.model_list.Count)
-            {
-                int index = z * HomeSize + x + 1;
-                int kind = Mathf.Clamp(GetBrickKind(index), 0, cfg.model_list[y - 1].Count);
-                int model_id = cfg.model_list[y - 1][kind - 1];
-                if (model_id != 0)
-                {
-                    m_CubeManager.AddMod(model_id, x, y, z, GetBrickLink(x, y, z));
-                }
-            }
-        }
-        else
-        {
-            //如果是未开放区域
-            int index = z * HomeSize + x + 1;
-            int kind = GetBrickKind(index);
-            int model_id = m_BrickElevationDict[y].GetBrickModel(kind);
-            if (model_id != 0)
-            {
-                m_CubeManager.AddMod(model_id, x, y, z, GetBrickLink(x, y, z));
             }
         }
     }

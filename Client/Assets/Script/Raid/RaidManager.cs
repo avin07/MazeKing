@@ -2626,6 +2626,9 @@ public class RaidManager : SingletonObject<RaidManager>
             }
         }
         DebugPrint(m_sRaidInfo);
+
+        RaidTeamManager.GetInst().SetupTeam();
+        EnterRaid();
     }
 
     void InitSpecialRoom()

@@ -427,16 +427,6 @@ class WorldMapManager : SingletonObject<WorldMapManager>
                 msg.items = itemlist;
                 NetworkManager.GetInst().SendMsgToServer(msg);
         }
-        public void GoToVillage(string petlist, string itemlist)
-        {
-                CSMsgMapRaidEnter msg = new CSMsgMapRaidEnter();
-                msg.id = RaidRealID;
-                msg.floor = 0;
-                msg.strPetList = petlist;
-                msg.items = itemlist;
-                NetworkManager.GetInst().SendMsgToServer(msg);
-        }
-
 
         public void SendMapEvent(int eventId)
         {
@@ -1606,22 +1596,7 @@ class WorldMapManager : SingletonObject<WorldMapManager>
                         long id = long.Parse(detail[0]);
                         int raid_id = int.Parse(detail[1]);
 
-                        if (m_RaidDic[id].type == (int)RAID_TYPE.NPC_VILLAGE) //npc村庄
-                        {
-                                VillageConfig villageCfg = VillageManager.GetInst().GetVillageCfg(raid_id); //村庄配置
-                                if (villageCfg != null)
-                                {
-                                        if (bShow == 1)
-                                        {
-                                                ResourceManager.GetInst().LoadIconSpriteSyn(villageCfg.village_icon, house.transform);
-                                                house.SetNativeSize();
-                                                name.text = LanguageManager.GetText(villageCfg.village_name);
-                                                listener.onClick = OnClickNpcHome;
-                                                point.SetActive(true);
-                                        }
-                                }
-                        }
-                        else if (m_RaidDic[id].type == (int)RAID_TYPE.EVENT)  //事件点位
+                        if (m_RaidDic[id].type == (int)RAID_TYPE.EVENT)  //事件点位
                         {
                                 WorldmapEventConfig wec = GetWorldMapEventCfg(raid_id);
                                 if (wec != null)
@@ -1854,14 +1829,6 @@ class WorldMapManager : SingletonObject<WorldMapManager>
                 UIManager.GetInst().GetUIBehaviour<UI_WorldMap>().ReturnHome(); 
         }
 
-        void OnClickNpcHome(GameObject go, PointerEventData data)
-        {
-                string name = go.transform.parent.name;
-                string[] detail = name.Split('_');
-                RaidRealID = long.Parse(detail[0]);
-                ShowVillage(int.Parse(detail[1]));
-        }
-
         void OnClickEventNode(GameObject go, PointerEventData data)  //事件
         {
                 WorldmapEventConfig wec = (WorldmapEventConfig)EventTriggerListener.Get(go).GetTag();
@@ -1963,12 +1930,6 @@ class WorldMapManager : SingletonObject<WorldMapManager>
         void ShowStoryRaid(int raid)
         {
                 UIManager.GetInst().ShowUI<UI_StoryRaid>("UI_StoryRaid").Refresh(raid);
-                UIManager.GetInst().CloseUI("UI_WorldMap");
-        }
-        void ShowVillage(int villageId)
-        {
-                UI_RaidFormation uis = UIManager.GetInst().ShowUI<UI_RaidFormation>("UI_RaidFormation");
-                uis.Setup(villageId, null);
                 UIManager.GetInst().CloseUI("UI_WorldMap");
         }
 

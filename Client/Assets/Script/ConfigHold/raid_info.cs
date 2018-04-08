@@ -51,7 +51,6 @@ public enum RAID_TYPE // 副本类型
     ENDLESS = 4, // 无限副本
     STAGE = 5, // 阶段副本
 
-    NPC_VILLAGE = 10, // NPC村庄   
     EVENT = 20, // 事件
     TASK = 30,  // 任务
 

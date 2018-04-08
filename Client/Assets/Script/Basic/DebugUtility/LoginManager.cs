@@ -46,6 +46,8 @@ class LoginManager : SingletonObject<LoginManager>
                 ResourceManager.LOCAL_PATH = Application.streamingAssetsPath + CommonString.divideStr;
 #endif
 
+
+        ResourceManager.LOCAL_PATH = Application.dataPath + "/../assetbundles/";
         MsgMgr.GetInst().RegisterMsgHandler(typeof(SCMsgAccountLogin), OnAccountLogin);
         MsgMgr.GetInst().RegisterMsgHandler(typeof(SCMsgUserInfo), OnLoadUser);
         MsgMgr.GetInst().RegisterMsgHandler(typeof(SCMsgRandomSeed), OnTestRandom);

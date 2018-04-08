@@ -111,7 +111,7 @@ public class ResourceManager : SingletonObject<ResourceManager>
             }
             if (residentType == AssetResidentType.Never)
             {
-                //ab.Unload(false);     //unity2017需要延迟unload资源。
+                ab.Unload(false);     //unity2017需要延迟unload资源。
             }
         }
 
