@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<building_inn_recruit>
+		<id type="1">1</id>
+		<mark type="3">手头有点紧，需要1000金币</mark>
+		<type type="1">1</type>
+		<present type="3">1,1,1000</present>
+		<add_favor type="3">1,5</add_favor>
+		<desc type="3">recruit_desc_1</desc>
+		<name type="3">recruit_name_1</name>
+		<icon type="3">recruit_icon_1</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">2</id>
+		<mark type="3">手头比较紧，需要5000金币</mark>
+		<type type="1">1</type>
+		<present type="3">1,1,5000</present>
+		<add_favor type="3">5,10</add_favor>
+		<desc type="3">recruit_desc_2</desc>
+		<name type="3">recruit_name_2</name>
+		<icon type="3">recruit_icon_2</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">3</id>
+		<mark type="3">手头非常紧，需要10000金币</mark>
+		<type type="1">1</type>
+		<present type="3">1,1,10000</present>
+		<add_favor type="3">10,15</add_favor>
+		<desc type="3">recruit_desc_3</desc>
+		<name type="3">recruit_name_3</name>
+		<icon type="3">recruit_icon_3</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">4</id>
+		<mark type="3">需要一个道具，需要1个伤药</mark>
+		<type type="1">1</type>
+		<present type="3">3,1,1</present>
+		<add_favor type="3">1,5</add_favor>
+		<desc type="3">recruit_desc_4</desc>
+		<name type="3">recruit_name_4</name>
+		<icon type="3">recruit_icon_4</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">5</id>
+		<mark type="3">需要一些道具，需要5个伤药</mark>
+		<type type="1">1</type>
+		<present type="3">3,1,5</present>
+		<add_favor type="3">5,10</add_favor>
+		<desc type="3">recruit_desc_5</desc>
+		<name type="3">recruit_name_5</name>
+		<icon type="3">recruit_icon_5</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">6</id>
+		<mark type="3">需要大量道具，需要10个伤药</mark>
+		<type type="1">1</type>
+		<present type="3">3,1,10</present>
+		<add_favor type="3">10,15</add_favor>
+		<desc type="3">recruit_desc_6</desc>
+		<name type="3">recruit_name_6</name>
+		<icon type="3">recruit_icon_6</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">7</id>
+		<mark type="3">需要一个道具，需要1把钥匙</mark>
+		<type type="1">1</type>
+		<present type="3">3,2,1</present>
+		<add_favor type="3">1,5</add_favor>
+		<desc type="3">recruit_desc_7</desc>
+		<name type="3">recruit_name_7</name>
+		<icon type="3">recruit_icon_7</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">8</id>
+		<mark type="3">需要一些道具，需要5把钥匙</mark>
+		<type type="1">1</type>
+		<present type="3">3,2,5</present>
+		<add_favor type="3">5,10</add_favor>
+		<desc type="3">recruit_desc_8</desc>
+		<name type="3">recruit_name_8</name>
+		<icon type="3">recruit_icon_8</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">9</id>
+		<mark type="3">需要大量道具，需要10把钥匙</mark>
+		<type type="1">1</type>
+		<present type="3">3,2,10</present>
+		<add_favor type="3">10,15</add_favor>
+		<desc type="3">recruit_desc_9</desc>
+		<name type="3">recruit_name_9</name>
+		<icon type="3">recruit_icon_9</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">10</id>
+		<mark type="3">需要一个道具，需要1个铜板</mark>
+		<type type="1">1</type>
+		<present type="3">3,3,1</present>
+		<add_favor type="3">1,5</add_favor>
+		<desc type="3">recruit_desc_10</desc>
+		<name type="3">recruit_name_10</name>
+		<icon type="3">recruit_icon_10</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">11</id>
+		<mark type="3">需要一些道具，需要5个铜板</mark>
+		<type type="1">1</type>
+		<present type="3">3,3,5</present>
+		<add_favor type="3">5,10</add_favor>
+		<desc type="3">recruit_desc_11</desc>
+		<name type="3">recruit_name_11</name>
+		<icon type="3">recruit_icon_11</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">12</id>
+		<mark type="3">需要大量道具，需要10个铜板</mark>
+		<type type="1">1</type>
+		<present type="3">3,3,10</present>
+		<add_favor type="3">10,15</add_favor>
+		<desc type="3">recruit_desc_12</desc>
+		<name type="3">recruit_name_12</name>
+		<icon type="3">recruit_icon_12</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">13</id>
+		<mark type="3">需要一个道具，需要1个贵族头环</mark>
+		<type type="1">1</type>
+		<present type="3">3,4,1</present>
+		<add_favor type="3">1,5</add_favor>
+		<desc type="3">recruit_desc_13</desc>
+		<name type="3">recruit_name_13</name>
+		<icon type="3">recruit_icon_13</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">14</id>
+		<mark type="3">需要一些道具，需要5个贵族头环</mark>
+		<type type="1">1</type>
+		<present type="3">3,4,5</present>
+		<add_favor type="3">5,10</add_favor>
+		<desc type="3">recruit_desc_14</desc>
+		<name type="3">recruit_name_14</name>
+		<icon type="3">recruit_icon_14</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">15</id>
+		<mark type="3">需要大量道具，需要10个贵族头环</mark>
+		<type type="1">1</type>
+		<present type="3">3,4,10</present>
+		<add_favor type="3">10,15</add_favor>
+		<desc type="3">recruit_desc_15</desc>
+		<name type="3">recruit_name_15</name>
+		<icon type="3">recruit_icon_15</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">16</id>
+		<mark type="3">需要一个道具，需要1个力量护腕</mark>
+		<type type="1">1</type>
+		<present type="3">3,5,1</present>
+		<add_favor type="3">1,5</add_favor>
+		<desc type="3">recruit_desc_16</desc>
+		<name type="3">recruit_name_16</name>
+		<icon type="3">recruit_icon_16</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">17</id>
+		<mark type="3">需要一些道具，需要5个力量护腕</mark>
+		<type type="1">1</type>
+		<present type="3">3,5,5</present>
+		<add_favor type="3">5,10</add_favor>
+		<desc type="3">recruit_desc_17</desc>
+		<name type="3">recruit_name_17</name>
+		<icon type="3">recruit_icon_17</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">18</id>
+		<mark type="3">需要大量道具，需要10个力量护腕</mark>
+		<type type="1">1</type>
+		<present type="3">3,5,10</present>
+		<add_favor type="3">10,15</add_favor>
+		<desc type="3">recruit_desc_18</desc>
+		<name type="3">recruit_name_18</name>
+		<icon type="3">recruit_icon_18</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">19</id>
+		<mark type="3">需要一个道具，需要1个先锋盾</mark>
+		<type type="1">1</type>
+		<present type="3">3,6,1</present>
+		<add_favor type="3">1,5</add_favor>
+		<desc type="3">recruit_desc_19</desc>
+		<name type="3">recruit_name_19</name>
+		<icon type="3">recruit_icon_19</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">20</id>
+		<mark type="3">需要一些道具，需要5个先锋盾</mark>
+		<type type="1">1</type>
+		<present type="3">3,6,5</present>
+		<add_favor type="3">5,10</add_favor>
+		<desc type="3">recruit_desc_20</desc>
+		<name type="3">recruit_name_20</name>
+		<icon type="3">recruit_icon_20</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">21</id>
+		<mark type="3">需要大量道具，需要10个先锋盾</mark>
+		<type type="1">1</type>
+		<present type="3">3,6,10</present>
+		<add_favor type="3">10,15</add_favor>
+		<desc type="3">recruit_desc_21</desc>
+		<name type="3">recruit_name_21</name>
+		<icon type="3">recruit_icon_21</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">22</id>
+		<mark type="3">需要一个道具，需要1个角鹰弓</mark>
+		<type type="1">1</type>
+		<present type="3">3,7,1</present>
+		<add_favor type="3">1,5</add_favor>
+		<desc type="3">recruit_desc_22</desc>
+		<name type="3">recruit_name_22</name>
+		<icon type="3">recruit_icon_22</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">23</id>
+		<mark type="3">需要一些道具，需要5个角鹰弓</mark>
+		<type type="1">1</type>
+		<present type="3">3,7,5</present>
+		<add_favor type="3">5,10</add_favor>
+		<desc type="3">recruit_desc_23</desc>
+		<name type="3">recruit_name_23</name>
+		<icon type="3">recruit_icon_23</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">24</id>
+		<mark type="3">需要大量道具，需要10个角鹰弓</mark>
+		<type type="1">1</type>
+		<present type="3">3,7,10</present>
+		<add_favor type="3">10,15</add_favor>
+		<desc type="3">recruit_desc_24</desc>
+		<name type="3">recruit_name_24</name>
+		<icon type="3">recruit_icon_24</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">25</id>
+		<mark type="3">需要一个道具，需要1个蝴蝶</mark>
+		<type type="1">1</type>
+		<present type="3">3,8,1</present>
+		<add_favor type="3">1,5</add_favor>
+		<desc type="3">recruit_desc_25</desc>
+		<name type="3">recruit_name_25</name>
+		<icon type="3">recruit_icon_25</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">26</id>
+		<mark type="3">需要一些道具，需要5个蝴蝶</mark>
+		<type type="1">1</type>
+		<present type="3">3,8,5</present>
+		<add_favor type="3">5,10</add_favor>
+		<desc type="3">recruit_desc_26</desc>
+		<name type="3">recruit_name_26</name>
+		<icon type="3">recruit_icon_26</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">27</id>
+		<mark type="3">需要大量道具，需要10个蝴蝶</mark>
+		<type type="1">1</type>
+		<present type="3">3,8,10</present>
+		<add_favor type="3">10,15</add_favor>
+		<desc type="3">recruit_desc_27</desc>
+		<name type="3">recruit_name_27</name>
+		<icon type="3">recruit_icon_27</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">28</id>
+		<mark type="3">需要一个道具，需要1个圣剑</mark>
+		<type type="1">1</type>
+		<present type="3">3,9,1</present>
+		<add_favor type="3">1,5</add_favor>
+		<desc type="3">recruit_desc_28</desc>
+		<name type="3">recruit_name_28</name>
+		<icon type="3">recruit_icon_28</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">29</id>
+		<mark type="3">需要一些道具，需要5个圣剑</mark>
+		<type type="1">1</type>
+		<present type="3">3,9,5</present>
+		<add_favor type="3">5,10</add_favor>
+		<desc type="3">recruit_desc_29</desc>
+		<name type="3">recruit_name_29</name>
+		<icon type="3">recruit_icon_29</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">30</id>
+		<mark type="3">需要大量道具，需要10个圣剑</mark>
+		<type type="1">1</type>
+		<present type="3">3,9,10</present>
+		<add_favor type="3">10,15</add_favor>
+		<desc type="3">recruit_desc_30</desc>
+		<name type="3">recruit_name_30</name>
+		<icon type="3">recruit_icon_30</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">31</id>
+		<mark type="3">缺少一件装备，需要有1把缺口的匕首</mark>
+		<type type="1">1</type>
+		<present type="3">4,1,1</present>
+		<add_favor type="3">1,5</add_favor>
+		<desc type="3">recruit_desc_31</desc>
+		<name type="3">recruit_name_31</name>
+		<icon type="3">recruit_icon_31</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">32</id>
+		<mark type="3">缺少一些装备，需要5把缺口的匕首</mark>
+		<type type="1">1</type>
+		<present type="3">4,1,5</present>
+		<add_favor type="3">5,10</add_favor>
+		<desc type="3">recruit_desc_32</desc>
+		<name type="3">recruit_name_32</name>
+		<icon type="3">recruit_icon_32</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">33</id>
+		<mark type="3">缺少许多装备，需要10把缺口的匕首</mark>
+		<type type="1">1</type>
+		<present type="3">4,1,10</present>
+		<add_favor type="3">10,15</add_favor>
+		<desc type="3">recruit_desc_33</desc>
+		<name type="3">recruit_name_33</name>
+		<icon type="3">recruit_icon_33</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">34</id>
+		<mark type="3">缺少一件装备，需要有1个破旧的盾牌</mark>
+		<type type="1">1</type>
+		<present type="3">4,2,1</present>
+		<add_favor type="3">1,5</add_favor>
+		<desc type="3">recruit_desc_34</desc>
+		<name type="3">recruit_name_34</name>
+		<icon type="3">recruit_icon_34</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">35</id>
+		<mark type="3">缺少一些装备，需要5个破旧的盾牌</mark>
+		<type type="1">1</type>
+		<present type="3">4,2,5</present>
+		<add_favor type="3">5,10</add_favor>
+		<desc type="3">recruit_desc_35</desc>
+		<name type="3">recruit_name_35</name>
+		<icon type="3">recruit_icon_35</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">36</id>
+		<mark type="3">缺少许多装备，需要10个破旧的盾牌</mark>
+		<type type="1">1</type>
+		<present type="3">4,2,10</present>
+		<add_favor type="3">10,15</add_favor>
+		<desc type="3">recruit_desc_36</desc>
+		<name type="3">recruit_name_36</name>
+		<icon type="3">recruit_icon_36</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">37</id>
+		<mark type="3">缺少一件装备，需要有1把沉重的巨剑</mark>
+		<type type="1">1</type>
+		<present type="3">4,3,1</present>
+		<add_favor type="3">1,5</add_favor>
+		<desc type="3">recruit_desc_37</desc>
+		<name type="3">recruit_name_37</name>
+		<icon type="3">recruit_icon_37</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">38</id>
+		<mark type="3">缺少一些装备，需要5把沉重的巨剑</mark>
+		<type type="1">1</type>
+		<present type="3">4,3,5</present>
+		<add_favor type="3">5,10</add_favor>
+		<desc type="3">recruit_desc_38</desc>
+		<name type="3">recruit_name_38</name>
+		<icon type="3">recruit_icon_38</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">39</id>
+		<mark type="3">缺少许多装备，需要10把沉重的巨剑</mark>
+		<type type="1">1</type>
+		<present type="3">4,3,10</present>
+		<add_favor type="3">10,15</add_favor>
+		<desc type="3">recruit_desc_39</desc>
+		<name type="3">recruit_name_39</name>
+		<icon type="3">recruit_icon_39</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">40</id>
+		<mark type="3">缺少一件装备，需要有1个邪恶的头盔</mark>
+		<type type="1">1</type>
+		<present type="3">4,4,1</present>
+		<add_favor type="3">1,5</add_favor>
+		<desc type="3">recruit_desc_40</desc>
+		<name type="3">recruit_name_40</name>
+		<icon type="3">recruit_icon_40</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">41</id>
+		<mark type="3">缺少一些装备，需要5个邪恶的头盔</mark>
+		<type type="1">1</type>
+		<present type="3">4,4,5</present>
+		<add_favor type="3">5,10</add_favor>
+		<desc type="3">recruit_desc_41</desc>
+		<name type="3">recruit_name_41</name>
+		<icon type="3">recruit_icon_41</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">42</id>
+		<mark type="3">缺少许多装备，需要10个邪恶的头盔</mark>
+		<type type="1">1</type>
+		<present type="3">4,4,10</present>
+		<add_favor type="3">10,15</add_favor>
+		<desc type="3">recruit_desc_42</desc>
+		<name type="3">recruit_name_42</name>
+		<icon type="3">recruit_icon_42</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">43</id>
+		<mark type="3">缺少一件装备，需要有1个博德的胸甲</mark>
+		<type type="1">1</type>
+		<present type="3">4,4,1</present>
+		<add_favor type="3">1,5</add_favor>
+		<desc type="3">recruit_desc_43</desc>
+		<name type="3">recruit_name_43</name>
+		<icon type="3">recruit_icon_43</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">44</id>
+		<mark type="3">缺少一些装备，需要5个博德的胸甲</mark>
+		<type type="1">1</type>
+		<present type="3">4,4,5</present>
+		<add_favor type="3">5,10</add_favor>
+		<desc type="3">recruit_desc_44</desc>
+		<name type="3">recruit_name_44</name>
+		<icon type="3">recruit_icon_44</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">45</id>
+		<mark type="3">缺少许多装备，需要10个博德的胸甲</mark>
+		<type type="1">1</type>
+		<present type="3">4,4,10</present>
+		<add_favor type="3">10,15</add_favor>
+		<desc type="3">recruit_desc_45</desc>
+		<name type="3">recruit_name_45</name>
+		<icon type="3">recruit_icon_45</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">100</id>
+		<mark type="3">魔粉*3</mark>
+		<type type="1">1</type>
+		<present type="3">3,201,1</present>
+		<add_favor type="3">7,12</add_favor>
+		<desc type="3">0</desc>
+		<name type="3">0</name>
+		<icon type="3">0</icon>
+	</building_inn_recruit>
+	<building_inn_recruit>
+		<id type="1">101</id>
+		<mark type="3">礼物*1</mark>
+		<type type="1">1</type>
+		<present type="3">3,302,1</present>
+		<add_favor type="3">20,25</add_favor>
+		<desc type="3">0</desc>
+		<name type="3">0</name>
+		<icon type="3">0</icon>
+	</building_inn_recruit>
+</dataroot>

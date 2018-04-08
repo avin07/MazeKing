@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<battle_position_name>
+		<id type="1">1</id>
+		<mark type="3">4格门东西站位</mark>
+		<battle_point_name type="3">battlepoint_EW_4</battle_point_name>
+		<grid_number type="1">4</grid_number>
+	</battle_position_name>
+	<battle_position_name>
+		<id type="1">2</id>
+		<mark type="3">4格门南北站位</mark>
+		<battle_point_name type="3">battlepoint_SN_4</battle_point_name>
+		<grid_number type="1">4</grid_number>
+	</battle_position_name>
+	<battle_position_name>
+		<id type="1">3</id>
+		<mark type="3">6格门东西站位</mark>
+		<battle_point_name type="3">battlepoint_EW_6</battle_point_name>
+		<grid_number type="1">6</grid_number>
+	</battle_position_name>
+	<battle_position_name>
+		<id type="1">4</id>
+		<mark type="3">6格门南北站位</mark>
+		<battle_point_name type="3">battlepoint_SN_6</battle_point_name>
+		<grid_number type="1">6</grid_number>
+	</battle_position_name>
+</dataroot>

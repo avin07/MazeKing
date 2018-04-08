@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<recruit_group>
+		<id type="1">1000</id>
+		<recruit_id type="3">1,2,3</recruit_id>
+	</recruit_group>
+	<recruit_group>
+		<id type="1">1020</id>
+		<recruit_id type="3">201,202,203</recruit_id>
+	</recruit_group>
+	<recruit_group>
+		<id type="1">1040</id>
+		<recruit_id type="3">401,402,403</recruit_id>
+	</recruit_group>
+	<recruit_group>
+		<id type="1">1060</id>
+		<recruit_id type="3">601,602,603</recruit_id>
+	</recruit_group>
+	<recruit_group>
+		<id type="1">1080</id>
+		<recruit_id type="3">801,802,803</recruit_id>
+	</recruit_group>
+</dataroot>

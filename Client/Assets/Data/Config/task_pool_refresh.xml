@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<task_pool_refresh>
+		<id type="1">1</id>
+		<refresh_price type="1">0</refresh_price>
+	</task_pool_refresh>
+	<task_pool_refresh>
+		<id type="1">2</id>
+		<refresh_price type="1">20</refresh_price>
+	</task_pool_refresh>
+	<task_pool_refresh>
+		<id type="1">3</id>
+		<refresh_price type="1">50</refresh_price>
+	</task_pool_refresh>
+	<task_pool_refresh>
+		<id type="1">4</id>
+		<refresh_price type="1">50</refresh_price>
+	</task_pool_refresh>
+	<task_pool_refresh>
+		<id type="1">5</id>
+		<refresh_price type="1">100</refresh_price>
+	</task_pool_refresh>
+	<task_pool_refresh>
+		<id type="1">6</id>
+		<refresh_price type="1">100</refresh_price>
+	</task_pool_refresh>
+	<task_pool_refresh>
+		<id type="1">7</id>
+		<refresh_price type="1">200</refresh_price>
+	</task_pool_refresh>
+	<task_pool_refresh>
+		<id type="1">8</id>
+		<refresh_price type="1">200</refresh_price>
+	</task_pool_refresh>
+	<task_pool_refresh>
+		<id type="1">9</id>
+		<refresh_price type="1">200</refresh_price>
+	</task_pool_refresh>
+	<task_pool_refresh>
+		<id type="1">10</id>
+		<refresh_price type="1">500</refresh_price>
+	</task_pool_refresh>
+</dataroot>

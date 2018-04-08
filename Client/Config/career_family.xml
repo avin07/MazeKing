@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<career_family>
+		<id type="1">1</id>
+		<factor_vs_1 type="1">100</factor_vs_1>
+		<factor_vs_2 type="1">150</factor_vs_2>
+		<factor_vs_3 type="1">67</factor_vs_3>
+		<factor_vs_4 type="1">125</factor_vs_4>
+		<factor_vs_5 type="1">80</factor_vs_5>
+		<favor_sequence type="3">2;4;1,6;5;3</favor_sequence>
+		<name type="3">career_sys_name_1</name>
+		<icon type="3">Career#zhanshi</icon>
+		<factor_vs_6 type="1">100</factor_vs_6>
+	</career_family>
+	<career_family>
+		<id type="1">2</id>
+		<factor_vs_1 type="1">67</factor_vs_1>
+		<factor_vs_2 type="1">100</factor_vs_2>
+		<factor_vs_3 type="1">150</factor_vs_3>
+		<factor_vs_4 type="1">125</factor_vs_4>
+		<factor_vs_5 type="1">80</factor_vs_5>
+		<favor_sequence type="3">3;4;2,6;5;1</favor_sequence>
+		<name type="3">career_sys_name_2</name>
+		<icon type="3">Career#gongjianshou</icon>
+		<factor_vs_6 type="1">100</factor_vs_6>
+	</career_family>
+	<career_family>
+		<id type="1">3</id>
+		<factor_vs_1 type="1">150</factor_vs_1>
+		<factor_vs_2 type="1">67</factor_vs_2>
+		<factor_vs_3 type="1">100</factor_vs_3>
+		<factor_vs_4 type="1">125</factor_vs_4>
+		<factor_vs_5 type="1">80</factor_vs_5>
+		<favor_sequence type="3">1;4;3,6;5;2</favor_sequence>
+		<name type="3">career_sys_name_3</name>
+		<icon type="3">Career#moshushi</icon>
+		<factor_vs_6 type="1">100</factor_vs_6>
+	</career_family>
+	<career_family>
+		<id type="1">4</id>
+		<factor_vs_1 type="1">80</factor_vs_1>
+		<factor_vs_2 type="1">80</factor_vs_2>
+		<factor_vs_3 type="1">80</factor_vs_3>
+		<factor_vs_4 type="1">100</factor_vs_4>
+		<factor_vs_5 type="1">200</factor_vs_5>
+		<favor_sequence type="3">5;4,6;1,2,3</favor_sequence>
+		<name type="3">career_sys_name_4</name>
+		<icon type="3">Career#fushi</icon>
+		<factor_vs_6 type="1">100</factor_vs_6>
+	</career_family>
+	<career_family>
+		<id type="1">5</id>
+		<factor_vs_1 type="1">125</factor_vs_1>
+		<factor_vs_2 type="1">125</factor_vs_2>
+		<factor_vs_3 type="1">125</factor_vs_3>
+		<factor_vs_4 type="1">50</factor_vs_4>
+		<factor_vs_5 type="1">100</factor_vs_5>
+		<favor_sequence type="3">1,2,3;5,6;4</favor_sequence>
+		<name type="3">career_sys_name_5</name>
+		<icon type="3">Career#daozei</icon>
+		<factor_vs_6 type="1">100</factor_vs_6>
+	</career_family>
+	<career_family>
+		<id type="1">6</id>
+		<factor_vs_1 type="1">100</factor_vs_1>
+		<factor_vs_2 type="1">100</factor_vs_2>
+		<factor_vs_3 type="1">100</factor_vs_3>
+		<factor_vs_4 type="1">100</factor_vs_4>
+		<factor_vs_5 type="1">100</factor_vs_5>
+		<favor_sequence type="3">1,2,3,4,5,6</favor_sequence>
+		<name type="3">career_sys_name_6</name>
+		<icon type="3">Career#shangren</icon>
+		<factor_vs_6 type="1">100</factor_vs_6>
+	</career_family>
+</dataroot>

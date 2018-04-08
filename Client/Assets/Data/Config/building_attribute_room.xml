@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<building_attribute_room>
+		<add_attribute type="3">101,1</add_attribute>
+		<id type="1">30101</id>
+		<mark type="3">花卉花园功能等级1</mark>
+		<total_attribute type="3">101,1</total_attribute>
+	</building_attribute_room>
+	<building_attribute_room>
+		<add_attribute type="3">101,1</add_attribute>
+		<id type="1">30102</id>
+		<mark type="3">花卉花园功能等级2</mark>
+		<total_attribute type="3">101,2</total_attribute>
+	</building_attribute_room>
+	<building_attribute_room>
+		<add_attribute type="3">101,1</add_attribute>
+		<id type="1">30103</id>
+		<mark type="3">花卉花园功能等级3</mark>
+		<total_attribute type="3">101,3</total_attribute>
+	</building_attribute_room>
+	<building_attribute_room>
+		<add_attribute type="3">101,1</add_attribute>
+		<id type="1">30104</id>
+		<mark type="3">花卉花园功能等级4</mark>
+		<total_attribute type="3">101,4</total_attribute>
+	</building_attribute_room>
+	<building_attribute_room>
+		<add_attribute type="3">101,1</add_attribute>
+		<id type="1">30105</id>
+		<mark type="3">花卉花园功能等级5</mark>
+		<total_attribute type="3">101,5</total_attribute>
+	</building_attribute_room>
+	<building_attribute_room>
+		<add_attribute type="3">141,1</add_attribute>
+		<id type="1">30201</id>
+		<mark type="3">森林花园功能等级1</mark>
+		<total_attribute type="3">141,1</total_attribute>
+	</building_attribute_room>
+	<building_attribute_room>
+		<add_attribute type="3">141,1</add_attribute>
+		<id type="1">30202</id>
+		<mark type="3">森林花园功能等级2</mark>
+		<total_attribute type="3">141,2</total_attribute>
+	</building_attribute_room>
+	<building_attribute_room>
+		<add_attribute type="3">141,1</add_attribute>
+		<id type="1">30203</id>
+		<mark type="3">森林花园功能等级3</mark>
+		<total_attribute type="3">141,3</total_attribute>
+	</building_attribute_room>
+	<building_attribute_room>
+		<add_attribute type="3">141,1</add_attribute>
+		<id type="1">30204</id>
+		<mark type="3">森林花园功能等级4</mark>
+		<total_attribute type="3">141,4</total_attribute>
+	</building_attribute_room>
+	<building_attribute_room>
+		<add_attribute type="3">141,1</add_attribute>
+		<id type="1">30205</id>
+		<mark type="3">森林花园功能等级5</mark>
+		<total_attribute type="3">141,5</total_attribute>
+	</building_attribute_room>
+	<building_attribute_room>
+		<add_attribute type="3">121,1</add_attribute>
+		<id type="1">30301</id>
+		<mark type="3">丛林花园功能等级1</mark>
+		<total_attribute type="3">121,1</total_attribute>
+	</building_attribute_room>
+	<building_attribute_room>
+		<add_attribute type="3">121,1</add_attribute>
+		<id type="1">30302</id>
+		<mark type="3">丛林花园功能等级2</mark>
+		<total_attribute type="3">121,2</total_attribute>
+	</building_attribute_room>
+	<building_attribute_room>
+		<add_attribute type="3">121,1</add_attribute>
+		<id type="1">30303</id>
+		<mark type="3">丛林花园功能等级3</mark>
+		<total_attribute type="3">121,3</total_attribute>
+	</building_attribute_room>
+	<building_attribute_room>
+		<add_attribute type="3">121,1</add_attribute>
+		<id type="1">30304</id>
+		<mark type="3">丛林花园功能等级4</mark>
+		<total_attribute type="3">121,4</total_attribute>
+	</building_attribute_room>
+	<building_attribute_room>
+		<add_attribute type="3">121,1</add_attribute>
+		<id type="1">30305</id>
+		<mark type="3">丛林花园功能等级5</mark>
+		<total_attribute type="3">121,5</total_attribute>
+	</building_attribute_room>
+</dataroot>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<map_district>
+		<id type="1">10001</id>
+		<name type="3">district_name_10001</name>
+		<description type="3">district_description_10001</description>
+		<father_outpost_id type="1">-1</father_outpost_id>
+		<type type="1">6</type>
+		<para type="3">2</para>
+		<map_id type="1">1</map_id>
+	</map_district>
+	<map_district>
+		<id type="1">10002</id>
+		<name type="3">district_name_10002</name>
+		<description type="3">district_description_10002</description>
+		<father_outpost_id type="1">-1</father_outpost_id>
+		<type type="1">3</type>
+		<para type="3">1,1</para>
+		<map_id type="1">1</map_id>
+	</map_district>
+	<map_district>
+		<id type="1">10003</id>
+		<name type="3">district_name_10003</name>
+		<description type="3">district_description_10003</description>
+		<father_outpost_id type="1">-1</father_outpost_id>
+		<type type="1">6</type>
+		<para type="3">1001</para>
+		<map_id type="1">1</map_id>
+	</map_district>
+	<map_district>
+		<id type="1">10004</id>
+		<name type="3">district_name_10004</name>
+		<description type="3">district_description_10004</description>
+		<father_outpost_id type="1">10002</father_outpost_id>
+		<type type="1">1</type>
+		<para type="3">-1</para>
+		<map_id type="1">1</map_id>
+	</map_district>
+	<map_district>
+		<id type="1">10005</id>
+		<name type="3">district_name_10005</name>
+		<description type="3">district_description_10005</description>
+		<father_outpost_id type="1">10002</father_outpost_id>
+		<type type="1">1</type>
+		<para type="3">-1</para>
+		<map_id type="1">1</map_id>
+	</map_district>
+	<map_district>
+		<id type="1">10006</id>
+		<name type="3">district_name_10006</name>
+		<description type="3">district_description_10006</description>
+		<father_outpost_id type="1">10002</father_outpost_id>
+		<type type="1">1</type>
+		<para type="3">-1</para>
+		<map_id type="1">1</map_id>
+	</map_district>
+	<map_district>
+		<id type="1">10007</id>
+		<name type="3">district_name_10007</name>
+		<description type="3">district_description_10007</description>
+		<father_outpost_id type="1">10002</father_outpost_id>
+		<type type="1">6</type>
+		<para type="3">1101</para>
+		<map_id type="1">1</map_id>
+	</map_district>
+	<map_district>
+		<id type="1">10008</id>
+		<name type="3">district_name_10008</name>
+		<description type="3">district_description_10008</description>
+		<father_outpost_id type="1">10002</father_outpost_id>
+		<type type="1">1</type>
+		<para type="3">-1</para>
+		<map_id type="1">1</map_id>
+	</map_district>
+	<map_district>
+		<id type="1">10009</id>
+		<name type="3">district_name_10009</name>
+		<description type="3">district_description_10009</description>
+		<father_outpost_id type="1">10002</father_outpost_id>
+		<type type="1">3</type>
+		<para type="3">1,1</para>
+		<map_id type="1">1</map_id>
+	</map_district>
+	<map_district>
+		<id type="1">10010</id>
+		<name type="3">district_name_10010</name>
+		<description type="3">district_description_10010</description>
+		<father_outpost_id type="1">10002</father_outpost_id>
+		<type type="1">1</type>
+		<para type="3">-1</para>
+		<map_id type="1">1</map_id>
+	</map_district>
+	<map_district>
+		<id type="1">10011</id>
+		<name type="3">district_name_10011</name>
+		<description type="3">district_description_10011</description>
+		<father_outpost_id type="1">10002</father_outpost_id>
+		<type type="1">6</type>
+		<para type="3">1001</para>
+		<map_id type="1">1</map_id>
+	</map_district>
+	<map_district>
+		<id type="1">10012</id>
+		<name type="3">district_name_10012</name>
+		<description type="3">district_description_10012</description>
+		<father_outpost_id type="1">10002</father_outpost_id>
+		<type type="1">3</type>
+		<para type="3">1,1</para>
+		<map_id type="1">1</map_id>
+	</map_district>
+	<map_district>
+		<id type="1">10013</id>
+		<name type="3">district_name_10013</name>
+		<description type="3">district_description_10013</description>
+		<father_outpost_id type="1">10009</father_outpost_id>
+		<type type="1">1</type>
+		<para type="3">-1</para>
+		<map_id type="1">1</map_id>
+	</map_district>
+	<map_district>
+		<id type="1">10014</id>
+		<name type="3">district_name_10014</name>
+		<description type="3">district_description_10014</description>
+		<father_outpost_id type="1">10009</father_outpost_id>
+		<type type="1">3</type>
+		<para type="3">1,1</para>
+		<map_id type="1">1</map_id>
+	</map_district>
+	<map_district>
+		<id type="1">10015</id>
+		<name type="3">district_name_10015</name>
+		<description type="3">district_description_10015</description>
+		<father_outpost_id type="1">10012</father_outpost_id>
+		<type type="1">1</type>
+		<para type="3">-1</para>
+		<map_id type="1">1</map_id>
+	</map_district>
+	<map_district>
+		<id type="1">10016</id>
+		<name type="3">district_name_10016</name>
+		<description type="3">district_description_10016</description>
+		<father_outpost_id type="1">10012</father_outpost_id>
+		<type type="1">3</type>
+		<para type="3">1,1</para>
+		<map_id type="1">1</map_id>
+	</map_district>
+	<map_district>
+		<id type="1">10017</id>
+		<name type="3">district_name_10017</name>
+		<description type="3">district_description_10017</description>
+		<father_outpost_id type="1">10016</father_outpost_id>
+		<type type="1">6</type>
+		<para type="3">1001</para>
+		<map_id type="1">1</map_id>
+	</map_district>
+	<map_district>
+		<id type="1">10018</id>
+		<name type="3">district_name_10018</name>
+		<description type="3">district_description_10018</description>
+		<father_outpost_id type="1">10016</father_outpost_id>
+		<type type="1">1</type>
+		<para type="3">-1</para>
+		<map_id type="1">1</map_id>
+	</map_district>
+	<map_district>
+		<id type="1">10019</id>
+		<name type="3">district_name_10019</name>
+		<description type="3">district_description_10019</description>
+		<father_outpost_id type="1">10014</father_outpost_id>
+		<type type="1">6</type>
+		<para type="3">1101</para>
+		<map_id type="1">1</map_id>
+	</map_district>
+	<map_district>
+		<id type="1">10020</id>
+		<name type="3">district_name_10020</name>
+		<description type="3">district_description_10020</description>
+		<father_outpost_id type="1">10014</father_outpost_id>
+		<type type="1">1</type>
+		<para type="3">-1</para>
+		<map_id type="1">1</map_id>
+	</map_district>
+	<map_district>
+		<id type="1">10021</id>
+		<name type="3">district_name_10021</name>
+		<description type="3">district_description_10021</description>
+		<father_outpost_id type="1">10016</father_outpost_id>
+		<type type="1">1</type>
+		<para type="3">-1</para>
+		<map_id type="1">1</map_id>
+	</map_district>
+</dataroot>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<diyraid_effect_condition>
+		<id type="1">1</id>
+		<type type="1">1</type>
+		<need_fragment type="3">21,3</need_fragment>
+		<effect_condition_desc type="3">effect_condition_desc_1</effect_condition_desc>
+	</diyraid_effect_condition>
+	<diyraid_effect_condition>
+		<id type="1">2</id>
+		<type type="1">1</type>
+		<need_fragment type="3">21,2;22,2</need_fragment>
+		<effect_condition_desc type="3">effect_condition_desc_2</effect_condition_desc>
+	</diyraid_effect_condition>
+</dataroot>

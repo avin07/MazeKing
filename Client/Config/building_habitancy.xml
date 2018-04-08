@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<building_habitancy>
+		<id type="1">701</id>
+		<live_limit type="1">2</live_limit>
+		<mark type="3">居民房功能等级1级</mark>
+	</building_habitancy>
+	<building_habitancy>
+		<id type="1">702</id>
+		<live_limit type="1">2</live_limit>
+		<mark type="3">居民房功能等级2级</mark>
+	</building_habitancy>
+	<building_habitancy>
+		<id type="1">703</id>
+		<live_limit type="1">2</live_limit>
+		<mark type="3">居民房功能等级3级</mark>
+	</building_habitancy>
+	<building_habitancy>
+		<id type="1">704</id>
+		<live_limit type="1">2</live_limit>
+		<mark type="3">居民房功能等级4级</mark>
+	</building_habitancy>
+	<building_habitancy>
+		<id type="1">705</id>
+		<live_limit type="1">2</live_limit>
+		<mark type="3">居民房功能等级5级</mark>
+	</building_habitancy>
+</dataroot>

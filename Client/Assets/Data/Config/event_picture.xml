@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<event_picture>
+		<id type="1">1</id>
+		<picture type="3">DialogBg#1</picture>
+	</event_picture>
+	<event_picture>
+		<id type="1">2</id>
+		<picture type="3">DialogBg#2</picture>
+	</event_picture>
+</dataroot>

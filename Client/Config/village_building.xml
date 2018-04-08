@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<village_building>
+		<id type="1">101</id>
+		<building_type type="1">1006</building_type>
+		<level type="1">1</level>
+		<avatar type="1">0</avatar>
+	</village_building>
+	<village_building>
+		<id type="1">102</id>
+		<building_type type="1">1007</building_type>
+		<level type="1">1</level>
+		<avatar type="1">0</avatar>
+	</village_building>
+	<village_building>
+		<id type="1">103</id>
+		<building_type type="1">1008</building_type>
+		<level type="1">1</level>
+		<avatar type="1">0</avatar>
+	</village_building>
+	<village_building>
+		<id type="1">104</id>
+		<building_type type="1">1010</building_type>
+		<level type="1">1</level>
+		<avatar type="1">0</avatar>
+	</village_building>
+	<village_building>
+		<id type="1">105</id>
+		<building_type type="1">1012</building_type>
+		<level type="1">1</level>
+		<avatar type="1">0</avatar>
+	</village_building>
+	<village_building>
+		<id type="1">106</id>
+		<building_type type="1">1009</building_type>
+		<level type="1">1</level>
+		<avatar type="1">0</avatar>
+	</village_building>
+	<village_building>
+		<id type="1">107</id>
+		<building_type type="1">1013</building_type>
+		<level type="1">1</level>
+		<avatar type="1">0</avatar>
+	</village_building>
+	<village_building>
+		<id type="1">108</id>
+		<building_type type="1">1011</building_type>
+		<level type="1">1</level>
+		<avatar type="1">0</avatar>
+	</village_building>
+</dataroot>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<npc_house_visitor>
+		<id type="1">1</id>
+		<mark type="3">随机恶癖清除</mark>
+		<photo type="3">1</photo>
+		<name type="3">visitor_name_1</name>
+		<desc type="3">visitor_desc_1</desc>
+		<get_type type="1">1</get_type>
+		<get_parameter type="3">2</get_parameter>
+		<get_per type="1">100</get_per>
+		<pay_type type="1">1</pay_type>
+		<pay_parameter type="3">2001</pay_parameter>
+		<is_choose type="1">1</is_choose>
+	</npc_house_visitor>
+	<npc_house_visitor>
+		<id type="1">2</id>
+		<mark type="3">多条选一条美德获取</mark>
+		<photo type="3">2</photo>
+		<name type="3">visitor_name_2</name>
+		<desc type="3">visitor_desc_2</desc>
+		<get_type type="1">2</get_type>
+		<get_parameter type="3">1001,1002,1003</get_parameter>
+		<get_per type="1">100</get_per>
+		<pay_type type="1">2</pay_type>
+		<pay_parameter type="3">1,1,1000</pay_parameter>
+		<is_choose type="1">1</is_choose>
+	</npc_house_visitor>
+	<npc_house_visitor>
+		<id type="1">3</id>
+		<mark type="3">单人经验获取</mark>
+		<photo type="3">3</photo>
+		<name type="3">visitor_name_3</name>
+		<desc type="3">visitor_desc_3</desc>
+		<get_type type="1">3</get_type>
+		<get_parameter type="3">100</get_parameter>
+		<get_per type="1">100</get_per>
+		<pay_type type="1">3</pay_type>
+		<pay_parameter type="3">40</pay_parameter>
+		<is_choose type="1">1</is_choose>
+	</npc_house_visitor>
+	<npc_house_visitor>
+		<id type="1">4</id>
+		<mark type="3">单人技能升级</mark>
+		<photo type="3">4</photo>
+		<name type="3">visitor_name_4</name>
+		<desc type="3">visitor_desc_4</desc>
+		<get_type type="1">4</get_type>
+		<get_parameter type="3">0</get_parameter>
+		<get_per type="1">100</get_per>
+		<pay_type type="1">4</pay_type>
+		<pay_parameter type="3">120</pay_parameter>
+		<is_choose type="1">1</is_choose>
+	</npc_house_visitor>
+	<npc_house_visitor>
+		<id type="1">5</id>
+		<mark type="3">单人压力清除</mark>
+		<photo type="3">5</photo>
+		<name type="3">visitor_name_5</name>
+		<desc type="3">visitor_desc_5</desc>
+		<get_type type="1">5</get_type>
+		<get_parameter type="3">100</get_parameter>
+		<get_per type="1">100</get_per>
+		<pay_type type="1">2</pay_type>
+		<pay_parameter type="3">1,1,1000</pay_parameter>
+		<is_choose type="1">1</is_choose>
+	</npc_house_visitor>
+	<npc_house_visitor>
+		<id type="1">6</id>
+		<mark type="3">全局压力清除</mark>
+		<photo type="3">6</photo>
+		<name type="3">visitor_name_6</name>
+		<desc type="3">visitor_desc_6</desc>
+		<get_type type="1">6</get_type>
+		<get_parameter type="3">30</get_parameter>
+		<get_per type="1">100</get_per>
+		<pay_type type="1">2</pay_type>
+		<pay_parameter type="3">1,1,1000</pay_parameter>
+		<is_choose type="1">0</is_choose>
+	</npc_house_visitor>
+	<npc_house_visitor>
+		<id type="1">7</id>
+		<mark type="3">本回合食物回复</mark>
+		<photo type="3">7</photo>
+		<name type="3">visitor_name_7</name>
+		<desc type="3">visitor_desc_7</desc>
+		<get_type type="1">7</get_type>
+		<get_parameter type="3">50</get_parameter>
+		<get_per type="1">100</get_per>
+		<pay_type type="1">2</pay_type>
+		<pay_parameter type="3">1,1,1000</pay_parameter>
+		<is_choose type="1">0</is_choose>
+	</npc_house_visitor>
+	<npc_house_visitor>
+		<id type="1">8</id>
+		<mark type="3">指定item或equip获取</mark>
+		<photo type="3">8</photo>
+		<name type="3">visitor_name_8</name>
+		<desc type="3">visitor_desc_8</desc>
+		<get_type type="1">8</get_type>
+		<get_parameter type="3">3,101,10;4,201,1;4,101,1</get_parameter>
+		<get_per type="1">50</get_per>
+		<pay_type type="1">2</pay_type>
+		<pay_parameter type="3">1,1,1000</pay_parameter>
+		<is_choose type="1">0</is_choose>
+	</npc_house_visitor>
+	<npc_house_visitor>
+		<id type="1">9</id>
+		<mark type="3">item或equip价值抽取</mark>
+		<photo type="3">9</photo>
+		<name type="3">visitor_name_9</name>
+		<desc type="3">visitor_desc_9</desc>
+		<get_type type="1">9</get_type>
+		<get_parameter type="3">100101</get_parameter>
+		<get_per type="1">100</get_per>
+		<pay_type type="1">2</pay_type>
+		<pay_parameter type="3">1,1,1000</pay_parameter>
+		<is_choose type="1">0</is_choose>
+	</npc_house_visitor>
+	<npc_house_visitor>
+		<id type="1">10</id>
+		<mark type="3">驿站强力英雄获取</mark>
+		<photo type="3">10</photo>
+		<name type="3">visitor_name_10</name>
+		<desc type="3">visitor_desc_10</desc>
+		<get_type type="1">10</get_type>
+		<get_parameter type="3">3001</get_parameter>
+		<get_per type="1">100</get_per>
+		<pay_type type="1">2</pay_type>
+		<pay_parameter type="3">1,1,1000</pay_parameter>
+		<is_choose type="1">0</is_choose>
+	</npc_house_visitor>
+	<npc_house_visitor>
+		<id type="1">11</id>
+		<mark type="3">奖励副本获取</mark>
+		<photo type="3">11</photo>
+		<name type="3">visitor_name_11</name>
+		<desc type="3">visitor_desc_11</desc>
+		<get_type type="1">11</get_type>
+		<get_parameter type="3">101</get_parameter>
+		<get_per type="1">100</get_per>
+		<pay_type type="1">2</pay_type>
+		<pay_parameter type="3">1,1,1000</pay_parameter>
+		<is_choose type="1">0</is_choose>
+	</npc_house_visitor>
+	<npc_house_visitor>
+		<id type="1">12</id>
+		<mark type="3">固定美德获取</mark>
+		<photo type="3">12</photo>
+		<name type="3">visitor_name_12</name>
+		<desc type="3">visitor_desc_12</desc>
+		<get_type type="1">2</get_type>
+		<get_parameter type="3">1005</get_parameter>
+		<get_per type="1">100</get_per>
+		<pay_type type="1">2</pay_type>
+		<pay_parameter type="3">1,1,500</pay_parameter>
+		<is_choose type="1">1</is_choose>
+	</npc_house_visitor>
+</dataroot>

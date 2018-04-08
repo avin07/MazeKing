@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<building_home_area>
+		<id type="1">1</id>
+		<mark type="3">区域1（初始）</mark>
+		<relic_position type="3">176404,4;</relic_position>
+		<treasure_brick type="3">1,15;2,15;3,10</treasure_brick>
+		<unlock_building type="1">0</unlock_building>
+		<unlock_effect_position type="3"/>
+		<unlock_effect type="3"/>
+	</building_home_area>
+	<building_home_area>
+		<id type="1">2</id>
+		<mark type="3">区域2</mark>
+		<relic_position type="3">35104,8;</relic_position>
+		<treasure_brick type="3">5,3;6,4;7,1</treasure_brick>
+		<unlock_building type="1">0</unlock_building>
+		<unlock_effect_position type="3">4,4</unlock_effect_position>
+		<unlock_effect type="3">effect_unlock_area_1</unlock_effect>
+	</building_home_area>
+	<building_home_area>
+		<id type="1">3</id>
+		<mark type="3">区域3</mark>
+		<relic_position type="3">19804,12;</relic_position>
+		<treasure_brick type="3">9,3;10,4;11,1</treasure_brick>
+		<unlock_building type="1">0</unlock_building>
+		<unlock_effect_position type="3">44,6</unlock_effect_position>
+		<unlock_effect type="3">effect_unlock_area_2</unlock_effect>
+	</building_home_area>
+	<building_home_area>
+		<id type="1">4</id>
+		<mark type="3">区域4</mark>
+		<relic_position type="3">164604,16;</relic_position>
+		<treasure_brick type="3">13,3;14,4;15,1</treasure_brick>
+		<unlock_building type="1">0</unlock_building>
+		<unlock_effect_position type="3">45,33</unlock_effect_position>
+		<unlock_effect type="3">effect_unlock_area_3</unlock_effect>
+	</building_home_area>
+	<building_home_area>
+		<id type="1">5</id>
+		<mark type="3">区域5</mark>
+		<relic_position type="3">243704,20;</relic_position>
+		<treasure_brick type="3">17,3;18,4;19,1</treasure_brick>
+		<unlock_building type="1">0</unlock_building>
+		<unlock_effect_position type="3">31,46</unlock_effect_position>
+		<unlock_effect type="3">effect_unlock_area_4</unlock_effect>
+	</building_home_area>
+	<building_home_area>
+		<id type="1">6</id>
+		<mark type="3">区域6</mark>
+		<relic_position type="3">235404,24;</relic_position>
+		<treasure_brick type="3">21,3;22,4;23,1</treasure_brick>
+		<unlock_building type="1">0</unlock_building>
+		<unlock_effect_position type="3">3,45</unlock_effect_position>
+		<unlock_effect type="3">effect_unlock_area_5</unlock_effect>
+	</building_home_area>
+</dataroot>

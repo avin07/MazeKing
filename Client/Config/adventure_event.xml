@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<dataroot>
+	<adventure_event>
+		<id type='3'>1</id>
+		<resource type='3'>Treasure1</resource>
+		<type type='3'>1</type>
+	</adventure_event>
+	<adventure_event>
+		<id type='3'>2</id>
+		<resource type='3'>Treasure2</resource>
+		<type type='3'>1</type>
+	</adventure_event>
+</dataroot>

@@ -1,0 +1,1933 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<skill>
+		<id type="1">1</id>
+		<icon type="3">Skill#jineng_11</icon>
+		<type type="1">5</type>
+		<name type="3">camp_skill_name_1</name>
+		<desc type="3">camp_skill_desc_1</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">0</quality>
+		<max_level type="3"/>
+	</skill>
+	<skill>
+		<id type="1">2</id>
+		<icon type="3">Skill#jineng_21</icon>
+		<type type="1">5</type>
+		<name type="3">camp_skill_name_2</name>
+		<desc type="3">camp_skill_desc_2</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">0</quality>
+		<max_level type="3"/>
+	</skill>
+	<skill>
+		<id type="1">3</id>
+		<icon type="3">Skill#jineng_10</icon>
+		<type type="1">5</type>
+		<name type="3">camp_skill_name_3</name>
+		<desc type="3">camp_skill_desc_3</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">0</quality>
+		<max_level type="3"/>
+	</skill>
+	<skill>
+		<id type="1">4</id>
+		<icon type="3">Skill#jineng_34</icon>
+		<type type="1">5</type>
+		<name type="3">camp_skill_name_4</name>
+		<desc type="3">camp_skill_desc_4</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">0</quality>
+		<max_level type="3"/>
+	</skill>
+	<skill>
+		<id type="1">101</id>
+		<icon type="3">Skill#jineng_1</icon>
+		<type type="1">4</type>
+		<name type="3">adventure_skill_name_1</name>
+		<desc type="3">adventure_skill_desc_1</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">0</quality>
+		<max_level type="3"/>
+	</skill>
+	<skill>
+		<id type="1">102</id>
+		<icon type="3">Skill#jineng_2</icon>
+		<type type="1">4</type>
+		<name type="3">adventure_skill_name_2</name>
+		<desc type="3">adventure_skill_desc_2</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">0</quality>
+		<max_level type="3"/>
+	</skill>
+	<skill>
+		<id type="1">103</id>
+		<icon type="3">Skill#jineng_3</icon>
+		<type type="1">4</type>
+		<name type="3">adventure_skill_name_3</name>
+		<desc type="3">adventure_skill_desc_3</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">0</quality>
+		<max_level type="3"/>
+	</skill>
+	<skill>
+		<id type="1">104</id>
+		<icon type="3">Skill#jineng_4</icon>
+		<type type="1">4</type>
+		<name type="3">adventure_skill_name_4</name>
+		<desc type="3">adventure_skill_desc_4</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">0</quality>
+		<max_level type="3"/>
+	</skill>
+	<skill>
+		<id type="1">105</id>
+		<icon type="3">Skill#jineng_5</icon>
+		<type type="1">4</type>
+		<name type="3">adventure_skill_name_5</name>
+		<desc type="3">adventure_skill_desc_5</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">0</quality>
+		<max_level type="3"/>
+	</skill>
+	<skill>
+		<id type="1">106</id>
+		<icon type="3">Skill#jineng_6</icon>
+		<type type="1">4</type>
+		<name type="3">adventure_skill_name_6</name>
+		<desc type="3">adventure_skill_desc_6</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">0</quality>
+		<max_level type="3"/>
+	</skill>
+	<skill>
+		<id type="1">107</id>
+		<icon type="3">Skill#jineng_7</icon>
+		<type type="1">4</type>
+		<name type="3">adventure_skill_name_7</name>
+		<desc type="3">adventure_skill_desc_7</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">0</quality>
+		<max_level type="3"/>
+	</skill>
+	<skill>
+		<id type="1">108</id>
+		<icon type="3">Skill#jineng_8</icon>
+		<type type="1">4</type>
+		<name type="3">adventure_skill_name_8</name>
+		<desc type="3">adventure_skill_desc_8</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">0</quality>
+		<max_level type="3"/>
+	</skill>
+	<skill>
+		<id type="1">10011</id>
+		<icon type="3">Skill#jineng_11</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_10011</name>
+		<desc type="3">skill_desc_10011</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">10012</id>
+		<icon type="3">Skill#jineng_21</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_10012</name>
+		<desc type="3">skill_desc_10012</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">10013</id>
+		<icon type="3">Skill#jineng_10</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_10013</name>
+		<desc type="3">skill_desc_10013</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">10021</id>
+		<icon type="3">Skill#jineng_34</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_10021</name>
+		<desc type="3">skill_desc_10021</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">100211</id>
+		<icon type="3">Skill#jineng_34</icon>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">10022</id>
+		<icon type="3">Skill#jineng_59</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_10022</name>
+		<desc type="3">skill_desc_10022</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">10023</id>
+		<icon type="3">Skill#jineng_90</icon>
+		<type type="1">1</type>
+		<name type="3">skill_name_10023</name>
+		<desc type="3">skill_desc_10023</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">100231</id>
+		<icon type="3">Skill#jineng_90</icon>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">10031</id>
+		<icon type="3">Skill#jineng_36</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_10031</name>
+		<desc type="3">skill_desc_10031</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">100311</id>
+		<icon type="3">Skill#jineng_36</icon>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">10032</id>
+		<icon type="3">Skill#jineng_92</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_10032</name>
+		<desc type="3">skill_desc_10032</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">10033</id>
+		<icon type="3">Skill#jineng_28</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_10033</name>
+		<desc type="3">skill_desc_10033</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">10041</id>
+		<icon type="3">Skill#jineng_25</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_10041</name>
+		<desc type="3">skill_desc_10041</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">10042</id>
+		<icon type="3">Skill#jineng_7</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_10042</name>
+		<desc type="3">skill_desc_10042</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">10043</id>
+		<icon type="3">Skill#jineng_94</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_10043</name>
+		<desc type="3">skill_desc_10043</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">10051</id>
+		<icon type="3">Skill#jineng_32</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_10051</name>
+		<desc type="3">skill_desc_10051</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">10052</id>
+		<icon type="3">Skill#jineng_66</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_10052</name>
+		<desc type="3">skill_desc_10052</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">10053</id>
+		<icon type="3">Skill#jineng_67</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_10053</name>
+		<desc type="3">skill_desc_10053</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">100531</id>
+		<icon type="3">Skill#jineng_67</icon>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">10061</id>
+		<icon type="3">Skill#jineng_3</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_10061</name>
+		<desc type="3">skill_desc_10061</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">10062</id>
+		<icon type="3">Skill#jineng_2</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_10062</name>
+		<desc type="3">skill_desc_10062</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">10063</id>
+		<icon type="3">Skill#jineng_4</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_10063</name>
+		<desc type="3">skill_desc_10063</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">10071</id>
+		<icon type="3">Skill#jineng_98</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_10071</name>
+		<desc type="3">skill_desc_10071</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">10072</id>
+		<icon type="3">Skill#jineng_12</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_10072</name>
+		<desc type="3">skill_desc_10072</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">10073</id>
+		<icon type="3">Skill#jineng_24</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_10073</name>
+		<desc type="3">skill_desc_10073</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">100731</id>
+		<icon type="3">Skill#jineng_24</icon>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">100732</id>
+		<icon type="3">Skill#jineng_24</icon>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">10081</id>
+		<icon type="3">Skill#jineng_3</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_10081</name>
+		<desc type="3">skill_desc_10081</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">10082</id>
+		<icon type="3">Skill#jineng_3</icon>
+		<type type="1">1</type>
+		<name type="3">skill_name_10082</name>
+		<desc type="3">skill_desc_10082</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">100821</id>
+		<icon type="3">Skill#jineng_3</icon>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">11001</id>
+		<icon type="3">Skill#jineng_23</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_11001</name>
+		<desc type="3">skill_desc_11001</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">11002</id>
+		<icon type="3">Skill#jineng_8</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_11002</name>
+		<desc type="3">skill_desc_11002</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">110021</id>
+		<icon type="3">Skill#jineng_8</icon>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">11003</id>
+		<icon type="3">Skill#jineng_95</icon>
+		<type type="1">1</type>
+		<name type="3">skill_name_11003</name>
+		<desc type="3">skill_desc_11003</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">110031</id>
+		<icon type="3">Skill#jineng_95</icon>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">11004</id>
+		<icon type="3">Skill#jineng_3</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_11004</name>
+		<desc type="3">skill_desc_11004</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">11005</id>
+		<icon type="3">Skill#jineng_3</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_11005</name>
+		<desc type="3">skill_desc_11005</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">11006</id>
+		<icon type="3">Skill#jineng_3</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_11006</name>
+		<desc type="3">skill_desc_11006</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">20011</id>
+		<icon type="3">Skill#jineng_59</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_20011</name>
+		<desc type="3">skill_desc_20011</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">20012</id>
+		<icon type="3">Skill#jineng_97</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_20012</name>
+		<desc type="3">skill_desc_20012</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">20013</id>
+		<icon type="3">Skill#jineng_158</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_20013</name>
+		<desc type="3">skill_desc_20013</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">20021</id>
+		<icon type="3">Skill#jineng_151</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_20021</name>
+		<desc type="3">skill_desc_20021</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">200211</id>
+		<icon type="3">Skill#jineng_151</icon>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">20031</id>
+		<icon type="3">Skill#jineng_147</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_20031</name>
+		<desc type="3">skill_desc_20031</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">20032</id>
+		<icon type="3">Skill#jineng_136</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_20032</name>
+		<desc type="3">skill_desc_20032</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">20041</id>
+		<icon type="3">Skill#jineng_128</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_20041</name>
+		<desc type="3">skill_desc_20041</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">20042</id>
+		<icon type="3">Skill#jineng_132</icon>
+		<type type="1">1</type>
+		<name type="3">skill_name_20042</name>
+		<desc type="3">skill_desc_20042</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">20043</id>
+		<icon type="3">Skill#jineng_133</icon>
+		<type type="1">1</type>
+		<name type="3">skill_name_20043</name>
+		<desc type="3">skill_desc_20043</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">200421</id>
+		<icon type="3">Skill#jineng_132</icon>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">200431</id>
+		<icon type="3">Skill#jineng_133</icon>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">20051</id>
+		<icon type="3">Skill#jineng_102</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_20051</name>
+		<desc type="3">skill_desc_20051</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">200511</id>
+		<icon type="3">Skill#jineng_102</icon>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">20061</id>
+		<icon type="3">Skill#jineng_164</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_20061</name>
+		<desc type="3">skill_desc_20061</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">20062</id>
+		<icon type="3">Skill#jineng_163</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_20062</name>
+		<desc type="3">skill_desc_20062</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">20063</id>
+		<icon type="3">Skill#jineng_17</icon>
+		<type type="1">1</type>
+		<name type="3">skill_name_20063</name>
+		<desc type="3">skill_desc_20063</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">20071</id>
+		<icon type="3">Skill#jineng_111</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_20071</name>
+		<desc type="3">skill_desc_20071</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">200711</id>
+		<icon type="3">Skill#jineng_111</icon>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">20072</id>
+		<icon type="3">Skill#jineng_154</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_20072</name>
+		<desc type="3">skill_desc_20072</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">20073</id>
+		<icon type="3">Skill#jineng_155</icon>
+		<type type="1">1</type>
+		<name type="3">skill_name_20073</name>
+		<desc type="3">skill_desc_20073</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">20081</id>
+		<icon type="3">Skill#jineng_173</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_20081</name>
+		<desc type="3">skill_desc_20081</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">20082</id>
+		<icon type="3">Skill#jineng_10</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_20082</name>
+		<desc type="3">skill_desc_20082</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">20083</id>
+		<icon type="3">Skill#jineng_142</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_20083</name>
+		<desc type="3">skill_desc_20083</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">20091</id>
+		<icon type="3">Skill#jineng_21</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_10012</name>
+		<desc type="3">skill_desc_10012</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">1001</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_1001</name>
+		<desc type="3">specificity_desc_1001</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">1002</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_1002</name>
+		<desc type="3">specificity_desc_1002</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">1003</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_1003</name>
+		<desc type="3">specificity_desc_1003</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">1004</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_1004</name>
+		<desc type="3">specificity_desc_1004</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">1005</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_1005</name>
+		<desc type="3">specificity_desc_1005</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">1006</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_1006</name>
+		<desc type="3">specificity_desc_1006</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">1007</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_1007</name>
+		<desc type="3">specificity_desc_1007</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">1008</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_1008</name>
+		<desc type="3">specificity_desc_1008</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">1101</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_1101</name>
+		<desc type="3">specificity_desc_1101</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">11011</id>
+		<icon type="3"/>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">1102</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_1102</name>
+		<desc type="3">specificity_desc_1102</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">11012</id>
+		<icon type="3"/>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">1103</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_1103</name>
+		<desc type="3">specificity_desc_1103</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">1104</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_1104</name>
+		<desc type="3">specificity_desc_1104</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">1105</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_1105</name>
+		<desc type="3">specificity_desc_1105</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">1106</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_1106</name>
+		<desc type="3">specificity_desc_1106</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">1107</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_1107</name>
+		<desc type="3">specificity_desc_1107</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">1108</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_1108</name>
+		<desc type="3">specificity_desc_1108</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">1109</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_1109</name>
+		<desc type="3">specificity_desc_1109</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">2001</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_2001</name>
+		<desc type="3">specificity_desc_2001</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">2002</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_2002</name>
+		<desc type="3">specificity_desc_2002</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">2003</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_2003</name>
+		<desc type="3">specificity_desc_2003</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">2004</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_2004</name>
+		<desc type="3">specificity_desc_2004</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">2005</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_2005</name>
+		<desc type="3">specificity_desc_2005</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">2006</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_2006</name>
+		<desc type="3">specificity_desc_2006</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">2007</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_2007</name>
+		<desc type="3">specificity_desc_2007</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">2008</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_2008</name>
+		<desc type="3">specificity_desc_2008</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">2009</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_2009</name>
+		<desc type="3">specificity_desc_2009</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">2010</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_2010</name>
+		<desc type="3">specificity_desc_2010</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">2101</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_2101</name>
+		<desc type="3">specificity_desc_2101</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">21011</id>
+		<icon type="3"/>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">2102</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_2102</name>
+		<desc type="3">specificity_desc_2102</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">21021</id>
+		<icon type="3"/>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">2103</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_2103</name>
+		<desc type="3">specificity_desc_2103</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">2104</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_2104</name>
+		<desc type="3">specificity_desc_2104</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">2105</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_2105</name>
+		<desc type="3">specificity_desc_2105</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">2106</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_2106</name>
+		<desc type="3">specificity_desc_2106</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">2107</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_2107</name>
+		<desc type="3">specificity_desc_2107</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">2108</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_2108</name>
+		<desc type="3">specificity_desc_2108</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">2109</id>
+		<icon type="3"/>
+		<type type="1">1</type>
+		<name type="3">specificity_name_2109</name>
+		<desc type="3">specificity_desc_2109</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">3000</id>
+		<icon type="3">Skill#jineng_11</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_3000</name>
+		<desc type="3">skill_desc_3000</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">3001</id>
+		<icon type="3">Skill#jineng_34</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_3001</name>
+		<desc type="3">skill_desc_3001</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">3002</id>
+		<icon type="3">Skill#jineng_64</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_3002</name>
+		<desc type="3">skill_desc_3002</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">30021</id>
+		<icon type="3">Skill#jineng_64</icon>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">3003</id>
+		<icon type="3">Skill#jineng_59</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_3003</name>
+		<desc type="3">skill_desc_3003</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">3004</id>
+		<icon type="3">Skill#jineng_99</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_3004</name>
+		<desc type="3">skill_desc_3004</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">3005</id>
+		<icon type="3">Skill#jineng_10</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_3005</name>
+		<desc type="3">skill_desc_3005</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">3006</id>
+		<icon type="3">Skill#jineng_19</icon>
+		<type type="1">1</type>
+		<name type="3">skill_name_3006</name>
+		<desc type="3">skill_desc_3006</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">30061</id>
+		<icon type="3">Skill#jineng_19</icon>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">3007</id>
+		<icon type="3">Skill#jineng_93</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_3007</name>
+		<desc type="3">skill_desc_3007</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">3008</id>
+		<icon type="3">Skill#jineng_55</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_3008</name>
+		<desc type="3">skill_desc_3008</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">30081</id>
+		<icon type="3">Skill#jineng_55</icon>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">3009</id>
+		<icon type="3">Skill#jineng_58</icon>
+		<type type="1">1</type>
+		<name type="3">skill_name_3009</name>
+		<desc type="3">skill_desc_3009</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">3010</id>
+		<icon type="3">Skill#jineng_6</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_3010</name>
+		<desc type="3">skill_desc_3010</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">3011</id>
+		<icon type="3">Skill#jineng_87</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_3011</name>
+		<desc type="3">skill_desc_3011</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">3012</id>
+		<icon type="3">Skill#jineng_76</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_3012</name>
+		<desc type="3">skill_desc_3012</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">3013</id>
+		<icon type="3">Skill#jineng_1</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_3013</name>
+		<desc type="3">skill_desc_3013</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">3014</id>
+		<icon type="3">Skill#jineng_12</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_3014</name>
+		<desc type="3">skill_desc_3014</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">3015</id>
+		<icon type="3">Skill#jineng_8</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_3015</name>
+		<desc type="3">skill_desc_3015</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">3016</id>
+		<icon type="3">Skill#jineng_44</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_3016</name>
+		<desc type="3">skill_desc_3016</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">3017</id>
+		<icon type="3">Skill#jineng_7</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_3017</name>
+		<desc type="3">skill_desc_3017</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">4000</id>
+		<icon type="3">Skill#jineng_72</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_4000</name>
+		<desc type="3">skill_desc_4000</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">4001</id>
+		<icon type="3">Skill#jineng_43</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_4001</name>
+		<desc type="3">skill_desc_4001</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">40011</id>
+		<icon type="3">Skill#jineng_43</icon>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">4002</id>
+		<icon type="3">Skill#jineng_27</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_4002</name>
+		<desc type="3">skill_desc_4002</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">4003</id>
+		<icon type="3">Skill#jineng_81</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_4003</name>
+		<desc type="3">skill_desc_4003</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">4004</id>
+		<icon type="3">Skill#jineng_88</icon>
+		<type type="1">1</type>
+		<name type="3">skill_name_4004</name>
+		<desc type="3">skill_desc_4004</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">40041</id>
+		<icon type="3">Skill#jineng_88</icon>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">4005</id>
+		<icon type="3">Skill#jineng_23</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_4005</name>
+		<desc type="3">skill_desc_4005</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">4006</id>
+		<icon type="3">Skill#jineng_91</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_4006</name>
+		<desc type="3">skill_desc_4006</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">4007</id>
+		<icon type="3">Skill#jineng_52</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_4007</name>
+		<desc type="3">skill_desc_4007</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">5000</id>
+		<icon type="3">Skill#jineng_37</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_5000</name>
+		<desc type="3">skill_desc_5000</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">5001</id>
+		<icon type="3">Skill#jineng_25</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_5001</name>
+		<desc type="3">skill_desc_5001</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">5002</id>
+		<icon type="3">Skill#jineng_91</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_5002</name>
+		<desc type="3">skill_desc_5002</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">5003</id>
+		<icon type="3">Skill#jineng_43</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_5003</name>
+		<desc type="3">skill_desc_5003</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">5004</id>
+		<icon type="3">Skill#jineng_49</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_5004</name>
+		<desc type="3">skill_desc_5004</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">5006</id>
+		<icon type="3">Skill#jineng_75</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_5006</name>
+		<desc type="3">skill_desc_5006</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">5007</id>
+		<icon type="3">Skill#jineng_52</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_5007</name>
+		<desc type="3">skill_desc_5007</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">5008</id>
+		<icon type="3">Skill#jineng_46</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_5008</name>
+		<desc type="3">skill_desc_5008</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">5009</id>
+		<icon type="3">Skill#jineng_94</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_5009</name>
+		<desc type="3">skill_desc_5009</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">6000</id>
+		<icon type="3">Skill#jineng_80</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_6000</name>
+		<desc type="3">skill_desc_6000</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">60001</id>
+		<icon type="3">Skill#jineng_80</icon>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">6002</id>
+		<icon type="3">Skill#jineng_29</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_6002</name>
+		<desc type="3">skill_desc_6002</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">6004</id>
+		<icon type="3">Skill#jineng_42</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_6004</name>
+		<desc type="3">skill_desc_6004</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">7000</id>
+		<icon type="3">Skill#jineng_66</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_7000</name>
+		<desc type="3">skill_desc_7000</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">7003</id>
+		<icon type="3">Skill#jineng_77</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_7003</name>
+		<desc type="3">skill_desc_7003</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">7004</id>
+		<icon type="3">Skill#jineng_97</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_7004</name>
+		<desc type="3">skill_desc_7004</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">7005</id>
+		<icon type="3">Skill#jineng_150</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_7005</name>
+		<desc type="3">skill_desc_7005</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">3</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">7007</id>
+		<icon type="3">Skill#jineng_10</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_7007</name>
+		<desc type="3">skill_desc_7007</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">21001</id>
+		<icon type="3">Skill#jineng_23</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_21001</name>
+		<desc type="3">skill_desc_21001</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">21002</id>
+		<icon type="3">Skill#jineng_6</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_21002</name>
+		<desc type="3">skill_desc_21002</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">2</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">21003</id>
+		<icon type="3">Skill#jineng_12</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_21003</name>
+		<desc type="3">skill_desc_21003</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">3</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">21004</id>
+		<icon type="3">Skill#jineng_8</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_21004</name>
+		<desc type="3">skill_desc_21004</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">4</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">210041</id>
+		<icon type="3"/>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1"/>
+		<quality type="1">0</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">21005</id>
+		<icon type="3">Skill#jineng_19</icon>
+		<type type="1">1</type>
+		<name type="3">skill_name_21005</name>
+		<desc type="3">skill_desc_21005</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">4</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">22001</id>
+		<icon type="3">Skill#jineng_87</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_22001</name>
+		<desc type="3">skill_desc_22001</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">22002</id>
+		<icon type="3">Skill#jineng_42</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_22002</name>
+		<desc type="3">skill_desc_22002</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">2</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">22003</id>
+		<icon type="3">Skill#jineng_4</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_22003</name>
+		<desc type="3">skill_desc_22003</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">3</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">22004</id>
+		<icon type="3">Skill#jineng_74</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_22004</name>
+		<desc type="3">skill_desc_22004</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">4</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">220041</id>
+		<icon type="3"/>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1"/>
+		<quality type="1">0</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">23001</id>
+		<icon type="3">Skill#jineng_89</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_23001</name>
+		<desc type="3">skill_desc_23001</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">23002</id>
+		<icon type="3">Skill#jineng_50</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_23002</name>
+		<desc type="3">skill_desc_23002</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">2</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">23003</id>
+		<icon type="3">Skill#jineng_55</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_23003</name>
+		<desc type="3">skill_desc_23003</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">3</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">23004</id>
+		<icon type="3">Skill#jineng_66</icon>
+		<type type="1">1</type>
+		<name type="3">skill_name_23004</name>
+		<desc type="3">skill_desc_23004</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">4</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">24001</id>
+		<icon type="3">Skill#jineng_149</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_24001</name>
+		<desc type="3">skill_desc_24001</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">240011</id>
+		<icon type="3"/>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1"/>
+		<quality type="1">0</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">24002</id>
+		<icon type="3">Skill#jineng_34</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_24002</name>
+		<desc type="3">skill_desc_24002</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">2</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">24003</id>
+		<icon type="3">Skill#jineng_64</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_24003</name>
+		<desc type="3">skill_desc_24003</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">3</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">24004</id>
+		<icon type="3">Skill#jineng_143</icon>
+		<type type="1">1</type>
+		<name type="3">skill_name_24004</name>
+		<desc type="3">skill_desc_24004</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">4</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">25001</id>
+		<icon type="3">Skill#jineng_76</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_25001</name>
+		<desc type="3">skill_desc_25001</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">25002</id>
+		<icon type="3">Skill#jineng_95</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_25002</name>
+		<desc type="3">skill_desc_25002</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">2</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">25003</id>
+		<icon type="3">Skill#jineng_63</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_25003</name>
+		<desc type="3">skill_desc_25003</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">3</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">25004</id>
+		<icon type="3">Skill#jineng_99</icon>
+		<type type="1">1</type>
+		<name type="3">skill_name_25004</name>
+		<desc type="3">skill_desc_25004</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">4</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">250041</id>
+		<icon type="3"/>
+		<type type="1">2</type>
+		<name type="3"/>
+		<desc type="3"/>
+		<is_base_skill type="1"/>
+		<quality type="1">0</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">26001</id>
+		<icon type="3">Skill#jineng_72</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_26001</name>
+		<desc type="3">skill_desc_26001</desc>
+		<is_base_skill type="1">1</is_base_skill>
+		<quality type="1">1</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">26002</id>
+		<icon type="3">Skill#jineng_27</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_26002</name>
+		<desc type="3">skill_desc_26002</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">2</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">26003</id>
+		<icon type="3">Skill#jineng_88</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_26003</name>
+		<desc type="3">skill_desc_26003</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">3</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+	<skill>
+		<id type="1">26004</id>
+		<icon type="3">Skill#jineng_84</icon>
+		<type type="1">2</type>
+		<name type="3">skill_name_26004</name>
+		<desc type="3">skill_desc_26004</desc>
+		<is_base_skill type="1">0</is_base_skill>
+		<quality type="1">4</quality>
+		<max_level type="3">7,7,7,7,7,7</max_level>
+	</skill>
+</dataroot>

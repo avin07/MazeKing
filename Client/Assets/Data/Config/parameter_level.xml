@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<parameter_level>
+		<id type="1">1</id>
+		<revive_cost type="1">1</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">2</id>
+		<revive_cost type="1">2</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">3</id>
+		<revive_cost type="1">3</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">4</id>
+		<revive_cost type="1">4</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">5</id>
+		<revive_cost type="1">5</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">6</id>
+		<revive_cost type="1">6</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">7</id>
+		<revive_cost type="1">7</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">8</id>
+		<revive_cost type="1">8</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">9</id>
+		<revive_cost type="1">9</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">10</id>
+		<revive_cost type="1">10</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">11</id>
+		<revive_cost type="1">11</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">12</id>
+		<revive_cost type="1">12</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">13</id>
+		<revive_cost type="1">13</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">14</id>
+		<revive_cost type="1">14</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">15</id>
+		<revive_cost type="1">15</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">16</id>
+		<revive_cost type="1">16</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">17</id>
+		<revive_cost type="1">17</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">18</id>
+		<revive_cost type="1">18</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">19</id>
+		<revive_cost type="1">19</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">20</id>
+		<revive_cost type="1">20</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">21</id>
+		<revive_cost type="1">21</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">22</id>
+		<revive_cost type="1">22</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">23</id>
+		<revive_cost type="1">23</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">24</id>
+		<revive_cost type="1">24</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">25</id>
+		<revive_cost type="1">25</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">26</id>
+		<revive_cost type="1">26</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">27</id>
+		<revive_cost type="1">27</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">28</id>
+		<revive_cost type="1">28</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">29</id>
+		<revive_cost type="1">29</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">30</id>
+		<revive_cost type="1">30</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">31</id>
+		<revive_cost type="1">31</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">32</id>
+		<revive_cost type="1">32</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">33</id>
+		<revive_cost type="1">33</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">34</id>
+		<revive_cost type="1">34</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">35</id>
+		<revive_cost type="1">35</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">36</id>
+		<revive_cost type="1">36</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">37</id>
+		<revive_cost type="1">37</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">38</id>
+		<revive_cost type="1">38</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">39</id>
+		<revive_cost type="1">39</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">40</id>
+		<revive_cost type="1">40</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">41</id>
+		<revive_cost type="1">41</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">42</id>
+		<revive_cost type="1">42</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">43</id>
+		<revive_cost type="1">43</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">44</id>
+		<revive_cost type="1">44</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">45</id>
+		<revive_cost type="1">45</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">46</id>
+		<revive_cost type="1">46</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">47</id>
+		<revive_cost type="1">47</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">48</id>
+		<revive_cost type="1">48</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">49</id>
+		<revive_cost type="1">49</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">50</id>
+		<revive_cost type="1">50</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">51</id>
+		<revive_cost type="1">51</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">52</id>
+		<revive_cost type="1">52</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">53</id>
+		<revive_cost type="1">53</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">54</id>
+		<revive_cost type="1">54</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">55</id>
+		<revive_cost type="1">55</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">56</id>
+		<revive_cost type="1">56</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">57</id>
+		<revive_cost type="1">57</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">58</id>
+		<revive_cost type="1">58</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">59</id>
+		<revive_cost type="1">59</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">60</id>
+		<revive_cost type="1">60</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">61</id>
+		<revive_cost type="1">61</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">62</id>
+		<revive_cost type="1">62</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">63</id>
+		<revive_cost type="1">63</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">64</id>
+		<revive_cost type="1">64</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">65</id>
+		<revive_cost type="1">65</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">66</id>
+		<revive_cost type="1">66</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">67</id>
+		<revive_cost type="1">67</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">68</id>
+		<revive_cost type="1">68</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">69</id>
+		<revive_cost type="1">69</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">70</id>
+		<revive_cost type="1">70</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">71</id>
+		<revive_cost type="1">71</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">72</id>
+		<revive_cost type="1">72</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">73</id>
+		<revive_cost type="1">73</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">74</id>
+		<revive_cost type="1">74</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">75</id>
+		<revive_cost type="1">75</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">76</id>
+		<revive_cost type="1">76</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">77</id>
+		<revive_cost type="1">77</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">78</id>
+		<revive_cost type="1">78</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">79</id>
+		<revive_cost type="1">79</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">80</id>
+		<revive_cost type="1">80</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">81</id>
+		<revive_cost type="1">81</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">82</id>
+		<revive_cost type="1">82</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">83</id>
+		<revive_cost type="1">83</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">84</id>
+		<revive_cost type="1">84</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">85</id>
+		<revive_cost type="1">85</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">86</id>
+		<revive_cost type="1">86</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">87</id>
+		<revive_cost type="1">87</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">88</id>
+		<revive_cost type="1">88</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">89</id>
+		<revive_cost type="1">89</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">90</id>
+		<revive_cost type="1">90</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">91</id>
+		<revive_cost type="1">91</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">92</id>
+		<revive_cost type="1">92</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">93</id>
+		<revive_cost type="1">93</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">94</id>
+		<revive_cost type="1">94</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">95</id>
+		<revive_cost type="1">95</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">96</id>
+		<revive_cost type="1">96</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">97</id>
+		<revive_cost type="1">97</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">98</id>
+		<revive_cost type="1">98</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">99</id>
+		<revive_cost type="1">99</revive_cost>
+	</parameter_level>
+	<parameter_level>
+		<id type="1">100</id>
+		<revive_cost type="1">100</revive_cost>
+	</parameter_level>
+</dataroot>

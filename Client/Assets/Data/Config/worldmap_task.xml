@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<worldmap_task>
+		<id type="1">1</id>
+		<type type="1">30</type>
+		<name type="3">worldmap_task_name_1</name>
+		<icon type="3">Raid#icon_house_17</icon>
+		<issue_task_id type="3">1028</issue_task_id>
+		<submit_task_id type="3">1028,5</submit_task_id>
+		<common_dialog type="1">50006</common_dialog>
+	</worldmap_task>
+	<worldmap_task>
+		<id type="1">2</id>
+		<type type="1">30</type>
+		<name type="3">worldmap_task_name_2</name>
+		<icon type="3">Raid#icon_house_17</icon>
+		<issue_task_id type="3">4</issue_task_id>
+		<submit_task_id type="3">3,4</submit_task_id>
+		<common_dialog type="1">50003</common_dialog>
+	</worldmap_task>
+	<worldmap_task>
+		<id type="1">3</id>
+		<type type="1">30</type>
+		<name type="3">worldmap_task_name_3</name>
+		<icon type="3">Raid#icon_house_17</icon>
+		<issue_task_id type="3">14</issue_task_id>
+		<submit_task_id type="3">14</submit_task_id>
+		<common_dialog type="1">50002</common_dialog>
+	</worldmap_task>
+	<worldmap_task>
+		<id type="1">4</id>
+		<type type="1">30</type>
+		<name type="3">worldmap_task_name_4</name>
+		<icon type="3">Raid#icon_house_17</icon>
+		<issue_task_id type="3">13</issue_task_id>
+		<submit_task_id type="3">13</submit_task_id>
+		<common_dialog type="1">50009</common_dialog>
+	</worldmap_task>
+	<worldmap_task>
+		<id type="1">5</id>
+		<type type="1">30</type>
+		<name type="3">worldmap_task_name_5</name>
+		<icon type="3">Raid#icon_house_17</icon>
+		<issue_task_id type="3"/>
+		<submit_task_id type="3"/>
+		<common_dialog type="1"/>
+	</worldmap_task>
+	<worldmap_task>
+		<id type="1">6</id>
+		<type type="1">30</type>
+		<name type="3">worldmap_task_name_6</name>
+		<icon type="3">Raid#icon_house_17</icon>
+		<issue_task_id type="3"/>
+		<submit_task_id type="3"/>
+		<common_dialog type="1"/>
+	</worldmap_task>
+	<worldmap_task>
+		<id type="1">7</id>
+		<type type="1">30</type>
+		<name type="3">worldmap_task_name_7</name>
+		<icon type="3">Raid#icon_house_17</icon>
+		<issue_task_id type="3"/>
+		<submit_task_id type="3"/>
+		<common_dialog type="1"/>
+	</worldmap_task>
+	<worldmap_task>
+		<id type="1">8</id>
+		<type type="1">30</type>
+		<name type="3">worldmap_task_name_8</name>
+		<icon type="3">Raid#icon_house_17</icon>
+		<issue_task_id type="3"/>
+		<submit_task_id type="3"/>
+		<common_dialog type="1"/>
+	</worldmap_task>
+	<worldmap_task>
+		<id type="1">9</id>
+		<type type="1">30</type>
+		<name type="3">worldmap_task_name_9</name>
+		<icon type="3">Raid#icon_house_17</icon>
+		<issue_task_id type="3"/>
+		<submit_task_id type="3"/>
+		<common_dialog type="1"/>
+	</worldmap_task>
+	<worldmap_task>
+		<id type="1">10</id>
+		<type type="1">30</type>
+		<name type="3">worldmap_task_name_10</name>
+		<icon type="3">Raid#icon_house_17</icon>
+		<issue_task_id type="3"/>
+		<submit_task_id type="3"/>
+		<common_dialog type="1"/>
+	</worldmap_task>
+	<worldmap_task>
+		<id type="1">11</id>
+		<type type="1">30</type>
+		<name type="3">worldmap_task_name_11</name>
+		<icon type="3">Raid#icon_house_17</icon>
+		<issue_task_id type="3"/>
+		<submit_task_id type="3"/>
+		<common_dialog type="1"/>
+	</worldmap_task>
+	<worldmap_task>
+		<id type="1">12</id>
+		<type type="1">30</type>
+		<name type="3">worldmap_task_name_12</name>
+		<icon type="3">Raid#icon_house_17</icon>
+		<issue_task_id type="3"/>
+		<submit_task_id type="3"/>
+		<common_dialog type="1"/>
+	</worldmap_task>
+	<worldmap_task>
+		<id type="1">13</id>
+		<type type="1">30</type>
+		<name type="3">worldmap_task_name_13</name>
+		<icon type="3">Raid#icon_house_17</icon>
+		<issue_task_id type="3"/>
+		<submit_task_id type="3"/>
+		<common_dialog type="1"/>
+	</worldmap_task>
+	<worldmap_task>
+		<id type="1">14</id>
+		<type type="1">30</type>
+		<name type="3">worldmap_task_name_14</name>
+		<icon type="3">Raid#icon_house_17</icon>
+		<issue_task_id type="3"/>
+		<submit_task_id type="3"/>
+		<common_dialog type="1"/>
+	</worldmap_task>
+</dataroot>

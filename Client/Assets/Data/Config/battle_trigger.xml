@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<battle_trigger>
+		<id type="1">1</id>
+		<mark type="3">每次行动前以50%几率起舞，为全体队友提拉行动条（delay值10）</mark>
+		<target type="1">0</target>
+		<trigger_action type="1">3</trigger_action>
+		<trigger_skill_releaser type="1">0</trigger_skill_releaser>
+		<trigger_skill_id type="1">100231</trigger_skill_id>
+		<trigger_rate type="1">0</trigger_rate>
+		<is_repeat type="1">0</is_repeat>
+	</battle_trigger>
+	<battle_trigger>
+		<id type="1">2</id>
+		<mark type="3">被攻击命中时有30%几率反击攻击者，造成200%攻击力的伤害并使其眩晕（buff），持续1回合</mark>
+		<target type="1">3</target>
+		<trigger_action type="1">8</trigger_action>
+		<trigger_skill_releaser type="1">0</trigger_skill_releaser>
+		<trigger_skill_id type="1">200421</trigger_skill_id>
+		<trigger_rate type="1">3000</trigger_rate>
+		<is_repeat type="1">0</is_repeat>
+	</battle_trigger>
+	<battle_trigger>
+		<id type="1">3</id>
+		<mark type="3">杀死敌人后立即行动</mark>
+		<target type="1">0</target>
+		<trigger_action type="1">2</trigger_action>
+		<trigger_skill_releaser type="1">0</trigger_skill_releaser>
+		<trigger_skill_id type="1">200431</trigger_skill_id>
+		<trigger_rate type="1">10000</trigger_rate>
+		<is_repeat type="1">0</is_repeat>
+	</battle_trigger>
+	<battle_trigger>
+		<id type="1">4</id>
+		<mark type="3">行动前为自身刷新护盾，相当于生命上限的20%，护盾存在时攻击者将被减速（buff），持续1回合</mark>
+		<target type="1">0</target>
+		<trigger_action type="1">3</trigger_action>
+		<trigger_skill_releaser type="1">0</trigger_skill_releaser>
+		<trigger_skill_id type="1">100831</trigger_skill_id>
+		<trigger_rate type="1">10000</trigger_rate>
+		<is_repeat type="1">0</is_repeat>
+	</battle_trigger>
+	<battle_trigger>
+		<id type="1">5</id>
+		<mark type="3">护盾存在时攻击者将被减速（buff），持续1回合</mark>
+		<target type="1">3</target>
+		<trigger_action type="1">8</trigger_action>
+		<trigger_skill_releaser type="1">0</trigger_skill_releaser>
+		<trigger_skill_id type="1">100832</trigger_skill_id>
+		<trigger_rate type="1">10000</trigger_rate>
+		<is_repeat type="1">0</is_repeat>
+	</battle_trigger>
+	<battle_trigger>
+		<id type="1">6</id>
+		<mark type="3">每次行动前给自己提速，持续2回合</mark>
+		<target type="1">0</target>
+		<trigger_action type="1">3</trigger_action>
+		<trigger_skill_releaser type="1">0</trigger_skill_releaser>
+		<trigger_skill_id type="1">100721</trigger_skill_id>
+		<trigger_rate type="1">10000</trigger_rate>
+		<is_repeat type="1">0</is_repeat>
+	</battle_trigger>
+	<battle_trigger>
+		<id type="1">7</id>
+		<mark type="3">受到伤害触发一次波动</mark>
+		<target type="1">3</target>
+		<trigger_action type="1">8</trigger_action>
+		<trigger_skill_releaser type="1">0</trigger_skill_releaser>
+		<trigger_skill_id type="1">100732</trigger_skill_id>
+		<trigger_rate type="1">10000</trigger_rate>
+		<is_repeat type="1">0</is_repeat>
+	</battle_trigger>
+	<battle_trigger>
+		<id type="1">8</id>
+		<mark type="3">每次行动前有30%几率降低敌方全体前排的防御</mark>
+		<target type="1">0</target>
+		<trigger_action type="1">3</trigger_action>
+		<trigger_skill_releaser type="1">0</trigger_skill_releaser>
+		<trigger_skill_id type="1">100821</trigger_skill_id>
+		<trigger_rate type="1">3000</trigger_rate>
+		<is_repeat type="1">0</is_repeat>
+	</battle_trigger>
+	<battle_trigger>
+		<id type="1">9</id>
+		<mark type="3">受到近战攻击反击</mark>
+		<target type="1">3</target>
+		<trigger_action type="1">8</trigger_action>
+		<trigger_skill_releaser type="1">0</trigger_skill_releaser>
+		<trigger_skill_id type="1">110031</trigger_skill_id>
+		<trigger_rate type="1">5000</trigger_rate>
+		<is_repeat type="1">0</is_repeat>
+	</battle_trigger>
+	<battle_trigger>
+		<id type="1">10</id>
+		<mark type="3"> 受到攻击反击1次</mark>
+		<target type="1">3</target>
+		<trigger_action type="1">8</trigger_action>
+		<trigger_skill_releaser type="1">0</trigger_skill_releaser>
+		<trigger_skill_id type="1">30061</trigger_skill_id>
+		<trigger_rate type="1">10000</trigger_rate>
+		<is_repeat type="1">0</is_repeat>
+	</battle_trigger>
+	<battle_trigger>
+		<id type="1">11</id>
+		<mark type="3">每3次普攻触发</mark>
+		<target type="1">0</target>
+		<trigger_action type="1">4</trigger_action>
+		<trigger_skill_releaser type="1">0</trigger_skill_releaser>
+		<trigger_skill_id type="1">0</trigger_skill_id>
+		<trigger_rate type="1">0</trigger_rate>
+		<is_repeat type="1">0</is_repeat>
+	</battle_trigger>
+	<battle_trigger>
+		<id type="1">12</id>
+		<mark type="3">每次攻击概率触发</mark>
+		<target type="1">0</target>
+		<trigger_action type="1">4</trigger_action>
+		<trigger_skill_releaser type="1">0</trigger_skill_releaser>
+		<trigger_skill_id type="1">40041</trigger_skill_id>
+		<trigger_rate type="1">5000</trigger_rate>
+		<is_repeat type="1">0</is_repeat>
+	</battle_trigger>
+	<battle_trigger>
+		<id type="1">13</id>
+		<mark type="3"> 开场为自己提拉行动条（delay值5）并提升5%闪避率</mark>
+		<target type="1">0</target>
+		<trigger_action type="1">0</trigger_action>
+		<trigger_skill_releaser type="1">0</trigger_skill_releaser>
+		<trigger_skill_id type="1">11011</trigger_skill_id>
+		<trigger_rate type="1">10000</trigger_rate>
+		<is_repeat type="1">0</is_repeat>
+	</battle_trigger>
+	<battle_trigger>
+		<id type="1">14</id>
+		<mark type="3"> 开场为自己提拉行动条（delay值5）并提升5%攻击力</mark>
+		<target type="1">0</target>
+		<trigger_action type="1">0</trigger_action>
+		<trigger_skill_releaser type="1">0</trigger_skill_releaser>
+		<trigger_skill_id type="1">11021</trigger_skill_id>
+		<trigger_rate type="1">10000</trigger_rate>
+		<is_repeat type="1">0</is_repeat>
+	</battle_trigger>
+	<battle_trigger>
+		<id type="1">15</id>
+		<mark type="3"> 开场为自己击退行动条（delay值5）并降低5%闪避率</mark>
+		<target type="1">0</target>
+		<trigger_action type="1">0</trigger_action>
+		<trigger_skill_releaser type="1">0</trigger_skill_releaser>
+		<trigger_skill_id type="1">21011</trigger_skill_id>
+		<trigger_rate type="1">10000</trigger_rate>
+		<is_repeat type="1">0</is_repeat>
+	</battle_trigger>
+	<battle_trigger>
+		<id type="1">16</id>
+		<mark type="3"> 开场为自己击退行动条（delay值5）并降低5%攻击力</mark>
+		<target type="1">0</target>
+		<trigger_action type="1">0</trigger_action>
+		<trigger_skill_releaser type="1">0</trigger_skill_releaser>
+		<trigger_skill_id type="1">21021</trigger_skill_id>
+		<trigger_rate type="1">10000</trigger_rate>
+		<is_repeat type="1">0</is_repeat>
+	</battle_trigger>
+	<battle_trigger>
+		<id type="1">17</id>
+		<mark type="3">反击：受到攻击有40%概率用强力刺击反击</mark>
+		<target type="1">3</target>
+		<trigger_action type="1">8</trigger_action>
+		<trigger_skill_releaser type="1">0</trigger_skill_releaser>
+		<trigger_skill_id type="1">21001</trigger_skill_id>
+		<trigger_rate type="1">4000</trigger_rate>
+		<is_repeat type="1">0</is_repeat>
+	</battle_trigger>
+	<battle_trigger>
+		<id type="1">18</id>
+		<mark type="3">暴怒：暴击时追加一次怒意狂击</mark>
+		<target type="1">0</target>
+		<trigger_action type="1">7</trigger_action>
+		<trigger_skill_releaser type="1">0</trigger_skill_releaser>
+		<trigger_skill_id type="1">24001</trigger_skill_id>
+		<trigger_rate type="1">10000</trigger_rate>
+		<is_repeat type="1">0</is_repeat>
+	</battle_trigger>
+	<battle_trigger>
+		<id type="1">19</id>
+		<mark type="3">刺骨：暴击时使目标流血</mark>
+		<target type="1">0</target>
+		<trigger_action type="1">7</trigger_action>
+		<trigger_skill_releaser type="1">0</trigger_skill_releaser>
+		<trigger_skill_id type="1">250041</trigger_skill_id>
+		<trigger_rate type="1">10000</trigger_rate>
+		<is_repeat type="1">0</is_repeat>
+	</battle_trigger>
+</dataroot>

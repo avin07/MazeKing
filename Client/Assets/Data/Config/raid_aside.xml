@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<raid_aside>
+		<id type="1">20001001</id>
+		<raid type="1">20001</raid>
+		<enter_aside type="3"/>
+		<complete_aside type="3"/>
+		<cutscene type="1">900001</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1401001</id>
+		<raid type="1">1401</raid>
+		<enter_aside type="3">11,raid_aside_3;3,raid_aside_4;9,raid_aside_6;17,raid_aside_7</enter_aside>
+		<complete_aside type="3">12,raid_aside_5</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1701001</id>
+		<raid type="1">1701</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1001</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1002</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1003</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1004</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1005</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1006</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1007</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1008</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1009</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1010</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1011</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1012</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1013</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1014</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1015</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1016</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1017</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1018</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1019</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1020</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1021</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1022</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1023</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1024</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1025</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1026</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1027</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1028</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1029</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1030</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1031</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1032</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1033</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1034</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1035</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1036</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1037</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1038</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1039</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1040</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1041</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1042</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1043</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1044</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1045</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1046</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1047</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1048</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1049</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1050</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1051</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1052</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1053</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1054</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1055</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1056</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1057</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1058</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1059</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1060</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1061</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1062</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1063</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1064</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1065</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1066</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1067</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1068</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1069</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1070</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1071</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1072</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1073</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1074</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1075</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1076</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1077</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1078</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1079</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1080</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1081</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1082</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1083</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1084</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1085</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1086</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1087</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1088</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1089</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1090</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1091</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1092</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1093</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1094</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1095</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1096</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1097</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1098</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1099</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+	<raid_aside>
+		<id type="1">1100</id>
+		<raid type="1">1</raid>
+		<enter_aside type="3">24,raid_aside_8;26,raid_aside_10</enter_aside>
+		<complete_aside type="3">24,raid_aside_13;26,raid_aside_11</complete_aside>
+		<cutscene type="1">0</cutscene>
+	</raid_aside>
+</dataroot>

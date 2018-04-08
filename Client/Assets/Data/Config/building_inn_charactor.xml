@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<building_inn_charactor>
+		<recruit_group_1 type="3">1000,2000,3000</recruit_group_1>
+		<favor_level type="1">1</favor_level>
+		<recruit_group_2 type="3"/>
+		<recruit_group_3 type="3"/>
+		<recruit_group_4 type="3"/>
+		<recruit_group_5 type="3"/>
+		<id type="1">1001</id>
+		<fragment_parameter type="1">200</fragment_parameter>
+		<introduce_rate type="1">50</introduce_rate>
+		<introduce_pool type="1">7878</introduce_pool>
+	</building_inn_charactor>
+	<building_inn_charactor>
+		<recruit_group_1 type="3">1000,2000,3000</recruit_group_1>
+		<favor_level type="1">1</favor_level>
+		<recruit_group_2 type="3"/>
+		<recruit_group_3 type="3"/>
+		<recruit_group_4 type="3"/>
+		<recruit_group_5 type="3"/>
+		<id type="1">1002</id>
+		<fragment_parameter type="1">200</fragment_parameter>
+		<introduce_rate type="1">50</introduce_rate>
+		<introduce_pool type="1">7878</introduce_pool>
+	</building_inn_charactor>
+	<building_inn_charactor>
+		<recruit_group_1 type="3">1000,2000,3000</recruit_group_1>
+		<favor_level type="1">3</favor_level>
+		<recruit_group_2 type="3">1020,2020,3020</recruit_group_2>
+		<recruit_group_3 type="3">1040,2040,3040</recruit_group_3>
+		<recruit_group_4 type="3"/>
+		<recruit_group_5 type="3"/>
+		<id type="1">1003</id>
+		<fragment_parameter type="1">200</fragment_parameter>
+		<introduce_rate type="1">50</introduce_rate>
+		<introduce_pool type="1">7878</introduce_pool>
+	</building_inn_charactor>
+	<building_inn_charactor>
+		<recruit_group_1 type="3">1000,2000,3000</recruit_group_1>
+		<favor_level type="1">3</favor_level>
+		<recruit_group_2 type="3">1020,2020,3020</recruit_group_2>
+		<recruit_group_3 type="3">1040,2040,3040</recruit_group_3>
+		<recruit_group_4 type="3"/>
+		<recruit_group_5 type="3"/>
+		<id type="1">1004</id>
+		<fragment_parameter type="1">200</fragment_parameter>
+		<introduce_rate type="1">50</introduce_rate>
+		<introduce_pool type="1">7878</introduce_pool>
+	</building_inn_charactor>
+	<building_inn_charactor>
+		<recruit_group_1 type="3">1000,2000,3000</recruit_group_1>
+		<favor_level type="1">5</favor_level>
+		<recruit_group_2 type="3">1020,2020,3020</recruit_group_2>
+		<recruit_group_3 type="3">1040,2040,3040</recruit_group_3>
+		<recruit_group_4 type="3">1060,2060,3060</recruit_group_4>
+		<recruit_group_5 type="3">1080,2080,3080</recruit_group_5>
+		<id type="1">1005</id>
+		<fragment_parameter type="1">200</fragment_parameter>
+		<introduce_rate type="1">50</introduce_rate>
+		<introduce_pool type="1">7878</introduce_pool>
+	</building_inn_charactor>
+	<building_inn_charactor>
+		<recruit_group_1 type="3">1000,2000,3000</recruit_group_1>
+		<favor_level type="1">1</favor_level>
+		<recruit_group_2 type="3"/>
+		<recruit_group_3 type="3"/>
+		<recruit_group_4 type="3"/>
+		<recruit_group_5 type="3"/>
+		<id type="1">3001</id>
+		<fragment_parameter type="1">200</fragment_parameter>
+		<introduce_rate type="1">50</introduce_rate>
+		<introduce_pool type="1">7879</introduce_pool>
+	</building_inn_charactor>
+	<building_inn_charactor>
+		<recruit_group_1 type="3">1000,2000,3000</recruit_group_1>
+		<favor_level type="1">1</favor_level>
+		<recruit_group_2 type="3"/>
+		<recruit_group_3 type="3"/>
+		<recruit_group_4 type="3"/>
+		<recruit_group_5 type="3"/>
+		<id type="1">3002</id>
+		<fragment_parameter type="1">200</fragment_parameter>
+		<introduce_rate type="1">50</introduce_rate>
+		<introduce_pool type="1">7879</introduce_pool>
+	</building_inn_charactor>
+	<building_inn_charactor>
+		<recruit_group_1 type="3">1000,2000,3000</recruit_group_1>
+		<favor_level type="1">3</favor_level>
+		<recruit_group_2 type="3">1020,2020,3020</recruit_group_2>
+		<recruit_group_3 type="3">1040,2040,3040</recruit_group_3>
+		<recruit_group_4 type="3"/>
+		<recruit_group_5 type="3"/>
+		<id type="1">3003</id>
+		<fragment_parameter type="1">200</fragment_parameter>
+		<introduce_rate type="1">50</introduce_rate>
+		<introduce_pool type="1">7879</introduce_pool>
+	</building_inn_charactor>
+	<building_inn_charactor>
+		<recruit_group_1 type="3">1000,2000,3000</recruit_group_1>
+		<favor_level type="1">3</favor_level>
+		<recruit_group_2 type="3">1020,2020,3020</recruit_group_2>
+		<recruit_group_3 type="3">1040,2040,3040</recruit_group_3>
+		<recruit_group_4 type="3"/>
+		<recruit_group_5 type="3"/>
+		<id type="1">3004</id>
+		<fragment_parameter type="1">200</fragment_parameter>
+		<introduce_rate type="1">50</introduce_rate>
+		<introduce_pool type="1">7879</introduce_pool>
+	</building_inn_charactor>
+	<building_inn_charactor>
+		<recruit_group_1 type="3">1000,2000,3000</recruit_group_1>
+		<favor_level type="1">5</favor_level>
+		<recruit_group_2 type="3">1020,2020,3020</recruit_group_2>
+		<recruit_group_3 type="3">1040,2040,3040</recruit_group_3>
+		<recruit_group_4 type="3">1060,2060,3060</recruit_group_4>
+		<recruit_group_5 type="3">1080,2080,3080</recruit_group_5>
+		<id type="1">3005</id>
+		<fragment_parameter type="1">200</fragment_parameter>
+		<introduce_rate type="1">50</introduce_rate>
+		<introduce_pool type="1">7879</introduce_pool>
+	</building_inn_charactor>
+	<building_inn_charactor>
+		<recruit_group_1 type="3">1000,2000,3000</recruit_group_1>
+		<favor_level type="1">5</favor_level>
+		<recruit_group_2 type="3">1020,2020,3020</recruit_group_2>
+		<recruit_group_3 type="3">1040,2040,3040</recruit_group_3>
+		<recruit_group_4 type="3">1060,2060,3060</recruit_group_4>
+		<recruit_group_5 type="3">1080,2080,3080</recruit_group_5>
+		<id type="1">3006</id>
+		<fragment_parameter type="1">200</fragment_parameter>
+		<introduce_rate type="1">50</introduce_rate>
+		<introduce_pool type="1">7879</introduce_pool>
+	</building_inn_charactor>
+	<building_inn_charactor>
+		<recruit_group_1 type="3">1000,2000,3000</recruit_group_1>
+		<favor_level type="1">3</favor_level>
+		<recruit_group_2 type="3">1020,2020,3020</recruit_group_2>
+		<recruit_group_3 type="3">1040,2040,3040</recruit_group_3>
+		<recruit_group_4 type="3"/>
+		<recruit_group_5 type="3"/>
+		<id type="1">3010</id>
+		<fragment_parameter type="1">200</fragment_parameter>
+		<introduce_rate type="1">0</introduce_rate>
+		<introduce_pool type="1"/>
+	</building_inn_charactor>
+	<building_inn_charactor>
+		<recruit_group_1 type="3">1000,2000,3000</recruit_group_1>
+		<favor_level type="1">1</favor_level>
+		<recruit_group_2 type="3"/>
+		<recruit_group_3 type="3"/>
+		<recruit_group_4 type="3"/>
+		<recruit_group_5 type="3"/>
+		<id type="1">3011</id>
+		<fragment_parameter type="1">200</fragment_parameter>
+		<introduce_rate type="1">100</introduce_rate>
+		<introduce_pool type="1">8000</introduce_pool>
+	</building_inn_charactor>
+	<building_inn_charactor>
+		<recruit_group_1 type="3">1000,2000,3000</recruit_group_1>
+		<favor_level type="1">5</favor_level>
+		<recruit_group_2 type="3">1020,2020,3020</recruit_group_2>
+		<recruit_group_3 type="3">1040,2040,3040</recruit_group_3>
+		<recruit_group_4 type="3">1060,2060,3060</recruit_group_4>
+		<recruit_group_5 type="3">1080,2080,3080</recruit_group_5>
+		<id type="1">3012</id>
+		<fragment_parameter type="1">200</fragment_parameter>
+		<introduce_rate type="1">0</introduce_rate>
+		<introduce_pool type="1"/>
+	</building_inn_charactor>
+</dataroot>

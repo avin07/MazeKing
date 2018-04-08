@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<jigsaw_tile_upgrade>
+		<id type="1">1</id>
+		<normal_req_quantity type="1">0</normal_req_quantity>
+		<normal_req_gold type="1">0</normal_req_gold>
+		<rare_req_quantity type="1">0</rare_req_quantity>
+		<rare_req_gold type="1">0</rare_req_gold>
+		<epic_req_quantity type="1">0</epic_req_quantity>
+		<epic_req_gold type="1">0</epic_req_gold>
+		<legend_req_quantity type="1">0</legend_req_quantity>
+		<legend_req_gold type="1">0</legend_req_gold>
+		<set_req_quantity type="1">0</set_req_quantity>
+		<set_req_gold type="1">0</set_req_gold>
+	</jigsaw_tile_upgrade>
+	<jigsaw_tile_upgrade>
+		<id type="1">2</id>
+		<normal_req_quantity type="1">2</normal_req_quantity>
+		<normal_req_gold type="1">50</normal_req_gold>
+		<rare_req_quantity type="1">2</rare_req_quantity>
+		<rare_req_gold type="1">500</rare_req_gold>
+		<epic_req_quantity type="1">2</epic_req_quantity>
+		<epic_req_gold type="1">4000</epic_req_gold>
+		<legend_req_quantity type="1">2</legend_req_quantity>
+		<legend_req_gold type="1">50000</legend_req_gold>
+		<set_req_quantity type="1">2</set_req_quantity>
+		<set_req_gold type="1">4000</set_req_gold>
+	</jigsaw_tile_upgrade>
+	<jigsaw_tile_upgrade>
+		<id type="1">3</id>
+		<normal_req_quantity type="1">4</normal_req_quantity>
+		<normal_req_gold type="1">200</normal_req_gold>
+		<rare_req_quantity type="1">4</rare_req_quantity>
+		<rare_req_gold type="1">1500</rare_req_gold>
+		<epic_req_quantity type="1">4</epic_req_quantity>
+		<epic_req_gold type="1">20000</epic_req_gold>
+		<legend_req_quantity type="1">4</legend_req_quantity>
+		<legend_req_gold type="1">200000</legend_req_gold>
+		<set_req_quantity type="1">4</set_req_quantity>
+		<set_req_gold type="1">20000</set_req_gold>
+	</jigsaw_tile_upgrade>
+	<jigsaw_tile_upgrade>
+		<id type="1">4</id>
+		<normal_req_quantity type="1">10</normal_req_quantity>
+		<normal_req_gold type="1">500</normal_req_gold>
+		<rare_req_quantity type="1">10</rare_req_quantity>
+		<rare_req_gold type="1">4000</rare_req_gold>
+		<epic_req_quantity type="1">10</epic_req_quantity>
+		<epic_req_gold type="1">40000</epic_req_gold>
+		<legend_req_quantity type="1">10</legend_req_quantity>
+		<legend_req_gold type="1">500000</legend_req_gold>
+		<set_req_quantity type="1">10</set_req_quantity>
+		<set_req_gold type="1">40000</set_req_gold>
+	</jigsaw_tile_upgrade>
+	<jigsaw_tile_upgrade>
+		<id type="1">5</id>
+		<normal_req_quantity type="1">20</normal_req_quantity>
+		<normal_req_gold type="1">1500</normal_req_gold>
+		<rare_req_quantity type="1">20</rare_req_quantity>
+		<rare_req_gold type="1">10000</rare_req_gold>
+		<epic_req_quantity type="1">20</epic_req_quantity>
+		<epic_req_gold type="1">80000</epic_req_gold>
+		<legend_req_quantity type="1">20</legend_req_quantity>
+		<legend_req_gold type="1">1000000</legend_req_gold>
+		<set_req_quantity type="1">20</set_req_quantity>
+		<set_req_gold type="1">80000</set_req_gold>
+	</jigsaw_tile_upgrade>
+	<jigsaw_tile_upgrade>
+		<id type="1">6</id>
+		<normal_req_quantity type="1">50</normal_req_quantity>
+		<normal_req_gold type="1">4000</normal_req_gold>
+		<rare_req_quantity type="1">50</rare_req_quantity>
+		<rare_req_gold type="1">20000</rare_req_gold>
+		<epic_req_quantity type="1">50</epic_req_quantity>
+		<epic_req_gold type="1">200000</epic_req_gold>
+		<legend_req_quantity type="1">-1</legend_req_quantity>
+		<legend_req_gold type="1">-1</legend_req_gold>
+		<set_req_quantity type="1">50</set_req_quantity>
+		<set_req_gold type="1">200000</set_req_gold>
+	</jigsaw_tile_upgrade>
+	<jigsaw_tile_upgrade>
+		<id type="1">7</id>
+		<normal_req_quantity type="1">100</normal_req_quantity>
+		<normal_req_gold type="1">10000</normal_req_gold>
+		<rare_req_quantity type="1">100</rare_req_quantity>
+		<rare_req_gold type="1">40000</rare_req_gold>
+		<epic_req_quantity type="1">100</epic_req_quantity>
+		<epic_req_gold type="1">500000</epic_req_gold>
+		<legend_req_quantity type="1">-1</legend_req_quantity>
+		<legend_req_gold type="1">-1</legend_req_gold>
+		<set_req_quantity type="1">100</set_req_quantity>
+		<set_req_gold type="1">500000</set_req_gold>
+	</jigsaw_tile_upgrade>
+	<jigsaw_tile_upgrade>
+		<id type="1">8</id>
+		<normal_req_quantity type="1">200</normal_req_quantity>
+		<normal_req_gold type="1">20000</normal_req_gold>
+		<rare_req_quantity type="1">200</rare_req_quantity>
+		<rare_req_gold type="1">80000</rare_req_gold>
+		<epic_req_quantity type="1">200</epic_req_quantity>
+		<epic_req_gold type="1">1000000</epic_req_gold>
+		<legend_req_quantity type="1">-1</legend_req_quantity>
+		<legend_req_gold type="1">-1</legend_req_gold>
+		<set_req_quantity type="1">200</set_req_quantity>
+		<set_req_gold type="1">1000000</set_req_gold>
+	</jigsaw_tile_upgrade>
+	<jigsaw_tile_upgrade>
+		<id type="1">9</id>
+		<normal_req_quantity type="1">400</normal_req_quantity>
+		<normal_req_gold type="1">40000</normal_req_gold>
+		<rare_req_quantity type="1">400</rare_req_quantity>
+		<rare_req_gold type="1">200000</rare_req_gold>
+		<epic_req_quantity type="1">-1</epic_req_quantity>
+		<epic_req_gold type="1">-1</epic_req_gold>
+		<legend_req_quantity type="1">-1</legend_req_quantity>
+		<legend_req_gold type="1">-1</legend_req_gold>
+		<set_req_quantity type="1">-1</set_req_quantity>
+		<set_req_gold type="1">-1</set_req_gold>
+	</jigsaw_tile_upgrade>
+	<jigsaw_tile_upgrade>
+		<id type="1">10</id>
+		<normal_req_quantity type="1">800</normal_req_quantity>
+		<normal_req_gold type="1">80000</normal_req_gold>
+		<rare_req_quantity type="1">800</rare_req_quantity>
+		<rare_req_gold type="1">500000</rare_req_gold>
+		<epic_req_quantity type="1">-1</epic_req_quantity>
+		<epic_req_gold type="1">-1</epic_req_gold>
+		<legend_req_quantity type="1">-1</legend_req_quantity>
+		<legend_req_gold type="1">-1</legend_req_gold>
+		<set_req_quantity type="1">-1</set_req_quantity>
+		<set_req_gold type="1">-1</set_req_gold>
+	</jigsaw_tile_upgrade>
+	<jigsaw_tile_upgrade>
+		<id type="1">11</id>
+		<normal_req_quantity type="1">1000</normal_req_quantity>
+		<normal_req_gold type="1">200000</normal_req_gold>
+		<rare_req_quantity type="1">1000</rare_req_quantity>
+		<rare_req_gold type="1">1000000</rare_req_gold>
+		<epic_req_quantity type="1">-1</epic_req_quantity>
+		<epic_req_gold type="1">-1</epic_req_gold>
+		<legend_req_quantity type="1">-1</legend_req_quantity>
+		<legend_req_gold type="1">-1</legend_req_gold>
+		<set_req_quantity type="1">-1</set_req_quantity>
+		<set_req_gold type="1">-1</set_req_gold>
+	</jigsaw_tile_upgrade>
+	<jigsaw_tile_upgrade>
+		<id type="1">12</id>
+		<normal_req_quantity type="1">2000</normal_req_quantity>
+		<normal_req_gold type="1">500000</normal_req_gold>
+		<rare_req_quantity type="1">-1</rare_req_quantity>
+		<rare_req_gold type="1">-1</rare_req_gold>
+		<epic_req_quantity type="1">-1</epic_req_quantity>
+		<epic_req_gold type="1">-1</epic_req_gold>
+		<legend_req_quantity type="1">-1</legend_req_quantity>
+		<legend_req_gold type="1">-1</legend_req_gold>
+		<set_req_quantity type="1">-1</set_req_quantity>
+		<set_req_gold type="1">-1</set_req_gold>
+	</jigsaw_tile_upgrade>
+	<jigsaw_tile_upgrade>
+		<id type="1">13</id>
+		<normal_req_quantity type="1">5000</normal_req_quantity>
+		<normal_req_gold type="1">1000000</normal_req_gold>
+		<rare_req_quantity type="1">-1</rare_req_quantity>
+		<rare_req_gold type="1">-1</rare_req_gold>
+		<epic_req_quantity type="1">-1</epic_req_quantity>
+		<epic_req_gold type="1">-1</epic_req_gold>
+		<legend_req_quantity type="1">-1</legend_req_quantity>
+		<legend_req_gold type="1">-1</legend_req_gold>
+		<set_req_quantity type="1">-1</set_req_quantity>
+		<set_req_gold type="1">-1</set_req_gold>
+	</jigsaw_tile_upgrade>
+</dataroot>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<charactar_achievement>
+		<id type="1">10001</id>
+		<series_id type="1">1000</series_id>
+		<name type="3">charactar_achievement_name_10001</name>
+		<illustration type="3">Achievement#dengji</illustration>
+		<tag type="3">charactar_achievement_tag_10001</tag>
+		<describe type="3">charactar_achievement_describe_10001</describe>
+		<biography type="3">charactar_achievement_biography_10001</biography>
+		<max_star type="1">3</max_star>
+		<current_star type="1">1</current_star>
+		<is_global type="1">0</is_global>
+		<target_type type="1">1</target_type>
+		<target_para_list type="3">10</target_para_list>
+		<reward type="3">1,2,1</reward>
+		<is_behavior_record type="1">0</is_behavior_record>
+	</charactar_achievement>
+	<charactar_achievement>
+		<id type="1">10002</id>
+		<series_id type="1">1000</series_id>
+		<name type="3">charactar_achievement_name_10002</name>
+		<illustration type="3">Achievement#dengji</illustration>
+		<tag type="3">charactar_achievement_tag_10002</tag>
+		<describe type="3">charactar_achievement_describe_10002</describe>
+		<biography type="3">charactar_achievement_biography_10002</biography>
+		<max_star type="1">3</max_star>
+		<current_star type="1">2</current_star>
+		<is_global type="1">0</is_global>
+		<target_type type="1">1</target_type>
+		<target_para_list type="3">20</target_para_list>
+		<reward type="3">1,2,2</reward>
+		<is_behavior_record type="1">0</is_behavior_record>
+	</charactar_achievement>
+	<charactar_achievement>
+		<id type="1">10003</id>
+		<series_id type="1">1000</series_id>
+		<name type="3">charactar_achievement_name_10003</name>
+		<illustration type="3">Achievement#dengji</illustration>
+		<tag type="3">charactar_achievement_tag_10003</tag>
+		<describe type="3">charactar_achievement_describe_10003</describe>
+		<biography type="3">charactar_achievement_biography_10003</biography>
+		<max_star type="1">3</max_star>
+		<current_star type="1">3</current_star>
+		<is_global type="1">0</is_global>
+		<target_type type="1">1</target_type>
+		<target_para_list type="3">30</target_para_list>
+		<reward type="3">1,2,3</reward>
+		<is_behavior_record type="1">0</is_behavior_record>
+	</charactar_achievement>
+	<charactar_achievement>
+		<id type="1">10011</id>
+		<series_id type="1">1001</series_id>
+		<name type="3">charactar_achievement_name_10011</name>
+		<illustration type="3">Achievement#dengji</illustration>
+		<tag type="3">charactar_achievement_tag_10011</tag>
+		<describe type="3">charactar_achievement_describe_10011</describe>
+		<biography type="3">charactar_achievement_biography_10011</biography>
+		<max_star type="1">1</max_star>
+		<current_star type="1">1</current_star>
+		<is_global type="1">1</is_global>
+		<target_type type="1">14</target_type>
+		<target_para_list type="3">1301</target_para_list>
+		<reward type="3">1,2,10</reward>
+		<is_behavior_record type="1">1</is_behavior_record>
+	</charactar_achievement>
+	<charactar_achievement>
+		<id type="1">10021</id>
+		<series_id type="1">1002</series_id>
+		<name type="3">charactar_achievement_name_10021</name>
+		<illustration type="3">Achievement#dengji</illustration>
+		<tag type="3">charactar_achievement_tag_10021</tag>
+		<describe type="3">charactar_achievement_describe_10021</describe>
+		<biography type="3">charactar_achievement_biography_10021</biography>
+		<max_star type="1">1</max_star>
+		<current_star type="1">1</current_star>
+		<is_global type="1">1</is_global>
+		<target_type type="1">15</target_type>
+		<target_para_list type="3">1401;1001,1006,1007</target_para_list>
+		<reward type="3">1,2,30</reward>
+		<is_behavior_record type="1">1</is_behavior_record>
+	</charactar_achievement>
+	<charactar_achievement>
+		<id type="1">10031</id>
+		<series_id type="1">1003</series_id>
+		<name type="3">charactar_achievement_name_10031</name>
+		<illustration type="3">Achievement#dengji</illustration>
+		<tag type="3">charactar_achievement_tag_10031</tag>
+		<describe type="3">charactar_achievement_describe_10031</describe>
+		<biography type="3">charactar_achievement_biography_10031</biography>
+		<max_star type="1">2</max_star>
+		<current_star type="1">1</current_star>
+		<is_global type="1">0</is_global>
+		<target_type type="1">2</target_type>
+		<target_para_list type="3">2</target_para_list>
+		<reward type="3">1,2,1</reward>
+		<is_behavior_record type="1">0</is_behavior_record>
+	</charactar_achievement>
+	<charactar_achievement>
+		<id type="1">10032</id>
+		<series_id type="1">1003</series_id>
+		<name type="3">charactar_achievement_name_10032</name>
+		<illustration type="3">Achievement#dengji</illustration>
+		<tag type="3">charactar_achievement_tag_10032</tag>
+		<describe type="3">charactar_achievement_describe_10032</describe>
+		<biography type="3">charactar_achievement_biography_10032</biography>
+		<max_star type="1">2</max_star>
+		<current_star type="1">2</current_star>
+		<is_global type="1">0</is_global>
+		<target_type type="1">2</target_type>
+		<target_para_list type="3">3</target_para_list>
+		<reward type="3">1,2,2</reward>
+		<is_behavior_record type="1">0</is_behavior_record>
+	</charactar_achievement>
+	<charactar_achievement>
+		<id type="1">10041</id>
+		<series_id type="1">1004</series_id>
+		<name type="3">charactar_achievement_name_10041</name>
+		<illustration type="3">Achievement#jineng</illustration>
+		<tag type="3">charactar_achievement_tag_10041</tag>
+		<describe type="3">charactar_achievement_describe_10041</describe>
+		<biography type="3">charactar_achievement_biography_10041</biography>
+		<max_star type="1">1</max_star>
+		<current_star type="1">1</current_star>
+		<is_global type="1">1</is_global>
+		<target_type type="1">12</target_type>
+		<target_para_list type="3">2010</target_para_list>
+		<reward type="3">1,2,10</reward>
+		<is_behavior_record type="1">0</is_behavior_record>
+	</charactar_achievement>
+	<charactar_achievement>
+		<id type="1">10051</id>
+		<series_id type="1">1005</series_id>
+		<name type="3">charactar_achievement_name_10051</name>
+		<illustration type="3">Achievement#jineng</illustration>
+		<tag type="3">charactar_achievement_tag_10051</tag>
+		<describe type="3">charactar_achievement_describe_10051</describe>
+		<biography type="3">charactar_achievement_biography_10051</biography>
+		<max_star type="1">1</max_star>
+		<current_star type="1">1</current_star>
+		<is_global type="1">1</is_global>
+		<target_type type="1">15</target_type>
+		<target_para_list type="3">1401;1001,1006,1007</target_para_list>
+		<reward type="3">1,2,30</reward>
+		<is_behavior_record type="1">1</is_behavior_record>
+	</charactar_achievement>
+	<charactar_achievement>
+		<id type="1">10061</id>
+		<series_id type="1">1006</series_id>
+		<name type="3">charactar_achievement_name_10061</name>
+		<illustration type="3">Achievement#jineng</illustration>
+		<tag type="3">charactar_achievement_tag_10061</tag>
+		<describe type="3">charactar_achievement_describe_10061</describe>
+		<biography type="3">charactar_achievement_biography_10061</biography>
+		<max_star type="1">1</max_star>
+		<current_star type="1">1</current_star>
+		<is_global type="1">1</is_global>
+		<target_type type="1">15</target_type>
+		<target_para_list type="3">1401;1001,1006,1007</target_para_list>
+		<reward type="3">1,2,30</reward>
+		<is_behavior_record type="1">1</is_behavior_record>
+	</charactar_achievement>
+	<charactar_achievement>
+		<id type="1">10071</id>
+		<series_id type="1">1007</series_id>
+		<name type="3">charactar_achievement_name_10071</name>
+		<illustration type="3">Achievement#jineng</illustration>
+		<tag type="3">charactar_achievement_tag_10071</tag>
+		<describe type="3">charactar_achievement_describe_10071</describe>
+		<biography type="3">charactar_achievement_biography_10071</biography>
+		<max_star type="1">1</max_star>
+		<current_star type="1">1</current_star>
+		<is_global type="1">0</is_global>
+		<target_type type="1">3</target_type>
+		<target_para_list type="3">3</target_para_list>
+		<reward type="3">1,2,5</reward>
+		<is_behavior_record type="1">0</is_behavior_record>
+	</charactar_achievement>
+	<charactar_achievement>
+		<id type="1">10081</id>
+		<series_id type="1">1008</series_id>
+		<name type="3">charactar_achievement_name_10081</name>
+		<illustration type="3">Achievement#jineng</illustration>
+		<tag type="3">charactar_achievement_tag_10081</tag>
+		<describe type="3">charactar_achievement_describe_10081</describe>
+		<biography type="3">charactar_achievement_biography_10081</biography>
+		<max_star type="1">1</max_star>
+		<current_star type="1">1</current_star>
+		<is_global type="1">1</is_global>
+		<target_type type="1">10</target_type>
+		<target_para_list type="3">17</target_para_list>
+		<reward type="3">1,2,10</reward>
+		<is_behavior_record type="1">0</is_behavior_record>
+	</charactar_achievement>
+	<charactar_achievement>
+		<id type="1">10091</id>
+		<series_id type="1">1009</series_id>
+		<name type="3">charactar_achievement_name_10091</name>
+		<illustration type="3">Achievement#jineng</illustration>
+		<tag type="3">charactar_achievement_tag_10091</tag>
+		<describe type="3">charactar_achievement_describe_10091</describe>
+		<biography type="3">charactar_achievement_biography_10091</biography>
+		<max_star type="1">1</max_star>
+		<current_star type="1">1</current_star>
+		<is_global type="1">1</is_global>
+		<target_type type="1">11</target_type>
+		<target_para_list type="3">10013,2</target_para_list>
+		<reward type="3">1,2,5</reward>
+		<is_behavior_record type="1">0</is_behavior_record>
+	</charactar_achievement>
+	<charactar_achievement>
+		<id type="1">10101</id>
+		<series_id type="1">1010</series_id>
+		<name type="3">charactar_achievement_name_10101</name>
+		<illustration type="3">Achievement#jineng</illustration>
+		<tag type="3">charactar_achievement_tag_10101</tag>
+		<describe type="3">charactar_achievement_describe_10101</describe>
+		<biography type="3">charactar_achievement_biography_10101</biography>
+		<max_star type="1">1</max_star>
+		<current_star type="1">1</current_star>
+		<is_global type="1">1</is_global>
+		<target_type type="1">13</target_type>
+		<target_para_list type="3">2,6</target_para_list>
+		<reward type="3">1,2,30</reward>
+		<is_behavior_record type="1">0</is_behavior_record>
+	</charactar_achievement>
+</dataroot>

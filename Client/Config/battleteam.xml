@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<dataroot>
+  <battleteam>
+    <id>1</id>
+    <teamid0>1|2</teamid0>
+    <teamid1>3|4</teamid1>
+    <teamid2>3</teamid2>
+    <teamid3>6</teamid3>
+  </battleteam>
+  <battleteam>
+    <id>2</id>
+    <teamid0>1</teamid0>
+    <teamid1>3|4</teamid1>
+    <teamid2>5</teamid2>
+    <teamid3>5</teamid3>
+  </battleteam>
+  <battleteam>
+    <id>3</id>
+    <teamid0>1|2</teamid0>
+    <teamid1>3|4</teamid1>
+    <teamid2>6</teamid2>
+    <teamid3>5</teamid3>
+  </battleteam>
+  <battleteam>
+    <id>4</id>
+    <teamid0>1</teamid0>
+    <teamid1>3|4</teamid1>
+    <teamid2>5</teamid2>
+    <teamid3>6</teamid3>
+  </battleteam>
+</dataroot>

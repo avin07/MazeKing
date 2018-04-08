@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<diyraid_global_effect>
+		<id type="1">1</id>
+		<defend_support_list type="3">20007,1</defend_support_list>
+		<defend_buff type="3"/>
+		<attack_buff type="3"/>
+		<change_monster_element type="1"/>
+		<change_fragment_type type="1"/>
+		<fragment_type type="1"/>
+		<add_level type="1"/>
+		<type type="1">1</type>
+		<desc type="3">global_effect_desc_1</desc>
+	</diyraid_global_effect>
+	<diyraid_global_effect>
+		<id type="1">2</id>
+		<defend_support_list type="3"/>
+		<defend_buff type="3">1007,1,1</defend_buff>
+		<attack_buff type="3"/>
+		<change_monster_element type="1"/>
+		<change_fragment_type type="1"/>
+		<fragment_type type="1"/>
+		<add_level type="1"/>
+		<type type="1">2</type>
+		<desc type="3">global_effect_desc_2</desc>
+	</diyraid_global_effect>
+	<diyraid_global_effect>
+		<id type="1">3</id>
+		<defend_support_list type="3"/>
+		<defend_buff type="3"/>
+		<attack_buff type="3">1013,1,2</attack_buff>
+		<change_monster_element type="1"/>
+		<change_fragment_type type="1"/>
+		<fragment_type type="1"/>
+		<add_level type="1"/>
+		<type type="1">3</type>
+		<desc type="3">global_effect_desc_3</desc>
+	</diyraid_global_effect>
+	<diyraid_global_effect>
+		<id type="1">4</id>
+		<defend_support_list type="3"/>
+		<defend_buff type="3"/>
+		<attack_buff type="3"/>
+		<change_monster_element type="1">230</change_monster_element>
+		<change_fragment_type type="1">12</change_fragment_type>
+		<fragment_type type="1"/>
+		<add_level type="1"/>
+		<type type="1">4</type>
+		<desc type="3">global_effect_desc_4</desc>
+	</diyraid_global_effect>
+	<diyraid_global_effect>
+		<id type="1">5</id>
+		<defend_support_list type="3"/>
+		<defend_buff type="3"/>
+		<attack_buff type="3"/>
+		<change_monster_element type="1"/>
+		<change_fragment_type type="1"/>
+		<fragment_type type="1"/>
+		<add_level type="1"/>
+		<type type="1">5</type>
+		<desc type="3">global_effect_desc_5</desc>
+	</diyraid_global_effect>
+	<diyraid_global_effect>
+		<id type="1">6</id>
+		<defend_support_list type="3"/>
+		<defend_buff type="3"/>
+		<attack_buff type="3"/>
+		<change_monster_element type="1"/>
+		<change_fragment_type type="1"/>
+		<fragment_type type="1">22</fragment_type>
+		<add_level type="1">1</add_level>
+		<type type="1">6</type>
+		<desc type="3">global_effect_desc_6</desc>
+	</diyraid_global_effect>
+</dataroot>

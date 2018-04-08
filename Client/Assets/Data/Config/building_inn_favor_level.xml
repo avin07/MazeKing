@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<building_inn_favor_level>
+		<id type="1">1</id>
+		<max_favor type="1">20</max_favor>
+		<recruit_number type="1">1</recruit_number>
+	</building_inn_favor_level>
+	<building_inn_favor_level>
+		<id type="1">2</id>
+		<max_favor type="1">40</max_favor>
+		<recruit_number type="1">2</recruit_number>
+	</building_inn_favor_level>
+	<building_inn_favor_level>
+		<id type="1">3</id>
+		<max_favor type="1">60</max_favor>
+		<recruit_number type="1">3</recruit_number>
+	</building_inn_favor_level>
+	<building_inn_favor_level>
+		<id type="1">4</id>
+		<max_favor type="1">80</max_favor>
+		<recruit_number type="1">4</recruit_number>
+	</building_inn_favor_level>
+	<building_inn_favor_level>
+		<id type="1">5</id>
+		<max_favor type="1">100</max_favor>
+		<recruit_number type="1">4</recruit_number>
+	</building_inn_favor_level>
+</dataroot>

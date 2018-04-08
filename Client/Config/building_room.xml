@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<building_room>
+		<id type="1">5001</id>
+		<room_formula type="3">2,2,3,1</room_formula>
+		<popularity_by_blank type="1">10</popularity_by_blank>
+		<popularity_by_complete type="1">20</popularity_by_complete>
+		<wall_position type="3">3,6,8,9,10,11,14,15,16,23,24,31,32,39,40,41,42,47,50,51,52,53,54,55</wall_position>
+		<room_limit type="3">3,1</room_limit>
+		<door_position type="3">4,5</door_position>
+		<wall_height type="1">2</wall_height>
+		<wall_number type="1">48</wall_number>
+	</building_room>
+	<building_room>
+		<id type="1">5002</id>
+		<room_formula type="3">1,1,-1,4;2,2,7,1;1,2,4,1</room_formula>
+		<popularity_by_blank type="1">20</popularity_by_blank>
+		<popularity_by_complete type="1">50</popularity_by_complete>
+		<wall_position type="3">5,8,9,10,11,12,13,14,17,18,23,26,27,35,36,44,45,53,54,62,63,64,65,66,67,68,69,70,71</wall_position>
+		<room_limit type="3"/>
+		<door_position type="3">24,25</door_position>
+		<wall_height type="1">2</wall_height>
+		<wall_number type="1">58</wall_number>
+	</building_room>
+	<building_room>
+		<id type="1">5003</id>
+		<room_formula type="3">2,1,10,1</room_formula>
+		<popularity_by_blank type="1">20</popularity_by_blank>
+		<popularity_by_complete type="1">50</popularity_by_complete>
+		<wall_position type="3">5,8,9,10,11,12,13,14,17,18,23,24,25,26,27,35,36,44,45,53,54,62,63,64,65,66,67,68,69,70,71</wall_position>
+		<room_limit type="3">10,4</room_limit>
+		<door_position type="3">24,25</door_position>
+		<wall_height type="1">2</wall_height>
+		<wall_number type="1">58</wall_number>
+	</building_room>
+	<building_room>
+		<id type="1">5004</id>
+		<room_formula type="3">2,2,2,1</room_formula>
+		<popularity_by_blank type="1">10</popularity_by_blank>
+		<popularity_by_complete type="1">20</popularity_by_complete>
+		<wall_position type="3">3,6,8,9,10,11,14,15,16,23,24,31,32,39,40,41,42,47,50,51,52,53,54,55</wall_position>
+		<room_limit type="3">2,1</room_limit>
+		<door_position type="3">4,5</door_position>
+		<wall_height type="1">2</wall_height>
+		<wall_number type="1">48</wall_number>
+	</building_room>
+	<building_room>
+		<id type="1">5005</id>
+		<room_formula type="3">2,2,7,1</room_formula>
+		<popularity_by_blank type="1">10</popularity_by_blank>
+		<popularity_by_complete type="1">20</popularity_by_complete>
+		<wall_position type="3">3,6,8,9,10,11,14,15,16,23,24,31,32,39,40,41,42,47,50,51,52,53,54,55</wall_position>
+		<room_limit type="3">7,1</room_limit>
+		<door_position type="3">4,5</door_position>
+		<wall_height type="1">2</wall_height>
+		<wall_number type="1">48</wall_number>
+	</building_room>
+</dataroot>

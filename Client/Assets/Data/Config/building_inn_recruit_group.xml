@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<building_inn_recruit_group>
+		<id type="1">1000</id>
+		<recruit_id type="3">1,4,7</recruit_id>
+	</building_inn_recruit_group>
+	<building_inn_recruit_group>
+		<id type="1">2000</id>
+		<recruit_id type="3">10,13,16</recruit_id>
+	</building_inn_recruit_group>
+	<building_inn_recruit_group>
+		<id type="1">3000</id>
+		<recruit_id type="3">19,22,25</recruit_id>
+	</building_inn_recruit_group>
+	<building_inn_recruit_group>
+		<id type="1">1020</id>
+		<recruit_id type="3">28,31,34</recruit_id>
+	</building_inn_recruit_group>
+	<building_inn_recruit_group>
+		<id type="1">2020</id>
+		<recruit_id type="3">37,40,43</recruit_id>
+	</building_inn_recruit_group>
+	<building_inn_recruit_group>
+		<id type="1">3020</id>
+		<recruit_id type="3">2,5,8</recruit_id>
+	</building_inn_recruit_group>
+	<building_inn_recruit_group>
+		<id type="1">1040</id>
+		<recruit_id type="3">11,14,17</recruit_id>
+	</building_inn_recruit_group>
+	<building_inn_recruit_group>
+		<id type="1">2040</id>
+		<recruit_id type="3">20,23,26</recruit_id>
+	</building_inn_recruit_group>
+	<building_inn_recruit_group>
+		<id type="1">3040</id>
+		<recruit_id type="3">29,32,35</recruit_id>
+	</building_inn_recruit_group>
+	<building_inn_recruit_group>
+		<id type="1">1060</id>
+		<recruit_id type="3">38,41,44</recruit_id>
+	</building_inn_recruit_group>
+	<building_inn_recruit_group>
+		<id type="1">2060</id>
+		<recruit_id type="3">3,6,9</recruit_id>
+	</building_inn_recruit_group>
+	<building_inn_recruit_group>
+		<id type="1">3060</id>
+		<recruit_id type="3">12,15,18</recruit_id>
+	</building_inn_recruit_group>
+	<building_inn_recruit_group>
+		<id type="1">1080</id>
+		<recruit_id type="3">21,24,27</recruit_id>
+	</building_inn_recruit_group>
+	<building_inn_recruit_group>
+		<id type="1">2080</id>
+		<recruit_id type="3">30,33,36</recruit_id>
+	</building_inn_recruit_group>
+	<building_inn_recruit_group>
+		<id type="1">3080</id>
+		<recruit_id type="3">39,42,45</recruit_id>
+	</building_inn_recruit_group>
+	<building_inn_recruit_group>
+		<id type="1">1</id>
+		<recruit_id type="3">100,101</recruit_id>
+	</building_inn_recruit_group>
+</dataroot>

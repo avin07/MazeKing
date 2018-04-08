@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<room_layout>
+		<id type="1">401</id>
+		<wall_layout type="1">401</wall_layout>
+		<room_decoration type="3">0,1,10066</room_decoration>
+		<door_position type="3">1,2</door_position>
+		<door_model type="1">3004</door_model>
+		<area type="1">4</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">402</id>
+		<wall_layout type="1">402</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">1,2</door_position>
+		<door_model type="1">3004</door_model>
+		<area type="1">4</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">403</id>
+		<wall_layout type="1">403</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">1,2</door_position>
+		<door_model type="1">3004</door_model>
+		<area type="1">4</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">501</id>
+		<wall_layout type="1">501</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">2,3</door_position>
+		<door_model type="1">3004</door_model>
+		<area type="1">9</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">502</id>
+		<wall_layout type="1">502</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">2,3</door_position>
+		<door_model type="1">3004</door_model>
+		<area type="1">9</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">503</id>
+		<wall_layout type="1">503</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">2,3</door_position>
+		<door_model type="1">3004</door_model>
+		<area type="1">9</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">601</id>
+		<wall_layout type="1">601</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">2,3</door_position>
+		<door_model type="1">3004</door_model>
+		<area type="1">16</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">602</id>
+		<wall_layout type="1">602</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">2,3</door_position>
+		<door_model type="1">3004</door_model>
+		<area type="1">16</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">603</id>
+		<wall_layout type="1">603</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">2,3</door_position>
+		<door_model type="1">3004</door_model>
+		<area type="1">16</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">604</id>
+		<wall_layout type="1">604</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">2,3</door_position>
+		<door_model type="1">3004</door_model>
+		<area type="1">16</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">701</id>
+		<wall_layout type="1">701</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">3,4</door_position>
+		<door_model type="1">3004</door_model>
+		<area type="1">25</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">702</id>
+		<wall_layout type="1">702</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">3,4</door_position>
+		<door_model type="1">3004</door_model>
+		<area type="1">25</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">703</id>
+		<wall_layout type="1">703</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">3,4</door_position>
+		<door_model type="1">3004</door_model>
+		<area type="1">25</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">704</id>
+		<wall_layout type="1">704</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">3,4</door_position>
+		<door_model type="1">3004</door_model>
+		<area type="1">25</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">705</id>
+		<wall_layout type="1">705</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">3,4</door_position>
+		<door_model type="1">3004</door_model>
+		<area type="1">25</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">801</id>
+		<wall_layout type="1">801</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">3,4</door_position>
+		<door_model type="1">3004</door_model>
+		<area type="1">36</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">802</id>
+		<wall_layout type="1">802</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">3,4</door_position>
+		<door_model type="1">3004</door_model>
+		<area type="1">36</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">803</id>
+		<wall_layout type="1">803</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">3,4</door_position>
+		<door_model type="1">3004</door_model>
+		<area type="1">36</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">804</id>
+		<wall_layout type="1">804</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">3,4</door_position>
+		<door_model type="1">3004</door_model>
+		<area type="1">36</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">805</id>
+		<wall_layout type="1">805</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">3,4</door_position>
+		<door_model type="1">3004</door_model>
+		<area type="1">36</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">806</id>
+		<wall_layout type="1">806</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">3,4</door_position>
+		<door_model type="1">3004</door_model>
+		<area type="1">36</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">901</id>
+		<wall_layout type="1">901</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">4,5</door_position>
+		<door_model type="1">3004</door_model>
+		<area type="1">49</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">1001</id>
+		<wall_layout type="1">1001</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">4,5</door_position>
+		<door_model type="1">3004</door_model>
+		<area type="1">64</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">10001</id>
+		<wall_layout type="1">1009</wall_layout>
+		<room_decoration type="3">16,0,10041;12,1,10019;82,1,10019;86,1,10019;30,1,10018;50,1,10018;39,1,10018;59,1,10018;40,8,10059;41,8,10059;42,8,10059;43,8,10059;44,8,10059;45,8,10059;46,8,10059;47,8,10059;48,8,10059;49,8,10059;50,8,10059;51,8,10059;52,8,10059;53,8,10059;54,8,10059;55,8,10059;56,8,10059;57,8,10059;58,8,10059;59,8,10059;10,5,10057;11,5,10057;12,5,10057;13,5,10057;14,5,10057;15,5,10057;16,5,10057;17,5,10057;18,5,10057;19,5,10057;20,6,10057;21,6,10057;22,6,10057;23,6,10057;24,6,10057;25,6,10057;26,6,10057;27,6,10057;28,6,10057;29,6,10057;30,7,10057;31,7,10057;32,7,10057;33,7,10057;34,7,10057;35,7,10057;36,7,10057;37,7,10057;38,7,10057;39,7,10057;80,5,10057,180;81,5,10057,180;82,5,10057,180;83,5,10057,180;84,5,10057,180;85,5,10057,180;86,5,10057,180;87,5,10057,180;88,5,10057,180;89,5,10057,180;70,6,10057,180;71,6,10057,180;72,6,10057,180;73,6,10057,180;74,6,10057,180;75,6,10057,180;76,6,10057,180;77,6,10057,180;78,6,10057,180;79,6,10057,180;60,7,10057,180;61,7,10057,180;62,7,10057,180;63,7,10057,180;64,7,10057,180;65,7,10057,180;66,7,10057,180;67,7,10057,180;68,7,10057,180;69,7,10057,180;</room_decoration>
+		<door_position type="3">0</door_position>
+		<door_model type="1">0</door_model>
+		<area type="1">0</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">10002</id>
+		<wall_layout type="1">0</wall_layout>
+		<room_decoration type="3">870,1,18;880,1,17;933,1,16;965,1,17;976,1,18;985,1,16;1023,1,18;1029,1,16;1062,1,16;1065,1,15;1070,1,17;1077,1,16;1086,1,18;1181,1,16;1219,1,15;1224,1,18;1264,1,15;1271,1,15;1279,1,17;1326,1,16;1373,1,17;1380,1,18;1428,1,16;1465,1,17;1469,1,15;1485,1,17;1583,1,15;1613,1,18;1636,1,17;1816,1,15;967,1,20;1032,1,21;1167,1,21;1283,1,20;1368,1,21;1481,1,20;1617,1,21;1675,1,20;1731,1,21;1771,1,20;1828,1,21;</room_decoration>
+		<door_position type="3">0</door_position>
+		<door_model type="1">0</door_model>
+		<area type="1">0</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">10003</id>
+		<wall_layout type="1">0</wall_layout>
+		<room_decoration type="3">166,0,10002;167,0,10002;168,0,10002;169,0,10002;170,0,10002;171,0,10002;172,0,10030;35,0,10030;44,0,10033;50,0,10030;61,0,10033;65,0,10001;78,0,10001;94,0,10001;110,0,10001;113,0,10001;126,0,10001;130,0,10031;141,0,10032;147,0,10031;156,0,10032;36,0,10029;37,0,10029;38,0,10029;39,0,10029;40,0,10029;41,0,10029;42,0,10029;43,0,10029;66,0,10029;77,0,10029;82,0,10029;93,0,10029;98,0,10029;109,0,10029;114,0,10029;125,0,10029;148,0,10029;149,0,10029;150,0,10029;151,0,10029;152,0,10029;153,0,10029;154,0,10029;155,0,10029;51,0,10029;52,0,10029;53,0,10029;54,0,10029;55,0,10029;56,0,10029;57,0,10029;58,0,10029;59,0,10029;60,0,10029;67,0,10029;68,0,19;69,0,19;70,0,19;71,0,19;72,0,19;73,0,19;74,0,19;75,0,19;76,0,10029;83,0,10024;84,0,10024;85,0,10024;86,0,10024;87,0,10024;88,0,10024;89,0,10024;90,0,10024;91,0,10024;92,0,10024;99,0,10024;100,0,10024;101,0,10024;102,0,10024;103,0,10024;104,0,10024;105,0,10024;106,0,10024;107,0,10024;108,0,10024;115,0,10029;116,0,19;117,0,19;118,0,19;119,0,19;120,0,19;121,0,19;122,0,19;123,0,19;124,0,10029;131,0,10029;132,0,10029;133,0,10029;134,0,10029;135,0,10029;136,0,10029;137,0,10029;138,0,10029;139,0,10029;140,0,10029;</room_decoration>
+		<door_position type="3">0</door_position>
+		<door_model type="1">0</door_model>
+		<area type="1">0</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">10004</id>
+		<wall_layout type="1">0</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">0</door_position>
+		<door_model type="1">0</door_model>
+		<area type="1">0</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">10005</id>
+		<wall_layout type="1">1002</wall_layout>
+		<room_decoration type="3">122,3,10071,270;107,3,10071,270;92,3,10071,270;77,3,10071,270;62,3,10071,270;47,3,10071,270;32,3,10071,270;17,3,10071,270;123,4,10057,90;108,4,10057,90;93,4,10057,90;78,4,10057,90;63,4,10057,90;48,4,10057,90;33,4,10057,90;18,4,10057,90;124,5,10057,90;109,5,10057,90;94,5,10057,90;79,5,10057,90;64,5,10057,90;49,5,10057,90;34,5,10057,90;19,5,10057,90;125,6,10059;110,6,10059;95,6,10059;80,6,10059;65,6,10059;50,6,10059;35,6,10059;20,6,10059;126,5,10057,270;111,5,10057,270;96,5,10057,270;81,5,10057,270;66,5,10057,270;51,5,10057,270;36,5,10057,270;21,5,10057,270;127,4,10057,270;112,4,10057,270;97,4,10057,270;82,4,10057,270;67,4,10057,270;52,4,10057,270;37,4,10057,270;22,4,10057,270;23,3,10071,90;38,3,10071,90;53,3,10071,90;53,3,10071,180;113,3,10071,90;113,3,10071;128,3,10071,90;83,5,10059;84,5,10059;85,5,10059;86,5,10059;87,5,10059;98,4,10057,180;99,4,10057,180;100,4,10057,180;101,4,10057,180;102,4,10057,180;114,3,10071;115,3,10071;116,3,10071;117,3,10071;68,4,10057;69,4,10057;70,4,10057;71,4,10057;72,4,10057;54,3,10071,180;55,3,10071,180;56,3,10071,180;57,3,10071,180;19,4,10059;20,4,10059;21,4,10059;18,3,10059;19,3,10059;20,3,10059;21,3,10059;22,3,10059;19,1,10040;21,1,10040;71,1,10040;69,0,10041;</room_decoration>
+		<door_position type="3">0</door_position>
+		<door_model type="1">0</door_model>
+		<area type="1">0</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">10006</id>
+		<wall_layout type="1">0</wall_layout>
+		<room_decoration type="3">3,0,10032;14,0,10032;128,0,10032;15,0,10030;129,0,10030;140,0,10030;8,0,10031;21,0,10031;123,0,10031;20,0,10033;122,0,10033;135,0,10033;28,0,10026,90;80,0,10026,30;113,0,10026;54,0,10027,150;87,0,10027;31,0,10028,50;64,0,10028,120;90,0,10028,240;115,0,10028;110,0,10001;98,0,10001;86,0,10001;74,0,10001;62,0,10001;50,0,10001;38,0,10001;26,0,10001;117,0,10001;105,0,10001;93,0,10001;81,0,10001;69,0,10001;57,0,10001;45,0,10001;33,0,10001;4,0,10002;5,0,10002;6,0,10002;7,0,10002;136,0,10002;137,0,10002;138,0,10002;139,0,10002;</room_decoration>
+		<door_position type="3">0</door_position>
+		<door_model type="1">0</door_model>
+		<area type="1">0</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">10007</id>
+		<wall_layout type="1">0</wall_layout>
+		<room_decoration type="3">11,0,10032;20,0,10032;78,0,10032;21,0,10030;79,0,10030;88,0,10030;18,0,10031;29,0,10031;71,0,10031;28,0,10033;70,0,10033;81,0,10033;12,0,10002;13,0,10002;14,0,10002;15,0,10002;16,0,10002;17,0,10002;82,0,10002;83,0,10002;84,0,10002;85,0,10002;86,0,10002;87,0,10002;30,0,10001;40,0,10001;50,0,10001;60,0,10001;39,0,10001;49,0,10001;59,0,10001;69,0,10001;22,0,10029;23,0,10029;24,0,10029;25,0,10029;26,0,10029;27,0,10029;31,0,10029;41,0,10029;51,0,10029;61,0,10029;38,0,10029;48,0,10029;58,0,10029;68,0,10029;72,0,10029;73,0,10029;74,0,10029;75,0,10029;76,0,10029;77,0,10029;32,0,19;33,0,19;34,0,19;35,0,19;36,0,19;37,0,19;52,0,19;53,0,19;54,0,19;55,0,19;56,0,19;57,0,19;42,0,10024;43,0,10024;44,0,10024;45,0,10024;46,0,10024;47,0,10024;62,0,10024;63,0,10024;64,0,10024;65,0,10024;66,0,10024;67,0,10024;</room_decoration>
+		<door_position type="3">0</door_position>
+		<door_model type="1">0</door_model>
+		<area type="1">0</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">10008</id>
+		<wall_layout type="1">1003</wall_layout>
+		<room_decoration type="3">7,0,10039;8,0,10039;9,0,10039;10,0,10039;25,0,10039;19,0,10039;13,0,10039;28,0,10039;22,0,10039;16,0,10039;26,0,10039;27,0,10039;14,0,10038;</room_decoration>
+		<door_position type="3">0</door_position>
+		<door_model type="1">0</door_model>
+		<area type="1">0</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">10009</id>
+		<wall_layout type="1">1004</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">0</door_position>
+		<door_model type="1">0</door_model>
+		<area type="1">0</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">10010</id>
+		<wall_layout type="1">1005</wall_layout>
+		<room_decoration type="3">0</room_decoration>
+		<door_position type="3">0</door_position>
+		<door_model type="1">0</door_model>
+		<area type="1">0</area>
+	</room_layout>
+	<room_layout>
+		<id type="1">10011</id>
+		<wall_layout type="1">1006</wall_layout>
+		<room_decoration type="3">85,1,17;987,1,17;990,1,18;1028,1,18;1033,1,17;1041,1,18;1140,1,17;1170,1,18;1221,1,18;1269,1,18;1341,1,17;1390,1,17;1419,1,18;1421,1,17;1491,1,18;1590,1,17;1612,1,18;1660,1,17;1665,1,18;1689,1,18;1709,1,18;1712,1,17;1714,1,17;1765,1,18;1813,1,17;1866,1,18;766,1,15;786,1,16;915,1,16;937,1,15;983,1,15;1030,1,15;1037,1,16;1120,1,16;1240,1,15;1268,1,16;1584,1,16;1589,1,15;1663,1,15;1715,1,15;1762,1,16;1815,1,16;187,1,17;219,1,18;283,1,18;336,1,18;363,1,17;369,1,17;384,1,18;391,1,17;416,1,18;422,1,17;428,1,18;431,1,17;535,1,18;539,1,18;543,1,18;610,1,17;689,1,18;708,1,18;790,1,17;902,1,18;1253,1,18;1402,1,18;1501,1,18;1700,1,17;1803,1,17;235,1,15;239,1,16;365,1,16;374,1,15;376,1,15;434,1,15;438,1,16;467,1,16;470,1,15;474,1,16;481,1,16;588,1,15;591,1,15;636,1,16;1002,1,15;1251,1,16;1550,1,15;1753,1,16;1005,0,20;1302,1,21;1556,0,20;1702,1,21;1960,1,21;2002,2,20;2057,1,21;2161,1,20;2205,2,20;2401,3,20;2358,2,21;2368,2,21;2374,2,20;2380,2,21;2390,2,20;2397,2,21;2294,2,21;2147,2,21;1993,1,20;1796,1,20;1445,1,21;546,2,20;191,2,20;347,3,21;98,4,20;1468,1,10032;1472,1,10031;1518,1,10001;1522,1,10001;1469,1,10002;1470,1,10002;1471,1,10002;1519,2,10042;1520,2,10043;1521,2,10042;</room_decoration>
+		<door_position type="3">0</door_position>
+		<door_model type="1">0</door_model>
+		<area type="1">0</area>
+	</room_layout>
+</dataroot>

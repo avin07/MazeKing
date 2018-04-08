@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+	<raid_fog>
+		<id type="1">1</id>
+		<mark type="3">普通烟雾</mark>
+		<minimap_icon type="3">miniicon_fog_001</minimap_icon>
+		<effect type="3">fog_effect_1</effect>
+		<view_range_down type="1">2</view_range_down>
+		<single_step_trap_id type="1">0</single_step_trap_id>
+		<buff_id type="1">0</buff_id>
+		<is_fire type="1">1</is_fire>
+	</raid_fog>
+	<raid_fog>
+		<id type="1">2</id>
+		<mark type="3">酸雾</mark>
+		<minimap_icon type="3">miniicon_fog_002</minimap_icon>
+		<effect type="3">fog_effect_2</effect>
+		<view_range_down type="1">2</view_range_down>
+		<single_step_trap_id type="1">13</single_step_trap_id>
+		<buff_id type="1">0</buff_id>
+		<is_fire type="1">1</is_fire>
+	</raid_fog>
+	<raid_fog>
+		<id type="1">3</id>
+		<mark type="3">血雾</mark>
+		<minimap_icon type="3">miniicon_fog_003</minimap_icon>
+		<effect type="3">fog_effect_3</effect>
+		<view_range_down type="1">2</view_range_down>
+		<single_step_trap_id type="1">0</single_step_trap_id>
+		<buff_id type="1">7</buff_id>
+		<is_fire type="1">1</is_fire>
+	</raid_fog>
+</dataroot>
