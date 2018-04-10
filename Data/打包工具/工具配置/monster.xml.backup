@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<configurations>
+	<configuration name='monster' autoLower='True' userName='admin'>
+		<excel sheet='monster'>D:\P1_designer_svn\excel\monster.xlsx</excel>
+		<db table='monster'>\\10.10.6.7\共享配置\game.db</db>
+		<comment active='True' key='编号'></comment>
+		<xml root='dataroot' row='monster' method='展开模式' exportType='False'>D:\P1_designer_svn\config\client\monster.xml</xml>
+		<columns>
+			<primary type='int'>id</primary>
+			<column type='int'>charactar_id</column>
+		</columns>
+	</configuration>
+</configurations>

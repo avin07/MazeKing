@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<configurations>
+	<configuration name='maze_random' autoLower='True' userName='admin'>
+		<excel sheet='maze_random'>D:\P1_designer_svn\excel\maze_random.xlsx</excel>
+		<db table='maze_random'>\\10.10.6.7\共享配置\game.db</db>
+		<comment active='True' key='编号'></comment>
+		<xml root='dataroot' row='maze_random' method='展开模式' exportType='False'>D:\P1_designer_svn\client\config\maze_random.xml</xml>
+		<columns>
+			<primary type='int'>id</primary>
+			<column type='string'>abandon_desc</column>
+			<column type='string'>abandon_icon</column>
+			<column type='string'>carry_choose_desc</column>
+			<column type='string'>carry_choose_icon</column>
+			<column type='string'>carry_desc</column>
+			<column type='string'>carry_icon</column>
+			<column type='int'>dead_model</column>
+			<column type='string'>desc</column>
+			<column type='string'>happen_effect</column>
+			<column type='string'>happen_effect_desc</column>
+			<column type='int'>init_model</column>
+			<column type='string'>name</column>
+			<column type='string'>parameter</column>
+			<column type='string'>type</column>
+		</columns>
+	</configuration>
+</configurations>
