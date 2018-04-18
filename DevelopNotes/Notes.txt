@@ -14,3 +14,10 @@ sealed修饰的类为密封类，类声明时可防止其他类继承此类，在方法中声明则可防止派生类
 
 向量点积：一个几何意义是投影。结果小于0时方向相反，结果等于0时垂直，结果大于0时方向相同。点积的结果是标量
 向量叉积：叉积的结果仍然是向量。axb=(ax,ay,az)x(bx,by,bz)=(aybz-azby,axbz-azbx,axby-aybx)
+
+渲染路径：
+	前向渲染路径：
+	场景中最亮的平行光总是逐像素光照；NotImportant光源会按照逐顶点或者sh处理；Important光源会逐像素处理；如果上述逐像素处理（除了最亮的平行光）的数量还不够QualitySetting里设置的数量，则更多光源会按照逐像素处理。
+
+阴影原理(ShadowMap)
+	1 当光源阴影开启时，渲染引擎会首先找到LightMode为ShaderCaster的Pass（如果没有，会在Fallback里找）

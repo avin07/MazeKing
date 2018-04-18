@@ -3,24 +3,24 @@ shader（基础知识，光照，卡通渲染，后期，描边，战争迷雾）
 	向量点乘叉乘，齐次向量，SRT矩阵。
 	点与线段关系，点与举行关系。欧拉角与四元数
 渲染：
-	Mipmap,zfighting,阴影，裁剪的种类和时机，光照模型，光栅化，法线贴图
-	static
+	Mipmap,zfighting,
+	阴影，裁剪的种类和时机，
+	光照模型，光栅化，法线贴图
 	渲染管线选择
-	动态批次合并
+	static 动态批次合并
 	水，卡通渲染，消融，战争迷雾，描边。
 
 	协程Coroutine
-	a*寻路
-	行为树
 	LUA
 	资源热更方案
 	JIT AOT
 	monobehaviour生命周期
 
 AI：
+	a*寻路
+	行为树
 	FSM
-网络：
-	
+网络：	
 	了解protobuf
 	socket
 	同步机制（帧同步，状态同步）	
@@ -48,5 +48,4 @@ AI：
 c#：
 	委托
 	反射
-	struct class（值，引用）
-c++：
+	（值，引用）
