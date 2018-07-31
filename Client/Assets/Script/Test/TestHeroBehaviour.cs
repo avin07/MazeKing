@@ -16,7 +16,7 @@ class TestHeroBehaviour : MonoBehaviour, IDragHandler
 
         void OnEnable()
         {
-                GameUtility.ObjPlayAnim(gameObject, CommonString.idle_001Str, true);
+                GameUtility.ObjPlayAnim(gameObject, "idle_001", true);
         }
 
         float rotate_offset = -1.5f;

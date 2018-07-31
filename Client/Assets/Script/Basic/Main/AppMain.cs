@@ -59,20 +59,18 @@ class AppMain : SingletonBehaviour<AppMain>
         CharacterManager.GetInst().Init();
         SkillManager.GetInst().Init();
         ModelResourceManager.GetInst().Init();
-        MonsterManager.GetInst().Init();
         ItemManager.GetInst().Init();
         EquipManager.GetInst().Init();
         PetManager.GetInst().Init();
         RaidManager.GetInst().Init();
         TaskManager.GetInst().Init();
-        CombatManager.GetInst().Init();
-        PressureManager.GetInst().Init();
+        //CombatManager.GetInst().Init();
+        //PressureManager.GetInst().Init();
         HomeManager.GetInst().Init();
         WorldMapManager.GetInst().Init();
         CutSceneManager.GetInst().Init();
         NpcManager.GetInst().Init();
-        CampManager.GetInst().Init();
-        //GuideManager.GetInst().Init();
+        HeroManager.GetInst().Init();
 
         ModelResourceManager.GetInst().InitCommonResources();
         UIManager.GetInst().CloseUI("UI_ResourceLoading");
@@ -107,7 +105,7 @@ class AppMain : SingletonBehaviour<AppMain>
         //NetworkManager.GetInst().Update();
         GameStateManager.GetInst().Update();
         ScreenLog.GetInst().Update();
-        CombatManager.GetInst().Update();
+/*        CombatManager.GetInst().Update();*/
     }
 
     void OnGUI()

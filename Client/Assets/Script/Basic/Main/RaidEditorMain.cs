@@ -41,19 +41,17 @@ class RaidEditorMain : SingletonBehaviour<RaidEditorMain>
         CharacterManager.GetInst().Init();
         SkillManager.GetInst().Init();
         ModelResourceManager.GetInst().Init();
-        MonsterManager.GetInst().Init();
         ItemManager.GetInst().Init();
         EquipManager.GetInst().Init();
         PetManager.GetInst().Init();
         RaidManager.GetInst().Init();
         TaskManager.GetInst().Init();
-        CombatManager.GetInst().Init();
-        PressureManager.GetInst().Init();
+/*        CombatManager.GetInst().Init();*/
+/*        PressureManager.GetInst().Init();*/
         HomeManager.GetInst().Init();
         WorldMapManager.GetInst().Init();
         CutSceneManager.GetInst().Init();
         NpcManager.GetInst().Init();
-        CampManager.GetInst().Init();
         GuideManager.GetInst().Init();
 
         ModelResourceManager.GetInst().InitCommonResources();
@@ -90,7 +88,7 @@ class RaidEditorMain : SingletonBehaviour<RaidEditorMain>
         NetworkManager.GetInst().Update();
         GameStateManager.GetInst().Update();
         ScreenLog.GetInst().Update();
-        CombatManager.GetInst().Update();
+/*        CombatManager.GetInst().Update();*/
     }
 
     void OnGUI()

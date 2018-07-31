@@ -1,291 +1,91 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <dataroot>
 	<career>
-		<id type="1">1</id>
-		<name type="3">career_name_1</name>
-		<icon type="3">Career#zhanshi</icon>
-		<mark type="3">平民</mark>
+		<color type='3'>1</color>
+		<growth_atk type='1'></growth_atk>
+		<growth_hp type='1'></growth_hp>
+		<growth_mdef type='1'></growth_mdef>
+		<growth_pdef type='1'></growth_pdef>
+		<growth_spp type='1'></growth_spp>
+		<icon type='3'>Career#zhanshi</icon>
+		<id type='1'>1</id>
+		<init_atk type='1'>9</init_atk>
+		<init_hp type='1'>18</init_hp>
+		<init_mdef type='1'>4</init_mdef>
+		<init_pdef type='1'>6</init_pdef>
+		<init_spd type='1'>10</init_spd>
+		<max_atk type='1'>35</max_atk>
+		<max_hp type='1'>37</max_hp>
+		<max_mdef type='1'>26</max_mdef>
+		<max_pdef type='1'>23</max_pdef>
+		<max_spd type='1'>36</max_spd>
+		<name type='3'>剑士</name>
+		<race type='3'>1</race>
 	</career>
 	<career>
-		<id type="1">2</id>
-		<name type="3">career_name_2</name>
-		<icon type="3">Career#zhanshi</icon>
-		<mark type="3">战士</mark>
+		<color type='3'>2</color>
+		<growth_atk type='1'></growth_atk>
+		<growth_hp type='1'></growth_hp>
+		<growth_mdef type='1'></growth_mdef>
+		<growth_pdef type='1'></growth_pdef>
+		<growth_spp type='1'></growth_spp>
+		<icon type='3'>Career#zhanshi</icon>
+		<id type='1'>2</id>
+		<init_atk type='1'>7</init_atk>
+		<init_hp type='1'>17</init_hp>
+		<init_mdef type='1'>6</init_mdef>
+		<init_pdef type='1'>7</init_pdef>
+		<init_spd type='1'>10</init_spd>
+		<max_atk type='1'>31</max_atk>
+		<max_hp type='1'>39</max_hp>
+		<max_mdef type='1'>25</max_mdef>
+		<max_pdef type='1'>29</max_pdef>
+		<max_spd type='1'>34</max_spd>
+		<name type='3'>枪兵</name>
+		<race type='3'>1</race>
 	</career>
 	<career>
-		<id type="1">3</id>
-		<name type="3">career_name_3</name>
-		<icon type="3">Career#jianshi</icon>
-		<mark type="3">剑士</mark>
+		<color type='3'>3</color>
+		<growth_atk type='1'></growth_atk>
+		<growth_hp type='1'></growth_hp>
+		<growth_mdef type='1'></growth_mdef>
+		<growth_pdef type='1'></growth_pdef>
+		<growth_spp type='1'></growth_spp>
+		<icon type='3'>Career#jianshi</icon>
+		<id type='1'>3</id>
+		<init_atk type='1'>9</init_atk>
+		<init_hp type='1'>16</init_hp>
+		<init_mdef type='1'>8</init_mdef>
+		<init_pdef type='1'>4</init_pdef>
+		<init_spd type='1'>7</init_spd>
+		<max_atk type='1'>35</max_atk>
+		<max_hp type='1'>38</max_hp>
+		<max_mdef type='1'>32</max_mdef>
+		<max_pdef type='1'>17</max_pdef>
+		<max_spd type='1'>26</max_spd>
+		<name type='3'>风魔导士</name>
+		<race type='3'>1</race>
 	</career>
 	<career>
-		<id type="1">4</id>
-		<name type="3">career_name_4</name>
-		<icon type="3">Career#shengqishi</icon>
-		<mark type="3">圣骑士</mark>
-	</career>
-	<career>
-		<id type="1">5</id>
-		<name type="3">career_name_5</name>
-		<icon type="3">Career#kuangzhanshi</icon>
-		<mark type="3">狂战士</mark>
-	</career>
-	<career>
-		<id type="1">6</id>
-		<name type="3">career_name_6</name>
-		<icon type="3">Career#jianshi</icon>
-		<mark type="3">佣兵</mark>
-	</career>
-	<career>
-		<id type="1">7</id>
-		<name type="3">career_name_7</name>
-		<icon type="3">Career#shengqishi</icon>
-		<mark type="3">圣教徒</mark>
-	</career>
-	<career>
-		<id type="1">8</id>
-		<name type="3">career_name_8</name>
-		<icon type="3">Career#shengqishi</icon>
-		<mark type="3">十字军</mark>
-	</career>
-	<career>
-		<id type="1">9</id>
-		<name type="3">career_name_9</name>
-		<icon type="3"/>
-		<mark type="3"/>
-	</career>
-	<career>
-		<id type="1">10</id>
-		<name type="3">career_name_10</name>
-		<icon type="3">Career#gongjianshou</icon>
-		<mark type="3">弓箭手</mark>
-	</career>
-	<career>
-		<id type="1">11</id>
-		<name type="3">career_name_11</name>
-		<icon type="3">Career#lieren</icon>
-		<mark type="3">猎人</mark>
-	</career>
-	<career>
-		<id type="1">12</id>
-		<name type="3">career_name_12</name>
-		<icon type="3">Career#gongjianshou</icon>
-		<mark type="3">诗人</mark>
-	</career>
-	<career>
-		<id type="1">13</id>
-		<name type="3">career_name_13</name>
-		<icon type="3">Career#gongjianshou</icon>
-		<mark type="3">舞娘</mark>
-	</career>
-	<career>
-		<id type="1">14</id>
-		<name type="3">career_name_14</name>
-		<icon type="3">Career#gongjianshou</icon>
-		<mark type="3">驯兽师</mark>
-	</career>
-	<career>
-		<id type="1">15</id>
-		<name type="3">career_name_15</name>
-		<icon type="3"/>
-		<mark type="3"/>
-	</career>
-	<career>
-		<id type="1">16</id>
-		<name type="3">career_name_16</name>
-		<icon type="3"/>
-		<mark type="3"/>
-	</career>
-	<career>
-		<id type="1">17</id>
-		<name type="3">career_name_17</name>
-		<icon type="3"/>
-		<mark type="3"/>
-	</career>
-	<career>
-		<id type="1">18</id>
-		<name type="3">career_name_18</name>
-		<icon type="3">Career#moshushi</icon>
-		<mark type="3">魔术师</mark>
-	</career>
-	<career>
-		<id type="1">19</id>
-		<name type="3">career_name_19</name>
-		<icon type="3">Career#moshushi</icon>
-		<mark type="3">法师</mark>
-	</career>
-	<career>
-		<id type="1">20</id>
-		<name type="3">career_name_20</name>
-		<icon type="3">Career#moshushi</icon>
-		<mark type="3">幻术师</mark>
-	</career>
-	<career>
-		<id type="1">21</id>
-		<name type="3">career_name_21</name>
-		<icon type="3">Career#moshushi</icon>
-		<mark type="3">占星师</mark>
-	</career>
-	<career>
-		<id type="1">22</id>
-		<name type="3">career_name_22</name>
-		<icon type="3">Career#moshushi</icon>
-		<mark type="3">大法师</mark>
-	</career>
-	<career>
-		<id type="1">23</id>
-		<name type="3">career_name_23</name>
-		<icon type="3">Career#moshushi</icon>
-		<mark type="3">死灵法师</mark>
-	</career>
-	<career>
-		<id type="1">24</id>
-		<name type="3">career_name_24</name>
-		<icon type="3">Career#moshushi</icon>
-		<mark type="3">贤者</mark>
-	</career>
-	<career>
-		<id type="1">25</id>
-		<name type="3">career_name_25</name>
-		<icon type="3"/>
-		<mark type="3"/>
-	</career>
-	<career>
-		<id type="1">26</id>
-		<name type="3">career_name_26</name>
-		<icon type="3">Career#fushi</icon>
-		<mark type="3">服事</mark>
-	</career>
-	<career>
-		<id type="1">27</id>
-		<name type="3">career_name_27</name>
-		<icon type="3">Career#fushi</icon>
-		<mark type="3">武僧</mark>
-	</career>
-	<career>
-		<id type="1">28</id>
-		<name type="3">career_name_28</name>
-		<icon type="3">Career#fushi</icon>
-		<mark type="3">牧师</mark>
-	</career>
-	<career>
-		<id type="1">29</id>
-		<name type="3">career_name_29</name>
-		<icon type="3"/>
-		<mark type="3"/>
-	</career>
-	<career>
-		<id type="1">30</id>
-		<name type="3">career_name_30</name>
-		<icon type="3"/>
-		<mark type="3"/>
-	</career>
-	<career>
-		<id type="1">31</id>
-		<name type="3">career_name_31</name>
-		<icon type="3">Career#daozei</icon>
-		<mark type="3">盗贼</mark>
-	</career>
-	<career>
-		<id type="1">32</id>
-		<name type="3">career_name_32</name>
-		<icon type="3">Career#daozei</icon>
-		<mark type="3">刺客</mark>
-	</career>
-	<career>
-		<id type="1">33</id>
-		<name type="3">career_name_33</name>
-		<icon type="3">Career#daozei</icon>
-		<mark type="3">小丑</mark>
-	</career>
-	<career>
-		<id type="1">34</id>
-		<name type="3">career_name_34</name>
-		<icon type="3">Career#daozei</icon>
-		<mark type="3">赏金猎人</mark>
-	</career>
-	<career>
-		<id type="1">35</id>
-		<name type="3">career_name_35</name>
-		<icon type="3"/>
-		<mark type="3"/>
-	</career>
-	<career>
-		<id type="1">36</id>
-		<name type="3">career_name_36</name>
-		<icon type="3"/>
-		<mark type="3"/>
-	</career>
-	<career>
-		<id type="1">37</id>
-		<name type="3">career_name_37</name>
-		<icon type="3"/>
-		<mark type="3"/>
-	</career>
-	<career>
-		<id type="1">38</id>
-		<name type="3">career_name_38</name>
-		<icon type="3">Career#shangren</icon>
-		<mark type="3">商人</mark>
-	</career>
-	<career>
-		<id type="1">39</id>
-		<name type="3">career_name_39</name>
-		<icon type="3">Career#shangren</icon>
-		<mark type="3">铁匠</mark>
-	</career>
-	<career>
-		<id type="1">40</id>
-		<name type="3">career_name_40</name>
-		<icon type="3">Career#shangren</icon>
-		<mark type="3">炼金术士</mark>
-	</career>
-	<career>
-		<id type="1">41</id>
-		<name type="3">career_name_41</name>
-		<icon type="3">Career#shangren</icon>
-		<mark type="3">古董商人</mark>
-	</career>
-	<career>
-		<id type="1">42</id>
-		<name type="3">career_name_42</name>
-		<icon type="3">Career#shangren</icon>
-		<mark type="3">旅者</mark>
-	</career>
-	<career>
-		<id type="1">43</id>
-		<name type="3">career_name_43</name>
-		<icon type="3"/>
-		<mark type="3"/>
-	</career>
-	<career>
-		<id type="1">44</id>
-		<name type="3">career_name_44</name>
-		<icon type="3"/>
-		<mark type="3"/>
-	</career>
-	<career>
-		<id type="1">45</id>
-		<name type="3">career_name_45</name>
-		<icon type="3"/>
-		<mark type="3"/>
-	</career>
-	<career>
-		<id type="1">46</id>
-		<name type="3">career_name_46</name>
-		<icon type="3"/>
-		<mark type="3"/>
-	</career>
-	<career>
-		<id type="1">47</id>
-		<name type="3">career_name_47</name>
-		<icon type="3">Career#renzhe</icon>
-		<mark type="3">忍者</mark>
-	</career>
-	<career>
-		<id type="1">48</id>
-		<name type="3">career_name_48</name>
-		<icon type="3">Career#renzhe</icon>
-		<mark type="3">影舞者</mark>
+		<color type='3'>4</color>
+		<growth_atk type='1'></growth_atk>
+		<growth_hp type='1'></growth_hp>
+		<growth_mdef type='1'></growth_mdef>
+		<growth_pdef type='1'></growth_pdef>
+		<growth_spp type='1'></growth_spp>
+		<icon type='3'>Career#shengqishi</icon>
+		<id type='1'>4</id>
+		<init_atk type='1'>6</init_atk>
+		<init_hp type='1'>15</init_hp>
+		<init_mdef type='1'>9</init_mdef>
+		<init_pdef type='1'>3</init_pdef>
+		<init_spd type='1'>11</init_spd>
+		<max_atk type='1'>23</max_atk>
+		<max_hp type='1'>34</max_hp>
+		<max_mdef type='1'>35</max_mdef>
+		<max_pdef type='1'>18</max_pdef>
+		<max_spd type='1'>37</max_spd>
+		<name type='3'>乐手</name>
+		<race type='3'>1</race>
 	</career>
 </dataroot>

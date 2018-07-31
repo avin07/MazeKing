@@ -10,7 +10,6 @@ public enum GAMESTATE
     RAID_PLAYING,
     RAID_COMBAT,
     RAID_CUTSCENE,
-    RAID_CAMPING,
     HOME,   //家园
 };
 
@@ -56,11 +55,6 @@ class GameStateManager : SingletonObject<GameStateManager>
                     CutSceneManager.GetInst().Update();
                 }
                 break;
-            case GAMESTATE.RAID_CAMPING:
-                {
-                    CampManager.GetInst().Update();
-                }
-                break;
             case GAMESTATE.HOME:
                 {
                     HomeManager.GetInst().Update();
@@ -104,26 +98,6 @@ class GameStateManager : SingletonObject<GameStateManager>
                 m_fHeartBeat = Time.realtimeSinceStartup;
             }
             yield return null;
-        }
-    }
-
-    public void TryLogin()
-    {
-        GameState = GAMESTATE.LOGIN;
-        LoginManager.GetInst().TryLogin();
-        AppMain.GetInst().StartCoroutine(HeartBeatUpdate());
-    }
-
-    public void TryConnect()
-    {
-        TryConnect(LoginManager.GetInst().IP);
-    }
-    public void TryConnect(string ip)
-    {
-        //NetworkManager.GetInst().SendPasswordLogin(LoginFake.GetInst().IP, LoginFake.GetInst().Port);
-        if (NetworkManager.GetInst().ConnectToServer(ip, LoginManager.GetInst().Port))
-        {
-            TryLogin();
         }
     }
 

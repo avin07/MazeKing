@@ -9,7 +9,6 @@ public class AudioManager : SingletonObject<AudioManager>
 
         public void PlayMusic(string name)
         {
-                return;
                 if (!m_MusicDict.ContainsKey(name))
                 {
                         AudioClip ac = ResourceManager.GetInst().Load("Audio/" + name, AssetResidentType.Always) as AudioClip;
