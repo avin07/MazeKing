@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<configurations>
+	<configuration name='drop_item' autoLower='True' userName='admin'>
+		<excel sheet='drop_item'>D:\P1_designer_svn\excel\drop_item.xlsx</excel>
+		<db table='drop_item'>\\10.10.6.7\共享配置\game.db</db>
+		<comment active='True' key='编号'></comment>
+		<xml root='dataroot' row='drop_item' method='展开模式' exportType='False'>D:\P1_designer_svn\client\config\drop_item.xml</xml>
+		<columns>
+			<primary type='int'>id</primary>
+			<column type='int'>drop_id</column>
+			<column type='int'>drop_item_count</column>
+			<column type='int'>drop_item_id</column>
+			<column type='int'>drop_item_tpye</column>
+			<column type='int'>drop_item_value</column>
+			<column type='int'>drop_item_weight</column>
+			<column type='int'>drop_item_weight_compensate</column>
+		</columns>
+	</configuration>
+</configurations>

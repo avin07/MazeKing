@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<configurations>
+	<configuration name='maze_road' autoLower='True' userName='admin'>
+		<excel sheet='maze_road'>D:\P1_designer_svn\excel\maze_road.xlsx</excel>
+		<db table='maze_road'>\\10.10.6.7\共享配置\game.db</db>
+		<comment active='True' key='编号'></comment>
+		<xml root='dataroot' row='maze_road' method='展开模式' exportType='False'>D:\P1_designer_svn\client\config\maze_road.xml</xml>
+		<columns>
+			<primary type='int'>id</primary>
+			<column type='int'>event_quantity</column>
+			<column type='string'>link_room</column>
+			<column type='string'>map_id</column>
+			<column type='int'>maze_id</column>
+		</columns>
+	</configuration>
+</configurations>

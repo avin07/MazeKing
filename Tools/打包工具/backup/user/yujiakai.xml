@@ -1,0 +1,1794 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <excel name="active_skill" path=".\excel\active_skill.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\active_skill.xml" sheet="active_skill" name="active_skill" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="String">name</column>
+      <column type="String">desc</column>
+      <column type="String">icon</column>
+      <column type="Integer">effect_type</column>
+      <column type="String">cool_down</column>
+      <column type="Integer">init_cool_down</column>
+      <column type="Integer">target_group</column>
+      <column type="Integer">range_type</column>
+      <column type="Integer">add_skill_range_type</column>
+      <column type="Integer">trigger_skill_range_type</column>
+      <column type="Integer">random_multiple_number</column>
+      <column type="Integer">random_multiple_special_need</column>
+      <column type="Integer">is_hit_sequence</column>
+      <column type="Integer">hit_sequence_interval_time</column>
+      <column type="Integer">forward_type</column>
+      <column type="Integer">cast_action_id</column>
+      <column type="String">cast_effect</column>
+      <column type="String">hit_action</column>
+      <column type="String">hit_effect</column>
+      <column type="String">location_effect</column>
+      <column type="String">bullet_effect</column>
+      <column type="Integer">bullet_speed</column>
+      <column type="String">attack_heal_number</column>
+      <column type="Integer">base_hitrate_per</column>
+      <column type="String">attack_multiplier</column>
+      <column type="String">heal_multiplier</column>
+      <column type="Integer">disperse</column>
+      <column type="String">disperse_effect</column>
+      <column type="String">buff</column>
+      <column type="Integer">add_buff_number</column>
+      <column type="String">buff_rate</column>
+      <column type="Integer">revive</column>
+      <column type="String">revive_effect</column>
+      <column type="Integer">speed</column>
+      <column type="Integer">summon</column>
+      <column type="Integer">punch</column>
+      <column type="Integer">vampire</column>
+      <column type="Integer">pressure</column>
+      <column type="Integer">brightness</column>
+      <column type="Integer">add_skill_condition</column>
+      <column type="Integer">add_skill_id</column>
+      <column type="String">script</column>
+      <column type="Integer">is_slience</column>
+      <column type="String">heal_multiplier_per</column>
+      <column type="String">speed_rate</column>
+      <column type="String">summon_rate</column>
+      <column type="String">punch_rate</column>
+      <column type="String">pressure_rate</column>
+      <column type="String">brightness_rate</column>
+      <column type="String">add_skill_rate</column>
+      <column type="String">disperse_rate</column>
+      <column type="Integer">extra_attributes</column>
+      <column type="String">extra_attributes_multiplier</column>
+      <column type="String">temporary_attribute</column>
+      <column type="Integer">disperse_number</column>
+      <column type="Integer">change_buff</column>
+      <column type="Integer">hit_type</column>
+      <column type="Integer">hit_delay</column>
+      <column type="Integer">type</column>
+      <column type="Integer">base_critical_rate_per</column>
+      <column type="String">target_condition</column>
+      <column type="Integer">extra_critical_rate_per</column>
+      <column type="Integer">extra_damage_increase_per</column>
+      <column type="Integer">extra_penetrate_per</column>
+      <column type="Integer">change_position</column>
+      <column type="String">cast_sound</column>
+      <column type="String">hit_sound</column>
+      <column type="String">bullet_sound</column>
+      <column type="String">location_sound</column>
+    </layout>
+  </excel>
+  <excel name="area_spot" path=".\excel\area_spot.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\area_spot.xml" sheet="area_spot" name="area_spot" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">area_id</column>
+      <column type="Integer">spot_id</column>
+      <column type="Integer">spot_content</column>
+      <column type="Integer">type</column>
+      <column type="Unknown">need_goal_point</column>
+    </layout>
+  </excel>
+  <excel name="attributes" path=".\excel\attributes.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\attributes.xml" sheet="attributes" name="attributes" summary="客户端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">name</column>
+      <column type="String">mark</column>
+    </layout>
+  </excel>
+  <excel name="battle_pressure" path=".\excel\battle_pressure.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\battle_pressure.xml" sheet="battle_pressure" name="battle_pressure" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">type</column>
+      <column type="Integer">range_type</column>
+      <column type="Integer">rate</column>
+      <column type="Integer">min_pressure</column>
+      <column type="Integer">max_pressure</column>
+    </layout>
+  </excel>
+  <excel name="battle_trigger" path=".\excel\battle_trigger.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\battle_trigger.xml" sheet="battle_trigger" name="battle_trigger" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">target</column>
+      <column type="Integer">trigger_action</column>
+      <column type="Integer">trigger_skill_releaser</column>
+      <column type="Integer">trigger_skill_id</column>
+      <column type="Integer">trigger_rate</column>
+      <column type="Integer">is_repeat</column>
+    </layout>
+  </excel>
+  <excel name="brick_elevation" path=".\excel\brick_elevation.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\brick_elevation.xml" sheet="brick_elevation" name="brick_elevation" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">model_list</column>
+      <column type="Integer">req_level</column>
+      <column type="Integer">size</column>
+      <column type="Integer">model</column>
+      <column type="Integer">elevation_group</column>
+      <column type="String">brick_clean_effect</column>
+      <column type="Integer">time</column>
+    </layout>
+  </excel>
+  <excel name="brick_initialization" path=".\excel\brick_initialization.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\brick_initialization.xml" sheet="brick_initialization" name="brick_initialization" summary="客户端/服务端" typed="True">
+      <column type="Integer">area</column>
+      <column type="Integer">elevation</column>
+      <column type="Integer">elevation_type</column>
+      <column type="Integer">id</column>
+      <column type="Integer">brick_number</column>
+      <column type="Integer">use_brick</column>
+      <column type="Integer">is_square</column>
+    </layout>
+  </excel>
+  <excel name="buff" path=".\excel\buff.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\buff.xml" sheet="buff" name="buff" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="String">icon</column>
+      <column type="String">desc</column>
+      <column type="Integer">effective_type</column>
+      <column type="Integer">fail_type</column>
+      <column type="Integer">time</column>
+      <column type="Integer">good_or_bad</column>
+      <column type="Integer">show_type</column>
+      <column type="Integer">is_more_battle</column>
+      <column type="String">exist_effect</column>
+      <column type="Integer">effective_action</column>
+      <column type="String">effective_effect</column>
+      <column type="Integer">multiplier</column>
+      <column type="String">attributes</column>
+      <column type="Integer">overlay_number</column>
+      <column type="Integer">group</column>
+      <column type="Integer">call_trigger_id</column>
+      <column type="Integer">trigger_number</column>
+      <column type="String">add_effect</column>
+      <column type="Integer">is_shield</column>
+      <column type="Integer">target_heal_multiplier_per</column>
+      <column type="Integer">cast_attack_multiplier_per</column>
+      <column type="Integer">overlay_type</column>
+      <column type="Integer">is_damage_fail</column>
+      <column type="Integer">is_escape_fail</column>
+      <column type="Integer">is_dead_fail</column>
+      <column type="Integer">is_sleep_fail</column>
+      <column type="Integer">is_action_fail</column>
+      <column type="String">name</column>
+    </layout>
+  </excel>
+  <excel name="building" path=".\excel\building.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building.xml" sheet="building" name="building" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">level</column>
+      <column type="Integer">max_number</column>
+    </layout>
+  </excel>
+  <excel name="building_attribute_room" path=".\excel\building_attribute_room.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building_attribute_room.xml" sheet="building_attribute_room" name="building_attribute_room" summary="客户端/服务端" typed="True">
+      <column type="String">add_attribute</column>
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="String">total_attribute</column>
+    </layout>
+  </excel>
+  <excel name="building_behavior" path=".\excel\building_behavior.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building_behavior.xml" sheet="building_behavior" name="building_behavior" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">one_id</column>
+      <column type="Integer">two_id</column>
+      <column type="Integer">three_id</column>
+    </layout>
+  </excel>
+  <excel name="building_behavior_facility" path=".\excel\building_behavior_facility.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building_behavior_facility.xml" sheet="building_behavior_facility" name="building_behavior_facility" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">name</column>
+      <column type="String">icon</column>
+      <column type="String">cure_type</column>
+    </layout>
+  </excel>
+  <excel name="building_cure" path=".\excel\building_cure.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building_cure.xml" sheet="building_cure" name="building_cure" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="String">cost_resource_1</column>
+      <column type="Integer">cost_time_1</column>
+      <column type="String">cost_resource_2</column>
+      <column type="Integer">cost_time_2</column>
+      <column type="String">cost_resource_3</column>
+      <column type="Integer">cost_time_3</column>
+      <column type="String">cost_resource_4</column>
+      <column type="Integer">cost_time_4</column>
+      <column type="String">cost_resource_5</column>
+      <column type="Integer">cost_time_5</column>
+      <column type="Integer">cure_limit</column>
+    </layout>
+  </excel>
+  <excel name="building_decoration" path=".\excel\building_decoration.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building_decoration.xml" sheet="building_decoration" name="building_decoration" summary="客户端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">size_y</column>
+      <column type="Integer">take_area</column>
+      <column type="String">icon</column>
+      <column type="String">name</column>
+      <column type="String">desc</column>
+      <column type="Integer">model</column>
+      <column type="Integer">cost_time</column>
+      <column type="String">cost_material</column>
+      <column type="String">back_material</column>
+      <column type="String">main_function</column>
+      <column type="String">minor_function</column>
+      <column type="Integer">add_reputation</column>
+      <column type="String">in_set_list</column>
+    </layout>
+  </excel>
+  <excel name="building_design" path=".\excel\building_design.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building_design.xml" sheet="building_design" name="building_design" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">unlock_furniture_list</column>
+      <column type="Integer">overall_capacity_limit</column>
+      <column type="Integer">max_wall_number</column>
+    </layout>
+  </excel>
+  <excel name="building_drawing" path=".\excel\building_drawing.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building_drawing.xml" sheet="building_drawing" name="building_drawing" summary="客户端/服务端" typed="True">
+      <column type="String">desc</column>
+      <column type="String">icon</column>
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="String">name</column>
+    </layout>
+  </excel>
+  <excel name="building_fire_room" path=".\excel\building_fire_room.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building_fire_room.xml" sheet="building_fire_room" name="building_fire_room" summary="服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">unlock_area</column>
+    </layout>
+  </excel>
+  <excel name="building_function" path=".\excel\building_function.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building_function.xml" sheet="building_function" name="building_function" summary="客户端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="String">icon</column>
+    </layout>
+  </excel>
+  <excel name="building_furniture" path=".\excel\building_furniture.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building_furniture.xml" sheet="building_furniture" name="building_furniture" summary="客户端/服务端" typed="True">
+      <column type="String">cost_material</column>
+      <column type="Integer">cost_time</column>
+      <column type="String">desc</column>
+      <column type="String">icon</column>
+      <column type="Integer">id</column>
+      <column type="String">model</column>
+      <column type="String">name</column>
+      <column type="Integer">level</column>
+      <column type="String">minor_function</column>
+      <column type="Integer">add_reputation</column>
+      <column type="String">clean_cost</column>
+      <column type="String">clean_restore</column>
+    </layout>
+  </excel>
+  <excel name="building_habitancy" path=".\excel\building_habitancy.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building_habitancy.xml" sheet="building_habitancy" name="building_habitancy" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">live_limit</column>
+      <column type="String">mark</column>
+    </layout>
+  </excel>
+  <excel name="building_home_area" path=".\excel\building_home_area.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building_home_area.xml" sheet="building_home_area" name="building_home_area" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="String">relic_position</column>
+      <column type="String">treasure_brick</column>
+      <column type="Integer">unlock_building</column>
+      <column type="String">unlock_effect_position</column>
+      <column type="String">unlock_effect</column>
+    </layout>
+  </excel>
+  <excel name="building_home_exp" path=".\excel\building_home_exp.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building_home_exp.xml" sheet="building_home_exp" name="building_home_exp" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">need_exp</column>
+      <column type="Integer">total_exp</column>
+    </layout>
+  </excel>
+  <excel name="building_home_treasure" path=".\excel\building_home_treasure.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building_home_treasure.xml" sheet="building_home_treasure" name="building_home_treasure" summary="客户端/服务端" typed="True">
+      <column type="Integer">brick_model</column>
+      <column type="Integer">clean_time</column>
+      <column type="Integer">drop_pool</column>
+      <column type="Integer">elevation_max</column>
+      <column type="Integer">elevation_min</column>
+      <column type="Integer">elevation_type</column>
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">model</column>
+      <column type="Integer">size_x</column>
+      <column type="Integer">size_y</column>
+      <column type="Integer">size_z</column>
+      <column type="Integer">type</column>
+    </layout>
+  </excel>
+  <excel name="building_info" path=".\excel\building_info.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building_info.xml" sheet="building_info" name="building_info" summary="客户端/服务端" typed="True">
+      <column type="String">building_function</column>
+      <column type="String">clean_cost</column>
+      <column type="String">clean_restore</column>
+      <column type="String">desc</column>
+      <column type="Integer">door_model</column>
+      <column type="String">door_position</column>
+      <column type="String">function</column>
+      <column type="Integer">id</column>
+      <column type="String">level_up_cost</column>
+      <column type="String">mark</column>
+      <column type="Integer">model</column>
+      <column type="String">name</column>
+      <column type="String">pre_furniture_formula</column>
+      <column type="String">up_furniture_formula</column>
+      <column type="String">room_decoration</column>
+      <column type="Integer">room_height</column>
+      <column type="Integer">drawing_height</column>
+      <column type="String">room_layout</column>
+      <column type="Integer">total_reputation</column>
+      <column type="Integer">add_reputation</column>
+    </layout>
+  </excel>
+  <excel name="building_inn" path=".\excel\building_inn.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building_inn.xml" sheet="building_inn" name="building_inn" summary="客户端/服务器" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">caller_interval</column>
+      <column type="Integer">position</column>
+      <column type="String">star_chance_list</column>
+    </layout>
+  </excel>
+  <excel name="building_make_formula" path=".\excel\building_make_formula.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building_make_formula.xml" sheet="building_make_formula" name="building_make_formula" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="String">require</column>
+      <column type="String">output</column>
+      <column type="Integer">class_id</column>
+      <column type="Integer">furniture_id</column>
+      <column type="Integer">level</column>
+      <column type="Integer">is_int_have</column>
+      <column type="String">name</column>
+      <column type="Integer">make_time</column>
+    </layout>
+  </excel>
+  <excel name="building_make_formula_class" path=".\excel\building_make_formula_class.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building_make_formula_class.xml" sheet="building_make_formula_class" name="building_make_formula_class" summary="客户端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">name</column>
+    </layout>
+  </excel>
+  <excel name="building_produce" path=".\excel\building_produce.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building_produce.xml" sheet="building_produce" name="building_produce" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">output_time</column>
+      <column type="String">output</column>
+      <column type="Integer">reserve</column>
+    </layout>
+  </excel>
+  <excel name="building_stable" path=".\excel\building_stable.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building_stable.xml" sheet="building_stable" name="building_stable" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">cart_level</column>
+      <column type="Integer">max_refresh_raid</column>
+    </layout>
+  </excel>
+  <excel name="building_store" path=".\excel\building_store.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building_store.xml" sheet="building_store" name="building_store" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">type</column>
+      <column type="Integer">add_limit</column>
+      <column type="Integer">total_add_limit</column>
+    </layout>
+  </excel>
+  <excel name="building_surface" path=".\excel\building_surface.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building_surface.xml" sheet="building_surface" name="building_surface" summary="服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">pos_x</column>
+      <column type="Integer">pos_y</column>
+      <column type="Integer">face</column>
+      <column type="Integer">furniture_id</column>
+      <column type="Integer">level</column>
+      <column type="Integer">layout</column>
+    </layout>
+  </excel>
+  <excel name="building_type" path=".\excel\building_type.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\building_type.xml" sheet="building_type" name="building_type" summary="客户端/服务端" typed="True">
+      <column type="Integer">elevation_group</column>
+      <column type="Integer">id</column>
+      <column type="Integer">is_clean</column>
+      <column type="Integer">size_x</column>
+      <column type="Integer">type</column>
+      <column type="String">clean_effect</column>
+      <column type="Integer">can_be_moved</column>
+      <column type="Integer">size_y</column>
+      <column type="Integer">take_capacity</column>
+      <column type="Integer">function_type</column>
+      <column type="String">function_bottom</column>
+      <column type="Integer">page_in_list</column>
+      <column type="String">in_set_list</column>
+      <column type="Integer">height</column>
+      <column type="Integer">bubble_hint</column>
+    </layout>
+  </excel>
+  <excel name="caller_quality" path=".\excel\caller_quality.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\caller_quality.xml" sheet="caller_quality" name="caller_quality" summary="服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">star_chance_list</column>
+    </layout>
+  </excel>
+  <excel name="caller_recruit" path=".\excel\caller_recruit.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\caller_recruit.xml" sheet="caller_recruit" name="caller_recruit" summary="客户端/服务器" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">drop_pool_id</column>
+    </layout>
+  </excel>
+  <excel name="career" path=".\excel\career.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\career.xml" sheet="career" name="career" summary="客户端" typed="True">
+      <column type="String">color</column>
+      <column type="Integer">growth_atk</column>
+      <column type="Integer">growth_hp</column>
+      <column type="Integer">growth_mdef</column>
+      <column type="Integer">growth_pdef</column>
+      <column type="Integer">growth_spp</column>
+      <column type="String">icon</column>
+      <column type="Integer">id</column>
+      <column type="Integer">init_atk</column>
+      <column type="Integer">init_hp</column>
+      <column type="Integer">init_mdef</column>
+      <column type="Integer">init_pdef</column>
+      <column type="Integer">init_spd</column>
+      <column type="Integer">max_atk</column>
+      <column type="Integer">max_hp</column>
+      <column type="Integer">max_mdef</column>
+      <column type="Integer">max_pdef</column>
+      <column type="Integer">max_spd</column>
+      <column type="String">name</column>
+      <column type="String">race</column>
+    </layout>
+  </excel>
+  <excel name="career_family" path=".\excel\career_family.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\career_family.xml" sheet="career_family" name="career_family" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">factor_vs_1</column>
+      <column type="Integer">factor_vs_2</column>
+      <column type="Integer">factor_vs_3</column>
+      <column type="Integer">factor_vs_4</column>
+      <column type="Integer">factor_vs_5</column>
+      <column type="String">favor_sequence</column>
+      <column type="String">name</column>
+      <column type="String">icon</column>
+      <column type="Integer">factor_vs_6</column>
+    </layout>
+  </excel>
+  <excel name="charactar" path=".\excel\charactar.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\charactar.xml" sheet="charactar" name="charactar" summary="客户端/服务端" typed="True">
+      <column type="Integer">accessories_id</column>
+      <column type="Integer">career</column>
+      <column type="Integer">career_sys</column>
+      <column type="String">desc</column>
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">model_id</column>
+      <column type="String">name</column>
+      <column type="Integer">race</column>
+      <column type="Integer">weapon_id</column>
+    </layout>
+  </excel>
+  <excel name="charactar_achievement" path=".\excel\charactar_achievement.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\charactar_achievement.xml" sheet="charactar_achievement" name="charactar_achievement" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">series_id</column>
+      <column type="String">name</column>
+      <column type="String">illustration</column>
+      <column type="String">tag</column>
+      <column type="String">describe</column>
+      <column type="String">biography</column>
+      <column type="Integer">max_star</column>
+      <column type="Integer">current_star</column>
+      <column type="Integer">is_global</column>
+      <column type="Integer">target_type</column>
+      <column type="String">target_para_list</column>
+      <column type="String">reward</column>
+      <column type="Integer">is_behavior_record</column>
+    </layout>
+  </excel>
+  <excel name="charactar_element" path=".\excel\charactar_element.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\charactar_element.xml" sheet="charactar_element" name="charactar_element" summary="客户端/服务器" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">head_icon</column>
+      <column type="String">type_id</column>
+      <column type="Integer">task_npc_id</column>
+    </layout>
+  </excel>
+  <excel name="charactar_element_option" path=".\excel\charactar_element_option.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\charactar_element_option.xml" sheet="charactar_element_option" name="charactar_element_option" summary="客户端/服务器" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">option_name</column>
+      <column type="String">option_effect</column>
+      <column type="String">building_influence_appear</column>
+      <column type="String">building_influence_disappear</column>
+      <column type="Integer">adventure_skill_appear</column>
+      <column type="Integer">adventure_skill_change_effect</column>
+      <column type="String">adventure_skill_effect</column>
+      <column type="String">item_require</column>
+      <column type="Integer">choose_once</column>
+      <column type="String">option_effect_disappear</column>
+    </layout>
+  </excel>
+  <excel name="charactar_element_option_effect" path=".\excel\charactar_element_option_effect.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\charactar_element_option_effect.xml" sheet="charactar_element_option_effect" name="charactar_element_option_effect" summary="服务器" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">type</column>
+      <column type="Integer">is_single_fight</column>
+      <column type="Integer">monster_team</column>
+      <column type="Integer">trade_npc</column>
+      <column type="Integer">task_accept</column>
+      <column type="Integer">task_complete</column>
+      <column type="Integer">complete_ralated</column>
+    </layout>
+  </excel>
+  <excel name="charactar_talk" path=".\excel\charactar_talk.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\charactar_talk.xml" sheet="charactar_talk" name="charactar_talk" summary="客户端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">charactar_id</column>
+      <column type="Integer">mood</column>
+      <column type="String">back</column>
+      <column type="String">stop</column>
+      <column type="String">walk</column>
+      <column type="String">empty</column>
+      <column type="String">trap</column>
+      <column type="String">random_good</column>
+      <column type="String">random_bad</column>
+      <column type="String">treasure_good</column>
+      <column type="String">treasure_bad</column>
+      <column type="String">battle_action</column>
+      <column type="String">battle_good</column>
+      <column type="String">battle_bad</column>
+    </layout>
+  </excel>
+  <excel name="dialog" path=".\excel\dialog.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\dialog.xml" sheet="dialog" name="dialog" summary="客户端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">text</column>
+      <column type="String">event_picture</column>
+      <column type="String">event_choice</column>
+      <column type="String">choice_result_dialog</column>
+      <column type="String">talker_name</column>
+      <column type="String">npc_head_icon</column>
+    </layout>
+  </excel>
+  <excel name="drop_item" path=".\excel\drop_item.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\drop_item.xml" sheet="drop_item" name="drop_item" summary="服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">drop_id</column>
+      <column type="Integer">drop_item_type</column>
+      <column type="Integer">drop_item_id</column>
+      <column type="Integer">drop_item_count</column>
+      <column type="Integer">drop_item_weight</column>
+      <column type="Integer">drop_item_value</column>
+      <column type="Integer">drop_item_weight_compensate</column>
+    </layout>
+  </excel>
+  <excel name="drop_pool" path=".\excel\drop_pool.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\drop_pool.xml" sheet="drop_pool" name="drop_pool" summary="服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">type</column>
+      <column type="String">range</column>
+      <column type="String">mark</column>
+      <column type="Integer">drop_id</column>
+      <column type="Integer">level</column>
+    </layout>
+  </excel>
+  <excel name="elevation_group_ornament" path=".\excel\elevation_group_ornament.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\elevation_group_ornament.xml" sheet="elevation_group_ornament" name="elevation_group_ornament" summary="服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="String">ornament_id</column>
+    </layout>
+  </excel>
+  <excel name="equip" path=".\excel\equip.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\equip.xml" sheet="equip" name="equip" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">name</column>
+      <column type="String">icon</column>
+      <column type="String">desc</column>
+      <column type="Integer">type</column>
+      <column type="Integer">is_two_hands</column>
+      <column type="String">place</column>
+      <column type="String">need_career</column>
+      <column type="Integer">need_level</column>
+      <column type="Integer">quality</column>
+      <column type="Integer">price</column>
+      <column type="String">unload_cost</column>
+      <column type="String">attributes</column>
+      <column type="Integer">score</column>
+      <column type="Integer">value</column>
+      <column type="String">type_icon</column>
+    </layout>
+  </excel>
+  <excel name="experience" path=".\excel\experience.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\experience.xml" sheet="experience" name="experience" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">need_exp</column>
+      <column type="Integer">total_exp</column>
+    </layout>
+  </excel>
+  <excel name="fragment" path=".\excel\fragment.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\fragment.xml" sheet="fragment" name="fragment" summary="客户端/服务端" typed="True">
+      <column type="String">after_spy_scare</column>
+      <column type="String">before_spy_scare</column>
+      <column type="String">first_entrance_trap</column>
+      <column type="Integer">id</column>
+      <column type="Integer">int_trigger_element</column>
+      <column type="Integer">is_drop_floor</column>
+      <column type="Integer">monster_position_id</column>
+      <column type="String">repeat_entrance_trap</column>
+      <column type="Integer">special_door</column>
+      <column type="String">password_clue</column>
+      <column type="Integer">special_door_type</column>
+      <column type="String">exit_trap</column>
+    </layout>
+  </excel>
+  <excel name="furniture_set" path=".\excel\furniture_set.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\furniture_set.xml" sheet="furniture_set" name="furniture_set" summary="客户端/服务器" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">furniture_list</column>
+      <column type="Integer">unlock_main_function</column>
+      <column type="Integer">para</column>
+      <column type="String">add_minor_function</column>
+      <column type="Integer">s_id</column>
+      <column type="Integer">level</column>
+      <column type="String">name</column>
+      <column type="String">describe</column>
+      <column type="Integer">min_wall_count</column>
+    </layout>
+  </excel>
+  <excel name="global_value" path=".\excel\global_value.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\global_value.xml" sheet="global_value" name="global_value" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">name</column>
+      <column type="String">value</column>
+      <column type="String">content</column>
+    </layout>
+  </excel>
+  <excel name="gold_furnace_drop_pool" path=".\excel\gold_furnace_drop_pool.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\gold_furnace_drop_pool.xml" sheet="gold_furnace_drop_pool" name="gold_furnace_drop_pool" summary="服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">drop_pool</column>
+    </layout>
+  </excel>
+  <excel name="guide" path=".\excel\guide.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\guide.xml" sheet="guide" name="guide" summary="客户端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">home_level</column>
+      <column type="String">display_interface</column>
+      <column type="String">target_prompt</column>
+      <column type="Integer">arrow_direction</column>
+      <column type="String">point_at</column>
+      <column type="Integer">next</column>
+      <column type="Integer">raid_piece_id</column>
+      <column type="Integer">common_element_id</column>
+      <column type="Integer">type</column>
+      <column type="Integer">pre_step</column>
+      <column type="Integer">pre_guide</column>
+      <column type="Integer">trigger_guide</column>
+    </layout>
+  </excel>
+  <excel name="hero" path=".\excel\hero.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\hero.xml" sheet="hero" name="hero" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">charactar_id</column>
+    </layout>
+  </excel>
+  <excel name="hint_word" path=".\excel\hint_word.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\hint_word.xml" sheet="hint_word" name="hint_word" summary="客户端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">text</column>
+    </layout>
+  </excel>
+  <excel name="interaction_element_result_pool" path=".\excel\interaction_element_result_pool.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\interaction_element_result_pool.xml" sheet="interaction_element_result_pool" name="interaction_element_result_pool" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">type</column>
+      <column type="Integer">range_type</column>
+      <column type="Integer">drop_id</column>
+      <column type="Integer">min_pressure</column>
+      <column type="Integer">max_pressure</column>
+      <column type="Integer">buff</column>
+      <column type="Integer">hp</column>
+      <column type="String">effect</column>
+      <column type="Integer">pool_id</column>
+      <column type="Integer">level</column>
+      <column type="Integer">specificity_pool</column>
+      <column type="String">finish_result_element</column>
+      <column type="Integer">finish_result_number</column>
+      <column type="String">finish_result_position</column>
+      <column type="Integer">brightness</column>
+      <column type="Integer">hint_word</column>
+    </layout>
+  </excel>
+  <excel name="item" path=".\excel\item.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\item.xml" sheet="item" name="item" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">name</column>
+      <column type="String">icon</column>
+      <column type="String">desc</column>
+      <column type="Integer">type</column>
+      <column type="Integer">quality</column>
+      <column type="String">mark</column>
+      <column type="Integer">stackable</column>
+      <column type="Integer">value</column>
+      <column type="String">type_icon</column>
+      <column type="String">s_script</column>
+      <column type="Integer">is_use</column>
+      <column type="Integer">main_type</column>
+      <column type="String">buff</column>
+      <column type="Integer">use_place</column>
+      <column type="Integer">hp_change</column>
+      <column type="Integer">pressure</column>
+      <column type="Integer">camp_skill_point</column>
+      <column type="Integer">priority</column>
+    </layout>
+  </excel>
+  <excel name="language" path=".\excel\language.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\language.xml" sheet="language" name="language" summary="客户端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">name</column>
+      <column type="String">value</column>
+    </layout>
+  </excel>
+  <excel name="main_function" path=".\excel\main_function.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\main_function.xml" sheet="main_function" name="main_function" summary="客户端/服务器" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">s_id</column>
+      <column type="Integer">type</column>
+      <column type="Integer">button</column>
+    </layout>
+  </excel>
+  <excel name="map_area" path=".\excel\map_area.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\map_area.xml" sheet="map_area" name="map_area" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">map_id</column>
+      <column type="Integer">unlock_type</column>
+      <column type="Integer">cost_gold</column>
+      <column type="Integer">teach_raid_id</column>
+      <column type="Integer">need_level</column>
+      <column type="String">dp_unlock_progress</column>
+      <column type="String">area_name</column>
+      <column type="Integer">dp_max</column>
+    </layout>
+  </excel>
+  <excel name="map_district" path=".\excel\map_district.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\map_district.xml" sheet="map_district" name="map_district" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">name</column>
+      <column type="String">description</column>
+      <column type="Integer">father_outpost_id</column>
+      <column type="Integer">type</column>
+      <column type="String">para</column>
+      <column type="Integer">map_id</column>
+    </layout>
+  </excel>
+  <excel name="model_accessories" path=".\excel\model_accessories.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\model_accessories.xml" sheet="model_accessories" name="model_accessories" summary="客户端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">accessories_name</column>
+      <column type="String">bone_name</column>
+    </layout>
+  </excel>
+  <excel name="model_para" path=".\excel\model_para.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\model_para.xml" sheet="model_para" name="model_para" summary="客户端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="String">icon_resource</column>
+      <column type="String">model_resource</column>
+      <column type="String">action_id_1</column>
+      <column type="String">time_before_hit_1</column>
+      <column type="String">action_id_2</column>
+      <column type="String">time_before_hit_2</column>
+      <column type="String">action_id_3</column>
+      <column type="String">time_before_hit_3</column>
+      <column type="String">miniicon_resource</column>
+      <column type="Integer">scale</column>
+      <column type="String">effect</column>
+      <column type="String">action_collect</column>
+      <column type="String">time_before_collect</column>
+      <column type="String">material_resource</column>
+    </layout>
+  </excel>
+  <excel name="monster" path=".\excel\monster.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\monster.xml" sheet="monster" name="monster" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">charactar_id</column>
+      <column type="Integer">init_attack</column>
+      <column type="Integer">init_speed</column>
+      <column type="Integer">init_critical_rate_per</column>
+      <column type="Integer">init_critical_damage_per</column>
+      <column type="Integer">init_defence</column>
+      <column type="Integer">init_life</column>
+      <column type="Integer">attack_growth</column>
+      <column type="Integer">defence_growth</column>
+      <column type="Integer">life_growth</column>
+      <column type="Integer">attack_factor</column>
+      <column type="Integer">speed_factor</column>
+      <column type="Integer">defence_factor</column>
+      <column type="Integer">life_factor</column>
+      <column type="Integer">speciality_factor</column>
+      <column type="Integer">attack_per_factor</column>
+      <column type="Integer">speed_per_factor</column>
+      <column type="Integer">critical_rate_per_factor</column>
+      <column type="Integer">accurate_per_factor</column>
+      <column type="Integer">penetrate_per_factor</column>
+      <column type="Integer">damage_increase_per_factor</column>
+      <column type="Integer">defence_per_factor</column>
+      <column type="Integer">dodge_per_factor</column>
+      <column type="Integer">debuff_resistance_per_factor</column>
+      <column type="Integer">damage_reduce_per_factor</column>
+      <column type="Integer">parry_per_factor</column>
+      <column type="Integer">rebound_per_factor</column>
+      <column type="Integer">tough_per_factor</column>
+      <column type="Integer">life_per_factor</column>
+      <column type="Integer">life_steal_per_factor</column>
+      <column type="Integer">critical_damage_per_factor</column>
+      <column type="Integer">heal_increase_per_factor</column>
+      <column type="Integer">recover_increase_per_factor</column>
+      <column type="Integer">cooldown_reduce_per_factor</column>
+      <column type="Integer">trigger_rate_per_factor</column>
+      <column type="String">skill_list</column>
+      <column type="String">mark</column>
+      <column type="Integer">debuff_accurate_per_factor</column>
+    </layout>
+  </excel>
+  <excel name="monster_level_strength" path=".\excel\monster_level_strength.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\monster_level_strength.xml" sheet="monster_level_strength" name="monster_level_strength" summary="服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">base_attack</column>
+      <column type="Integer">base_speed</column>
+      <column type="Integer">base_defence</column>
+      <column type="Integer">base_life</column>
+      <column type="Integer">base_speciality</column>
+      <column type="Integer">base_attack_per</column>
+      <column type="Integer">base_speed_per</column>
+      <column type="Integer">base_critical_rate_per</column>
+      <column type="Integer">base_critical_damage_per</column>
+      <column type="Integer">base_accurate_per</column>
+      <column type="Integer">base_penetrate_per</column>
+      <column type="Integer">base_damage_increase_per</column>
+      <column type="Integer">base_defence_per</column>
+      <column type="Integer">base_dodge_per</column>
+      <column type="Integer">base_debuff_resistance_per</column>
+      <column type="Integer">base_damage_reduce_per</column>
+      <column type="Integer">base_parry_per</column>
+      <column type="Integer">base_rebound_per</column>
+      <column type="Integer">base_tough_per</column>
+      <column type="Integer">base_life_per</column>
+      <column type="Integer">base_life_steal_per</column>
+      <column type="Integer">base_heal_increase_per</column>
+      <column type="Integer">base_recover_increase_per</column>
+      <column type="Integer">base_cooldown_reduce_per</column>
+      <column type="Integer">base_trigger_rate_per</column>
+      <column type="Integer">base_debuff_accurate_per</column>
+    </layout>
+  </excel>
+  <excel name="monster_team" path=".\excel\monster_team.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\monster_team.xml" sheet="monster_team" name="monster_team" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">monster_list</column>
+      <column type="String">support_list</column>
+      <column type="String">mark</column>
+      <column type="Integer">story</column>
+      <column type="Integer">team_id</column>
+      <column type="Integer">level</column>
+    </layout>
+  </excel>
+  <excel name="npc" path=".\excel\npc.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\npc.xml" sheet="npc" name="npc" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">model</column>
+      <column type="String">head_icon</column>
+      <column type="String">name</column>
+      <column type="Integer">type</column>
+      <column type="Integer">type_id</column>
+      <column type="String">desc</column>
+      <column type="Integer">live_days</column>
+      <column type="Integer">is_clear_immediately</column>
+      <column type="Integer">place</column>
+      <column type="Integer">npc_id</column>
+      <column type="Integer">level</column>
+      <column type="Integer">star</column>
+      <column type="String">issue_task_id</column>
+      <column type="String">common_dialog</column>
+      <column type="String">submit_task_id</column>
+      <column type="Integer">price</column>
+    </layout>
+  </excel>
+  <excel name="npc_house_visitor" path=".\excel\npc_house_visitor.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\npc_house_visitor.xml" sheet="npc_house_visitor" name="npc_house_visitor" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="String">photo</column>
+      <column type="String">name</column>
+      <column type="String">desc</column>
+      <column type="Integer">get_type</column>
+      <column type="String">get_parameter</column>
+      <column type="Integer">get_per</column>
+      <column type="Integer">pay_type</column>
+      <column type="String">pay_parameter</column>
+      <column type="Integer">is_choose</column>
+    </layout>
+  </excel>
+  <excel name="npc_house_visitor_group" path=".\excel\npc_house_visitor_group.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\npc_house_visitor_group.xml" sheet="npc_house_visitor_group" name="npc_house_visitor_group" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="String">npcid</column>
+    </layout>
+  </excel>
+  <excel name="npc_house_visitor_level" path=".\excel\npc_house_visitor_level.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\npc_house_visitor_level.xml" sheet="npc_house_visitor_level" name="npc_house_visitor_level" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">npc_group</column>
+      <column type="String">mark</column>
+    </layout>
+  </excel>
+  <excel name="npc_village" path=".\excel\npc_village.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\npc_village.xml" sheet="npc_village" name="npc_village" summary="客户端" typed="True">
+      <column type="Integer">type</column>
+      <column type="Integer">formation_id</column>
+      <column type="Integer">hero_limit</column>
+      <column type="String">building_position</column>
+      <column type="String">charactar_element</column>
+      <column type="String">village_brick</column>
+      <column type="String">model_list_1</column>
+      <column type="String">model_list_2</column>
+      <column type="String">model_list_3</column>
+      <column type="String">model_list_4</column>
+      <column type="String">model_list_5</column>
+      <column type="String">model_list_6</column>
+      <column type="String">model_list_7</column>
+      <column type="String">model_list_8</column>
+      <column type="String">model_list_9</column>
+      <column type="String">model_list_10</column>
+      <column type="String">model_list_11</column>
+      <column type="String">model_list_12</column>
+      <column type="Integer">id</column>
+      <column type="String">player_position</column>
+      <column type="String">fight_position</column>
+      <column type="String">village_name</column>
+      <column type="String">village_icon</column>
+      <column type="Integer">next_village</column>
+      <column type="String">open_spot</column>
+    </layout>
+    <layout path="E:\Git\MazeKing\Client\Config\.\server\config\npc_village.xml" sheet="npc_village" name="npc_village" summary="服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">type</column>
+      <column type="Integer">formation_id</column>
+      <column type="Integer">hero_limit</column>
+      <column type="String">village_building</column>
+      <column type="String">charactar_element</column>
+      <column type="String">open_spot</column>
+      <column type="Integer">next_village</column>
+      <column type="Integer">extra_brightness</column>
+    </layout>
+  </excel>
+  <excel name="npc_village_building" path=".\excel\npc_village_building.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\npc_village_building.xml" sheet="npc_village_building" name="npc_village_building" summary="客户端/服务器" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">building_type</column>
+      <column type="Integer">level</column>
+      <column type="Integer">avatar</column>
+    </layout>
+  </excel>
+  <excel name="npc_village_target" path=".\excel\npc_village_target.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\npc_village_target.xml" sheet="npc_village_target" name="npc_village_target" summary="客户端/服务器" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">charactar_element</column>
+    </layout>
+  </excel>
+  <excel name="parameter_level" path=".\excel\parameter_level.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\parameter_level.xml" sheet="parameter_level" name="parameter_level" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">revive_cost</column>
+    </layout>
+  </excel>
+  <excel name="parameter_star" path=".\excel\parameter_star.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\parameter_star.xml" sheet="parameter_star" name="parameter_star" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">revive_cost</column>
+    </layout>
+  </excel>
+  <excel name="passive_skill" path=".\excel\passive_skill.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\passive_skill.xml" sheet="passive_skill" name="passive_skill" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="String">name</column>
+      <column type="String">desc</column>
+      <column type="String">icon</column>
+      <column type="Integer">type</column>
+      <column type="String">attributes</column>
+      <column type="Integer">trigger_id</column>
+      <column type="String">attributes_2</column>
+      <column type="String">attributes_3</column>
+      <column type="String">attributes_4</column>
+      <column type="Integer">condition_limit</column>
+      <column type="String">attributes_5</column>
+    </layout>
+  </excel>
+  <excel name="popularity" path=".\excel\popularity.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\popularity.xml" sheet="popularity" name="popularity" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">popularity_min</column>
+      <column type="Integer">population</column>
+      <column type="Integer">popularity_max</column>
+    </layout>
+  </excel>
+  <excel name="pressure_result" path=".\excel\pressure_result.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\pressure_result.xml" sheet="pressure_result" name="pressure_result" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">type</column>
+      <column type="Integer">range_type</column>
+      <column type="Integer">weight</column>
+      <column type="String">talk</column>
+      <column type="Integer">buff</column>
+      <column type="Integer">pressure</column>
+      <column type="Integer">heal_multiplier_per</column>
+      <column type="String">name</column>
+    </layout>
+  </excel>
+  <excel name="pub" path=".\excel\pub.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\pub.xml" sheet="pub" name="pub" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">reload_number</column>
+      <column type="Integer">type</column>
+      <column type="Integer">need_money</column>
+    </layout>
+  </excel>
+  <excel name="pub_hero" path=".\excel\pub_hero.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\pub_hero.xml" sheet="pub_hero" name="pub_hero" summary="服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">pub</column>
+      <column type="Integer">charactar_id</column>
+      <column type="Integer">probability</column>
+    </layout>
+  </excel>
+  <excel name="pvp_rank" path=".\excel\pvp_rank.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\pvp_rank.xml" sheet="pvp_rank" name="pvp_rank" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">name</column>
+      <column type="String">icon</column>
+      <column type="Integer">score</column>
+    </layout>
+  </excel>
+  <excel name="race" path=".\excel\race.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\race.xml" sheet="race" name="race" summary="客户端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">bg_picture</column>
+      <column type="String">name</column>
+      <column type="String">mark</column>
+    </layout>
+  </excel>
+  <excel name="raid_adventure_skill" path=".\excel\raid_adventure_skill.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_adventure_skill.xml" sheet="raid_adventure_skill" name="raid_adventure_skill" summary="客户端/服务端" typed="True">
+      <column type="Integer">find_probability</column>
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">spy_probability</column>
+      <column type="Integer">type</column>
+      <column type="Integer">non_expend_tool_pro</column>
+      <column type="Integer">drop_double_pro</column>
+      <column type="String">effect_element_type</column>
+      <column type="Integer">hint_word</column>
+    </layout>
+  </excel>
+  <excel name="raid_aside" path=".\excel\raid_aside.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_aside.xml" sheet="raid_aside" name="raid_aside" summary="客户端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">raid</column>
+      <column type="String">enter_aside</column>
+      <column type="String">complete_aside</column>
+      <column type="Integer">cutscene</column>
+    </layout>
+  </excel>
+  <excel name="raid_bed_room" path=".\excel\raid_bed_room.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_bed_room.xml" sheet="raid_bed_room" name="raid_bed_room" summary="服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">result_element</column>
+      <column type="String">result_fragment</column>
+      <column type="Integer">magic_door_pos</column>
+    </layout>
+  </excel>
+  <excel name="raid_boss_room" path=".\excel\raid_boss_room.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_boss_room.xml" sheet="raid_boss_room" name="raid_boss_room" summary="服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">trigger_position</column>
+    </layout>
+  </excel>
+  <excel name="raid_camp_event" path=".\excel\raid_camp_event.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_camp_event.xml" sheet="raid_camp_event" name="raid_camp_event" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="String">picture</column>
+      <column type="String">desc</column>
+      <column type="Integer">condition</column>
+      <column type="Integer">range_type</column>
+      <column type="Integer">is_battle</column>
+      <column type="Integer">is_miss_item</column>
+      <column type="Integer">pressure</column>
+      <column type="String">buff</column>
+      <column type="Integer">weight</column>
+    </layout>
+  </excel>
+  <excel name="raid_camp_skill" path=".\excel\raid_camp_skill.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_camp_skill.xml" sheet="raid_camp_skill" name="raid_camp_skill" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="String">skill_effect</column>
+      <column type="Integer">action_id</column>
+      <column type="String">pressure</column>
+      <column type="String">heal_multiplier_per</column>
+      <column type="String">buff</column>
+      <column type="Integer">range_type</column>
+      <column type="Integer">disperse_number</column>
+      <column type="Integer">repeat_use</column>
+      <column type="Integer">cost_point</column>
+    </layout>
+  </excel>
+  <excel name="raid_common_element" path=".\excel\raid_common_element.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_common_element.xml" sheet="raid_common_element" name="raid_common_element" summary="客户端/服务端" typed="True">
+      <column type="String">adventure_skill_result_pool</column>
+      <column type="Integer">auto_ex_fight</column>
+      <column type="String">before_aside</column>
+      <column type="Integer">brightness_limit</column>
+      <column type="String">common_result_pool</column>
+      <column type="String">desc</column>
+      <column type="Integer">find_resist_probability</column>
+      <column type="String">finish_aside</column>
+      <column type="Integer">finish_transform_element</column>
+      <column type="Integer">icon_height</column>
+      <column type="Integer">id</column>
+      <column type="Integer">is_ask_executor</column>
+      <column type="Integer">is_direct_result</column>
+      <column type="Integer">is_instance</column>
+      <column type="Integer">is_open_door_trigger</column>
+      <column type="Integer">is_perception</column>
+      <column type="Integer">is_result_disappear</column>
+      <column type="Integer">is_result_stop</column>
+      <column type="Integer">is_stop</column>
+      <column type="String">mark</column>
+      <column type="String">model</column>
+      <column type="Integer">monster_team</column>
+      <column type="String">name</column>
+      <column type="String">need_tool_id</column>
+      <column type="Integer">npc_id</column>
+      <column type="String">operation_action</column>
+      <column type="String">operation_effect</column>
+      <column type="String">operation_icon</column>
+      <column type="Integer">operation_time</column>
+      <column type="String">option_client</column>
+      <column type="String">option_result_1</column>
+      <column type="String">option_result_2</column>
+      <column type="String">option_result_3</column>
+      <column type="String">option_server</column>
+      <column type="String">player_operation_action</column>
+      <column type="Integer">plot_id</column>
+      <column type="Integer">put_item_number</column>
+      <column type="String">result_action</column>
+      <column type="Integer">result_drop_change_element</column>
+      <column type="Integer">result_drop_id</column>
+      <column type="String">result_effect</column>
+      <column type="Integer">result_exp</column>
+      <column type="Integer">result_null_change_element</column>
+      <column type="Integer">result_number</column>
+      <column type="Integer">result_trap_change_element</column>
+      <column type="Integer">right_adventure_skill</column>
+      <column type="Integer">room_finish_disappear</column>
+      <column type="String">size</column>
+      <column type="Integer">supporter_id</column>
+      <column type="Integer">type</column>
+      <column type="String">value_interval_multiplier</column>
+      <column type="String">operation_desc</column>
+      <column type="String">result_sound</column>
+      <column type="String">unlock_building</column>
+    </layout>
+  </excel>
+  <excel name="raid_condition_room" path=".\excel\raid_condition_room.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_condition_room.xml" sheet="raid_condition_room" name="raid_condition_room" summary="客户端/服务器" typed="True">
+      <column type="String">desc</column>
+      <column type="Integer">hp_per</column>
+      <column type="Integer">id</column>
+      <column type="Integer">item</column>
+      <column type="Integer">item_number</column>
+      <column type="String">mark</column>
+      <column type="Integer">type</column>
+      <column type="Integer">wrong_hint</column>
+    </layout>
+  </excel>
+  <excel name="raid_destiny_room" path=".\excel\raid_destiny_room.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_destiny_room.xml" sheet="raid_destiny_room" name="raid_destiny_room" summary="服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">reset_bag_drop_pool</column>
+      <column type="String">reset_room_element_1</column>
+      <column type="String">reset_room_element_2</column>
+      <column type="String">reset_room_element_3</column>
+      <column type="String">reset_room_element_4</column>
+    </layout>
+  </excel>
+  <excel name="raid_element_option" path=".\excel\raid_element_option.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_element_option.xml" sheet="raid_element_option" name="raid_element_option" summary="客户端/服务端" typed="True">
+      <column type="Integer">adventure_skill</column>
+      <column type="String">adventure_skill_effect</column>
+      <column type="String">error_hint</column>
+      <column type="Integer">id</column>
+      <column type="Integer">adventure_skill_appear</column>
+      <column type="Integer">adventure_skill_translate</column>
+      <column type="String">mark</column>
+      <column type="String">next_option</column>
+      <column type="String">option_effect</column>
+      <column type="String">option_name</column>
+      <column type="Integer">use_article_way</column>
+      <column type="String">article_type</column>
+      <column type="Integer">is_hp_change</column>
+      <column type="Integer">choose_once</column>
+      <column type="Integer">option_effect_disappear</column>
+      <column type="Integer">pre_option_effect</column>
+      <column type="Integer">is_back</column>
+      <column type="Integer">is_open_next_door</column>
+      <column type="String">hp_change</column>
+      <column type="String">cost_article</column>
+    </layout>
+  </excel>
+  <excel name="raid_element_option_effect" path=".\excel\raid_element_option_effect.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_element_option_effect.xml" sheet="raid_element_option_effect" name="raid_element_option_effect" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">is_element_finish</column>
+      <column type="String">mark</column>
+      <column type="String">monster_team</column>
+      <column type="Integer">trap</column>
+      <column type="Integer">is_single_fight</column>
+      <column type="Integer">change_element</column>
+      <column type="String">ex_node_info</column>
+      <column type="Integer">supporter_id</column>
+      <column type="Integer">hint_word</column>
+      <column type="String">battle_monster_buff</column>
+      <column type="Integer">type</column>
+    </layout>
+  </excel>
+  <excel name="raid_element_type" path=".\excel\raid_element_type.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_element_type.xml" sheet="raid_element_type" name="raid_element_type" summary="客户端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">priority</column>
+      <column type="String">icon</column>
+    </layout>
+  </excel>
+  <excel name="raid_elite_room" path=".\excel\raid_elite_room.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_elite_room.xml" sheet="raid_elite_room" name="raid_elite_room" summary="服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">trigger_position</column>
+    </layout>
+  </excel>
+  <excel name="raid_fragment_plot" path=".\excel\raid_fragment_plot.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_fragment_plot.xml" sheet="raid_fragment_plot" name="raid_fragment_plot" summary="服务端" typed="True">
+      <column type="Integer">belong_fragment</column>
+      <column type="Integer">direct</column>
+      <column type="Integer">fragment_id</column>
+      <column type="Integer">fragment_number</column>
+      <column type="Integer">fragment_plot</column>
+      <column type="Integer">id</column>
+      <column type="Integer">is_able</column>
+      <column type="Integer">is_entrance</column>
+      <column type="String">place_holder</column>
+    </layout>
+  </excel>
+  <excel name="raid_fragment_supplement" path=".\excel\raid_fragment_supplement.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_fragment_supplement.xml" sheet="raid_fragment_supplement" name="raid_fragment_supplement" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">roadbed_change_1</column>
+      <column type="Integer">roadbed_change_2</column>
+      <column type="Integer">roadbed_change_3</column>
+      <column type="Integer">roadbed_change_4</column>
+      <column type="Integer">roadbed_change_5</column>
+      <column type="Integer">roadbed_change_6</column>
+      <column type="Integer">roadbed_change_7</column>
+      <column type="Integer">roadbed_change_8</column>
+      <column type="Integer">roadbed_change_9</column>
+      <column type="Integer">roadbed_change_10</column>
+      <column type="Integer">element_change_1</column>
+      <column type="Integer">element_change_2</column>
+      <column type="Integer">element_change_3</column>
+      <column type="Integer">element_change_4</column>
+      <column type="Integer">element_change_5</column>
+      <column type="Integer">element_change_6</column>
+      <column type="Integer">element_change_7</column>
+      <column type="Integer">element_change_8</column>
+      <column type="Integer">element_change_9</column>
+      <column type="Integer">element_change_10</column>
+      <column type="Integer">roadbed_change_11</column>
+      <column type="Integer">roadbed_change_12</column>
+      <column type="Integer">roadbed_change_13</column>
+      <column type="Integer">element_change_11</column>
+      <column type="Integer">element_change_12</column>
+      <column type="Integer">element_change_13</column>
+    </layout>
+  </excel>
+  <excel name="raid_fragment_type" path=".\excel\raid_fragment_type.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_fragment_type.xml" sheet="raid_fragment_type" name="raid_fragment_type" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">door_type</column>
+      <column type="Integer">is_random</column>
+      <column type="Integer">min_pressure</column>
+      <column type="Integer">is_add_pressure</column>
+      <column type="Integer">max_pressure</column>
+      <column type="String">condition</column>
+      <column type="String">bright_bg</column>
+      <column type="String">dark_bg</column>
+      <column type="Integer">is_perception</column>
+      <column type="Integer">brightness</column>
+      <column type="String">room_type_icon</column>
+    </layout>
+  </excel>
+  <excel name="raid_info" path=".\excel\raid_info.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_info.xml" sheet="raid_info" name="raid_info" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">battle_hero_limit</column>
+      <column type="Integer">carry_item_limit</column>
+      <column type="Integer">cost_vitality</column>
+      <column type="Integer">type</column>
+      <column type="Integer">level_segment</column>
+      <column type="Integer">area_id</column>
+      <column type="Integer">raid_level</column>
+      <column type="Integer">next_raid</column>
+      <column type="String">mark</column>
+      <column type="String">icon</column>
+      <column type="Integer">camp_number</column>
+      <column type="String">house_icon</column>
+      <column type="String">base_icon</column>
+      <column type="Integer">enter_times</column>
+      <column type="String">info_npc_image</column>
+      <column type="String">info_dialog</column>
+      <column type="Integer">raid_task_id</column>
+      <column type="Integer">formation_id</column>
+      <column type="Integer">extra_brightness</column>
+      <column type="String">related_task</column>
+      <column type="Integer">area_goal_point</column>
+    </layout>
+  </excel>
+  <excel name="raid_map" path=".\excel\raid_map.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_map.xml" sheet="raid_map" name="raid_map" summary="客户端/服务端" typed="True">
+      <column type="String">adventure_keyword</column>
+      <column type="Integer">camp_monster_team</column>
+      <column type="Integer">converge_value</column>
+      <column type="String">desc</column>
+      <column type="String">entrance_pool</column>
+      <column type="Integer">floor</column>
+      <column type="Integer">fragment_plot</column>
+      <column type="Integer">id</column>
+      <column type="Integer">is_jump_floor</column>
+      <column type="String">mainroom_pool</column>
+      <column type="Integer">map_id</column>
+      <column type="Integer">min_map_fragment</column>
+      <column type="String">minus_point_change_ns_we_pool</column>
+      <column type="String">minus_point_change_nw_ne_sw_se_pool</column>
+      <column type="String">minus_point_change_single_door_pool</column>
+      <column type="String">minus_point_pool</column>
+      <column type="String">miss_item_number</column>
+      <column type="String">monster</column>
+      <column type="Integer">monster_boss</column>
+      <column type="String">name</column>
+      <column type="String">positive_point_change_ns_we_pool</column>
+      <column type="String">positive_point_change_nw_ne_sw_se_pool</column>
+      <column type="String">positive_point_change_single_door_pool</column>
+      <column type="String">positive_point_pool</column>
+      <column type="String">priority_pool</column>
+      <column type="Integer">raid</column>
+      <column type="String">reward</column>
+      <column type="Integer">scene_resource</column>
+      <column type="Integer">size</column>
+      <column type="Integer">total_size</column>
+      <column type="Integer">comp</column>
+      <column type="Integer">scene_config</column>
+    </layout>
+  </excel>
+  <excel name="raid_organs_room" path=".\excel\raid_organs_room.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_organs_room.xml" sheet="raid_organs_room" name="raid_organs_room" summary="服务端" typed="True">
+      <column type="String">id</column>
+      <column type="String">password_position</column>
+      <column type="Integer">right_open_fragment</column>
+      <column type="Integer">wrong_trap</column>
+    </layout>
+  </excel>
+  <excel name="raid_password_room" path=".\excel\raid_password_room.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_password_room.xml" sheet="raid_password_room" name="raid_password_room" summary="客户端/服务器" typed="True">
+      <column type="Integer">broke_probability</column>
+      <column type="String">clue_id</column>
+      <column type="Integer">clue_number</column>
+      <column type="Integer">id</column>
+      <column type="String">dark_password_icon</column>
+      <column type="Integer">password_number</column>
+      <column type="Integer">password_option</column>
+      <column type="String">bright_password_icon</column>
+    </layout>
+  </excel>
+  <excel name="raid_plot_room" path=".\excel\raid_plot_room.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_plot_room.xml" sheet="raid_plot_room" name="raid_plot_room" summary="服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">trigger_position</column>
+    </layout>
+  </excel>
+  <excel name="raid_random_map_pool" path=".\excel\raid_random_map_pool.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_random_map_pool.xml" sheet="raid_random_map_pool" name="raid_random_map_pool" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">map_fragment_id</column>
+    </layout>
+  </excel>
+  <excel name="raid_river_room" path=".\excel\raid_river_room.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_river_room.xml" sheet="raid_river_room" name="raid_river_room" summary="服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">river_pos</column>
+    </layout>
+  </excel>
+  <excel name="raid_scene" path=".\excel\raid_scene.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_scene.xml" sheet="raid_scene" name="raid_scene" summary="客户端" typed="True">
+      <column type="String">scene_offset</column>
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="String">model_list_1</column>
+      <column type="String">model_list_10</column>
+      <column type="String">model_list_11</column>
+      <column type="String">model_list_12</column>
+      <column type="String">model_list_2</column>
+      <column type="String">model_list_3</column>
+      <column type="String">model_list_4</column>
+      <column type="String">model_list_5</column>
+      <column type="String">model_list_6</column>
+      <column type="String">model_list_7</column>
+      <column type="String">model_list_8</column>
+      <column type="String">model_list_9</column>
+      <column type="String">scene_brick</column>
+      <column type="String">ornament</column>
+    </layout>
+  </excel>
+  <excel name="raid_story_fragment_change" path=".\excel\raid_story_fragment_change.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_story_fragment_change.xml" sheet="raid_story_fragment_change" name="raid_story_fragment_change" summary="服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">change_1</column>
+      <column type="Integer">change_2</column>
+      <column type="Integer">change_3</column>
+      <column type="Integer">story_id</column>
+    </layout>
+  </excel>
+  <excel name="raid_supporter" path=".\excel\raid_supporter.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_supporter.xml" sheet="raid_supporter" name="raid_supporter" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">supporter_id</column>
+      <column type="Integer">monster_id</column>
+      <column type="Integer">level</column>
+      <column type="String">save_speak</column>
+    </layout>
+  </excel>
+  <excel name="raid_talk" path=".\excel\raid_talk.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_talk.xml" sheet="raid_talk" name="raid_talk" summary="客户端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">rate</column>
+      <column type="String">talk_pool</column>
+    </layout>
+  </excel>
+  <excel name="raid_talk_pool" path=".\excel\raid_talk_pool.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_talk_pool.xml" sheet="raid_talk_pool" name="raid_talk_pool" summary="客户端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">text</column>
+    </layout>
+  </excel>
+  <excel name="raid_task" path=".\excel\raid_task.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_task.xml" sheet="raid_task" name="raid_task" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">name</column>
+      <column type="String">desc</column>
+      <column type="Integer">type</column>
+      <column type="String">target_id</column>
+      <column type="String">req_quantity</column>
+      <column type="Integer">reward_home_exp</column>
+      <column type="String">reward_item_list</column>
+      <column type="Integer">reward_frament_id</column>
+      <column type="Integer">is_main_task</column>
+      <column type="String">detail</column>
+    </layout>
+  </excel>
+  <excel name="raid_trap_effect" path=".\excel\raid_trap_effect.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_trap_effect.xml" sheet="raid_trap_effect" name="raid_trap_effect" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="String">effect</column>
+      <column type="Integer">hp</column>
+      <column type="Integer">is_team_attributes</column>
+      <column type="Integer">is_monomer</column>
+      <column type="Integer">buff_id</column>
+      <column type="Integer">drop_id</column>
+      <column type="Integer">min_pressure</column>
+      <column type="Integer">hint_word</column>
+      <column type="Integer">max_pressure</column>
+      <column type="Integer">trap_id</column>
+      <column type="Integer">level</column>
+      <column type="Integer">is_stop</column>
+      <column type="Integer">is_shock_screen</column>
+      <column type="Integer">effect_type</column>
+      <column type="Integer">exp</column>
+      <column type="Integer">specificity_pool</column>
+      <column type="String">resist_adventure_skill</column>
+      <column type="Integer">probability</column>
+      <column type="Integer">brightness</column>
+      <column type="String">sound_effect</column>
+    </layout>
+  </excel>
+  <excel name="raid_type_pool" path=".\excel\raid_type_pool.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\raid_type_pool.xml" sheet="raid_type_pool" name="raid_type_pool" summary="客户端/服务端" typed="True">
+      <column type="Integer">completion</column>
+      <column type="Integer">id</column>
+      <column type="Integer">is_delete</column>
+      <column type="String">map_fragment_id</column>
+      <column type="String">mark</column>
+      <column type="Integer">point</column>
+      <column type="Integer">room_size</column>
+      <column type="Integer">type</column>
+      <column type="Integer">weight</column>
+    </layout>
+  </excel>
+  <excel name="recruit_group" path=".\excel\recruit_group.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\recruit_group.xml" sheet="recruit_group" name="recruit_group" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">recruit_id</column>
+    </layout>
+  </excel>
+  <excel name="require_charactor" path=".\excel\require_charactor.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\require_charactor.xml" sheet="require_charactor" name="require_charactor" summary="客户端/服务端" typed="True">
+      <column type="String">recruit_group_1</column>
+      <column type="Integer">max_favor</column>
+      <column type="String">recruit_group_2</column>
+      <column type="String">recruit_group_3</column>
+      <column type="String">recruit_group_4</column>
+      <column type="String">recruit_group_5</column>
+      <column type="Integer">id</column>
+      <column type="Integer">fragment_parameter</column>
+      <column type="Integer">introduce_rate</column>
+      <column type="Integer">introduce_pool</column>
+      <column type="String">recruit_group_6</column>
+      <column type="String">recruit_group_7</column>
+      <column type="String">recruit_group_8</column>
+      <column type="String">recruit_group_9</column>
+      <column type="String">recruit_group_10</column>
+      <column type="Integer">recruit_times</column>
+    </layout>
+  </excel>
+  <excel name="require_favor_level" path=".\excel\require_favor_level.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\require_favor_level.xml" sheet="require_favor_level" name="require_favor_level" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">favor_range</column>
+      <column type="Integer">recruit_number</column>
+    </layout>
+  </excel>
+  <excel name="require_recruit" path=".\excel\require_recruit.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\require_recruit.xml" sheet="require_recruit" name="require_recruit" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">type</column>
+      <column type="String">present</column>
+      <column type="String">add_favor</column>
+      <column type="String">desc</column>
+      <column type="String">name</column>
+      <column type="String">icon</column>
+    </layout>
+  </excel>
+  <excel name="resources" path=".\excel\resources.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\resources.xml" sheet="resources" name="resources" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="String">name</column>
+      <column type="String">desc</column>
+      <column type="String">icon</column>
+      <column type="String">attr</column>
+      <column type="String">lock_attr</column>
+    </layout>
+  </excel>
+  <excel name="room_extension" path=".\excel\room_extension.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\room_extension.xml" sheet="room_extension" name="room_extension" summary="客户端/服务器" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">room_after_extension</column>
+    </layout>
+  </excel>
+  <excel name="room_layout" path=".\excel\room_layout.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\room_layout.xml" sheet="room_layout" name="room_layout" summary="客户端/服务器" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">wall_layout</column>
+      <column type="String">room_decoration</column>
+      <column type="String">door_position</column>
+      <column type="Integer">door_model</column>
+      <column type="Integer">area</column>
+    </layout>
+  </excel>
+  <excel name="skill" path=".\excel\skill.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\skill.xml" sheet="skill" name="skill" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">icon</column>
+      <column type="Integer">type</column>
+      <column type="String">max_level</column>
+      <column type="Integer">up_rate</column>
+      <column type="String">name</column>
+      <column type="String">desc</column>
+      <column type="Integer">is_base_skill</column>
+    </layout>
+  </excel>
+  <excel name="skill_upgrade" path=".\excel\skill_upgrade.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\skill_upgrade.xml" sheet="skill_upgrade" name="skill_upgrade" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">up_exp</column>
+      <column type="Integer">offer_exp</column>
+    </layout>
+  </excel>
+  <excel name="specificity" path=".\excel\specificity.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\specificity.xml" sheet="specificity" name="specificity" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">type</column>
+      <column type="Integer">good_or_bad</column>
+      <column type="Integer">passive_skill</column>
+      <column type="String">require</column>
+      <column type="Integer">mutex_id</column>
+      <column type="Integer">is_escape</column>
+      <column type="Integer">pressure</column>
+      <column type="String">element_type</column>
+      <column type="Integer">trigger_rate</column>
+      <column type="Integer">result_type</column>
+      <column type="String">trigger_speak</column>
+      <column type="String">name</column>
+      <column type="String">desc</column>
+    </layout>
+  </excel>
+  <excel name="specificity_pool" path=".\excel\specificity_pool.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\specificity_pool.xml" sheet="specificity_pool" name="specificity_pool" summary="服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="String">specificity</column>
+      <column type="Integer">type</column>
+    </layout>
+  </excel>
+  <excel name="story" path=".\excel\story.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\story.xml" sheet="story" name="story" summary="服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">trigger_battle</column>
+      <column type="String">next_story</column>
+      <column type="Integer">need_mark</column>
+      <column type="String">element</column>
+    </layout>
+  </excel>
+  <excel name="summon" path=".\excel\summon.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\summon.xml" sheet="summon" name="summon" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">type</column>
+      <column type="Integer">monster_id</column>
+      <column type="Integer">number</column>
+      <column type="Integer">live_time</column>
+      <column type="String">effect</column>
+    </layout>
+  </excel>
+  <excel name="task" path=".\excel\task.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\task.xml" sheet="task" name="task" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">first_story</column>
+      <column type="Integer">pre_task</column>
+      <column type="Integer">issue_npc</column>
+      <column type="String">accept_dialog</column>
+      <column type="String">next_npc</column>
+      <column type="Integer">home_level_limit</column>
+      <column type="String">name</column>
+      <column type="String">description</column>
+      <column type="Integer">target_type</column>
+      <column type="String">target</column>
+      <column type="String">target_num</column>
+      <column type="String">regular_reward</column>
+      <column type="String">selectable_reward</column>
+      <column type="Integer">submit_npc</column>
+      <column type="String">submit_dialog</column>
+      <column type="String">progress_notice</column>
+      <column type="String">uncompleted_dialog</column>
+      <column type="String">unaccepted_dialog</column>
+      <column type="Integer">type</column>
+      <column type="String">head_icon</column>
+      <column type="String">area_goal_point_reward</column>
+      <column type="String">resource_reward</column>
+    </layout>
+  </excel>
+  <excel name="task_pool" path=".\excel\task_pool.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\task_pool.xml" sheet="task_pool" name="task_pool" summary="服务器" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">task_list</column>
+    </layout>
+  </excel>
+  <excel name="task_pool_refresh" path=".\excel\task_pool_refresh.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\task_pool_refresh.xml" sheet="task_pool_refresh" name="task_pool_refresh" summary="客户端/服务器" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">refresh_price</column>
+    </layout>
+  </excel>
+  <excel name="trade" path=".\excel\trade.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\trade.xml" sheet="trade" name="trade" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">mark</column>
+      <column type="Integer">bag_type</column>
+      <column type="String">own_trade_type</column>
+      <column type="Integer">target_drop_pool</column>
+      <column type="String">sell_special_value_per</column>
+      <column type="String">buy_special_value_per</column>
+      <column type="Integer">sell_value_per</column>
+      <column type="Integer">buy_value_per</column>
+    </layout>
+  </excel>
+  <excel name="week_activity_raid" path=".\excel\week_activity_raid.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\week_activity_raid.xml" sheet="week_activity_raid" name="week_activity_raid" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">raid_id</column>
+      <column type="Integer">opening_time</column>
+      <column type="Integer">closing_time</column>
+    </layout>
+  </excel>
+  <excel name="world_map" path=".\excel\world_map.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\world_map.xml" sheet="world_map" name="world_map" summary="客户端/服务端" typed="True">
+      <column type="Integer">id</column>
+      <column type="String">name</column>
+      <column type="String">description</column>
+      <column type="String">map_resource</column>
+      <column type="Integer">born_district_id</column>
+      <column type="String">camera_bound_x</column>
+      <column type="String">camera_bound_y</column>
+    </layout>
+  </excel>
+  <excel name="worldmap_event" path=".\excel\worldmap_event.xlsx">
+    <layout path="E:\Git\MazeKing\Client\Config\worldmap_event.xml" sheet="worldmap_event" name="worldmap_event" summary="客户端/服务器" typed="True">
+      <column type="Integer">id</column>
+      <column type="Integer">type</column>
+      <column type="Integer">event_type</column>
+      <column type="String">icon</column>
+      <column type="String">initial_dialog</column>
+      <column type="String">event_reward</column>
+      <column type="String">name</column>
+      <column type="Integer">need_level</column>
+    </layout>
+  </excel>
+</root>

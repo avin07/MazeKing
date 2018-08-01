@@ -1,0 +1,6 @@
+运行regedit进入注册表编辑
+搜索Access Connectivity Engine
+搜到的里面找到\Engines\Excel下面有一个TypeGuessRows的字段。原值为8,改为0就可以了。
+
+Access Connectivity Engine可能会搜到好几个版本的。有12.0 14.0 15.0等等
+全都改掉就好了

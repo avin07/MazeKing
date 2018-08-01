@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<configurations>
+	<configuration name='hero' autoLower='True' userName='admin'>
+		<excel sheet='hero'>D:\P1_designer_svn\excel\hero.xlsx</excel>
+		<db table='hero'>\\10.10.6.7\共享配置\game.db</db>
+		<comment active='True' key='编号'></comment>
+		<xml root='dataroot' row='hero' method='展开模式' exportType='False'>D:\P1_designer_svn\config\client\hero.xml</xml>
+		<columns>
+			<primary type='int'>id</primary>
+			<column type='int'>attack_growth</column>
+			<column type='int'>career</column>
+			<column type='int'>defence_growth</column>
+			<column type='int'>init_attack</column>
+			<column type='int'>init_critical_damage</column>
+			<column type='int'>init_critical_rate</column>
+			<column type='int'>init_defence</column>
+			<column type='int'>init_life</column>
+			<column type='int'>init_speed</column>
+			<column type='int'>life_growth</column>
+			<column type='int'>model_id</column>
+			<column type='string'>name</column>
+			<column type='int'>race</column>
+			<column type='int'>scale</column>
+			<column type='string'>skill_list</column>
+		</columns>
+	</configuration>
+</configurations>

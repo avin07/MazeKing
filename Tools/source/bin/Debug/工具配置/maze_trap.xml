@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<configurations>
+	<configuration name='maze_trap' autoLower='True' userName='admin'>
+		<excel sheet='maze_trap'>D:\P1_designer_svn\excel\maze_trap.xlsx</excel>
+		<db table='maze_trap'>\\10.10.6.7\共享配置\game.db</db>
+		<comment active='True' key='编号'></comment>
+		<xml root='dataroot' row='maze_trap' method='展开模式' exportType='False'>D:\P1_designer_svn\client\config\maze_trap.xml</xml>
+		<columns>
+			<primary type='int'>id</primary>
+			<column type='string'>dead_model</column>
+			<column type='string'>desc</column>
+			<column type='string'>happen_effect</column>
+			<column type='string'>happen_effect_desc</column>
+			<column type='int'>init_model</column>
+			<column type='string'>mark</column>
+			<column type='string'>name</column>
+			<column type='string'>parameter</column>
+			<column type='string'>type</column>
+		</columns>
+	</configuration>
+</configurations>
