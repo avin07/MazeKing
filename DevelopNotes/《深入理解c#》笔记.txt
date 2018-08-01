@@ -1,0 +1,15 @@
+《深入理解c#》：
+可空类型Nullable<T>，语法糖：值类型加?
+例如bool?表示可空布尔型，包含值true, false, null，有值时，用.Value取值（称为拆包Unwrapping)
+
+空合并操作符：??
+	first ?? second（如果first不为空，则值为first，否则值为second）
+
+泛型
+委托和事件
+迭代器
+分部类型（partial）
+静态类
+属性取值和赋值的独立修饰符
+命名空间别名（例如：using A = System.xxx;） A::B（A命名空间里的B类) global::B（全局命名空间里的B)
+#pragma 预处理指令

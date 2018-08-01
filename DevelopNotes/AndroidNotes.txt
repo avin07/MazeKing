@@ -1,0 +1,9 @@
+安卓打包时候，如果使用Internal，则在Plugins\Android下有res资源文件夹的时候，unity会自动生成对应的AndroidManifest.xml，并且指定TargetSdkVersion为26。如果需要指定打包出26以下的包，则需要使用gradle模式打包。
+
+使用gradle模式打包注意：默认的mainTemplete.gradle文件里指定了aaptOptions里有nocompress选项，包括了StreamingAssets文件夹。当文件数超过了250个的上限时，打包会失败（unity2017的问题，估计后续会修复）。目前处理方式，把StreamingAssets从nocompress里去掉。
+
+gradle打包，有可能会报java heap space，是jvm虚拟机内存不够。通过设置系统环境按量_JAVA_OPTIONS为-Xmx8192M，可以变大。
+
+java -XX:+PrintFlagsFinal -version | findstr /i "HeapSize PermSize ThreadStackSize"
+
+查看maxheapsize（默认1/4物理内存）

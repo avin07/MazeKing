@@ -1,9 +1,0 @@
-数据表加包起来泛型读取方法
-添加CSharpCallLua标签，用来声明delegate
-luahotfix时不能把C#原来的函数变量直接传delegate，要用function()包一层
-容器在ios下被裁减代码，需要加LuaCallCSharp
-注意同名函数热修复问题。会全部被修掉。
-使用util.hotfix_ex方便快捷
-
-Dictionary在安卓下和IOS下不太一样。。先区别对待。IOS下new的时候带()，安卓不用。
-IOS使用:Add方法，安卓直接用[]

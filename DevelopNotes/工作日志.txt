@@ -1,0 +1,16 @@
+新手指导模块
+充值返还活动
+Web运营活动
+测试界面优化
+单独增加语音聊天的uitask
+android gradle打包研究
+讯飞语音bug修复
+本地推送
+充值引导活动
+渠道活动入口
+聊天界面抖动（LoopVerticalScrollView相关调查）
+ios内存调查
+
+Mojo-QQ工具添加
+svn用的excel-diff工具调研
+CacheServer Test Connection接口调查

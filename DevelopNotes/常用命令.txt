@@ -1,8 +1,14 @@
-adb forward tcp:54999 localabstract:Unity-com.xsj.cqzgf
-nox_adb.exe connect 127.0.0.1:62001
+android profiler:
+	adb forward tcp:54999 localabstract:Unity-com.abc.abcd
+夜神连接eclipse
+	nox_adb.exe connect 127.0.0.1:62001	(nox)
+mumu连接eclipse
+	adb connect 127.0.0.1:7555	(mumu)
+Adb打印logcat到文件
+	adb -s 9fd23996 logcat -v time process > d:/logvivo.txt
 
-export DEVELOPER_DIR="/Applications/XCode.app/Contents/Developer" 
-./symbolicatecrash yxqy.crash yxqyios.app.dSYM > yxqy.log
-
-mini:	c0bbd9d94c3a9e59a244a762b2d6d8416ffd85bf
-5s:		fe5c5701812412e4115253cfffa8cc0b986fe1ed
+ios抓取crash并符号化
+	拷贝/Applications/Xcode.app/Contents/SharedFrameworks/DVTFoundation.framework/Versions/A/Resources/symbolicatecrash到某个文件夹
+	拷贝abcd.crash abcd.app.dSYM到相同文件夹
+	export DEVELOPER_DIR="/Applications/XCode.app/Contents/Developer" 
+	./symbolicatecrash abcd.crash abcd.app.dSYM > abcd.log
