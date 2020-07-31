@@ -1,0 +1,11 @@
+ 将sqlite3.exe放在出问题的工程目录下（有.svn文件夹的层级）
+ 运行cmd命令行，转到该目录下。执行下列指令
+sqlite3.exe .svn/wc.db "select * from work_queue"
+sqlite3.exe .svn/wc.db "delete from work_queue"
+
+
+报database disk image is malformed：
+sqlite3 .svn/wc.db "pragma integrity_check"
+如果有报错，敲下面两行指令
+sqlite3 .svn/wc.db "reindex nodes"
+sqlite3 .svn/wc.db "reindex pristine"

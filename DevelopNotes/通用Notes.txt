@@ -1,0 +1,9 @@
+计算LayoutUtility.GetPreferredHeight之前，要rebuild下layout，不然得到的是旧的或者未初始化的高度。有可能很大。
+调用LayoutUtility.ForceRebuildLayoutImmediate，调用层级设置到content根节点。
+
+WWW.LoadFromCacheOrDownload的接口，参数有url, version, crc，
+url不决定assetbundleName，assetbundleName是导出ab时决定的。（variant机制可以让多个导出的assetbundle用同样的name）
+当assetbundleName和version都一致时，crc不一致会报错，然后删除本地cache中的文件，再下载一次才会下载到新的。
+当version不一致时，cache会存在多份同名的ab。这样就不会有问题了。
+
+ Assetbundle打包时，material引用的shader如果找不到，会设置成默认的内置shader，不会到运行时再重置，这种情况下，如果要修复shader的ab，需要把关联的mat的ab也重新导出。

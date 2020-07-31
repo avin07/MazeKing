@@ -1,0 +1,26 @@
+
+
+According to the full crash report you provided in your comment, the first line of Binary Images section is :
+
+Binary Images:
+0x104e48000 - 0x105847fff AnalyzeQuranIOS arm64 <119ebd016d7730c1bd7ee247c4f549b4> /var/containers/Bundle/Application/595A5C4D-0E0E-462D-88FD-38BF3399A298/AnalyzeQuranIOS.app/AnalyzeQuranIOS
+
+So, we can see the UUID of the app binary is 119ebd016d7730c1bd7ee247c4f549b4. You have to find the matching dSYM file which has the same UUID. Only when you find the matching dSYM file, you can symbolicate the unreadable Crash report.
+
+Solution:
+
+    Use the following command in Terminal to find the dSYM on your Mac which build the app:
+
+     mdfind "com_apple_xcode_dsym_uuids == 12345678-90AB-CDEF-1234-567890ABCDEF"
+
+    The string "12345678-90AB-CDEF-1234-567890ABCDEF" is the UUID string from the crash report reformatted to uppercase and 8-4-4-4-12 groups.
+
+    Symobolicate Crash Report. Excute the following line before symbolicating.
+
+    export DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer
+
+    Place your .crash, .app, and .dSYM files in the same directory and run:
+
+    /path/symbolicatecrash /path/mycrash.crash /path/MyAppName.app.dSYM > symbolicatedcrash.crash
+
+    The path of symbolicatecrash tool in Xcode 9.1 is: /Applications/Xcode.app/Contents/SharedFrameworks/DVTFoundation.framework/Versions/A/Resources/symbolicatecrash, you can check that according to your Xcode version.
