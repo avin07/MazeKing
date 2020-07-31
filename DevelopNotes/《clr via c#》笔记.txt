@@ -3,6 +3,8 @@
 	值类型派生于System.ValueType，引用类型直接派生于System.Object。
 	值类型在栈上分配内存，而引用类型则是栈上分配容纳地址的内存，在创建实例时指向堆上分配的地址。
 
+	String.Intern
+
 ArrayList与List区别：
 	ArrayList存储类型都是object，对类型无具体要求，因此会产生装箱拆箱的开销。
 	List泛型声明就指定了类型，所以是类型安全的，没有装箱拆箱。
@@ -47,3 +49,5 @@ Base64：一种编码。将8bit字节转换为可打印的字符。3个8bit字符转换成4个6bit，每个6b
 
 委托：调用GetInvocationList()方法（定义在MulticastDelegate，委托的基类），可以获得委托链的所有方法。便于自己处理（比如返回值，只有最后一个委托会有返回值的问题）
 	MethodInfo.CreateDelegate（Type delegateType）创建委托。然后委托调用DynamicInvoke来调用自己的委托方法。
+
+

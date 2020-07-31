@@ -1,9 +1,6 @@
 iPad Multitasking support 问题：勾上fullscreen
 Generate Debug symbols no
 
-当svn报错时，尝试
-sqlite3 .svn/wc.db "delete from work_queue"
-
 打包需要的手动步骤：
 TW：手动添加AppFlyer库，NCSDK下的库等等，-fno-objc-arc（GG96JK844D，T334FQ4WF7）
 BIYI：XCODE9的话需要1024图标，发布时打开IAP开关
@@ -11,6 +8,7 @@ MG：编译器如果使用KIWI需要参照文档，发布时打开IAP开关。
 	Other Linker Flags -lstdc++
 	Other CFLAGS -kce-bcf=10	-kce-fla=2
 
-
 发布越狱包。先用易接打包工具编译。然后产生的新工程使用build For Profiling。
 再到Xcode的DerivedData文件夹下找到对应.app文件。通过压缩改后缀名生成Payload.ipa包即为越狱包
+
+Customising WWW requests on iOS，cachePolicy

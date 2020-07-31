@@ -1,14 +1,45 @@
 android profiler:
-	adb forward tcp:54999 localabstract:Unity-com.abc.abcd
+	adb forward tcp:55360 localabstract:Unity-com.blackjack.projectl
+
 夜神连接eclipse
 	nox_adb.exe connect 127.0.0.1:62001	(nox)
+
 mumu连接eclipse
 	adb connect 127.0.0.1:7555	(mumu)
+
 Adb打印logcat到文件
-	adb -s 9fd23996 logcat -v time process > d:/logvivo.txt
+	adb -s 9fd23996 logcat -v time process > d:/logcat.txt
 
 ios抓取crash并符号化
 	拷贝/Applications/Xcode.app/Contents/SharedFrameworks/DVTFoundation.framework/Versions/A/Resources/symbolicatecrash到某个文件夹
 	拷贝abcd.crash abcd.app.dSYM到相同文件夹
 	export DEVELOPER_DIR="/Applications/XCode.app/Contents/Developer" 
 	./symbolicatecrash abcd.crash abcd.app.dSYM > abcd.log
+
+查看dSYM文件中的uuid
+	xcrun dwarfdump --uuid <dSYM文件>
+
+重新编译修改过的反编译dll：
+	ilasm /dll/resource=Assembly-CSharp.res Assembly-CSharp.il
+
+SVN Cleanup 时wc.db出错处理：	
+sqlite3.exe .svn/wc.db "SELECT * FROM nodes WHERE checksum like '%891597ad4da852e8ee5f34f915aab941e5001b9c'"
+sqlite3.exe .svn/wc.db "UPDATE nodes set presence='not-present' WHERE checksum like '%891597ad4da852e8ee5f34f915aab941e5001b9c'"
+
+
+bat:
+	set t=%t: =%		  // 去空格
+	set t=%t:"=%		  // 去引号
+	%1				//入参
+	%~1				//入参去引号
+	for /f "delims=" %%a in (f:\a.txt) do (set t=%%~a)		//从a.txt读取文本
+	123 > a.txt	//将123写入a.txt文件
+	@echo off 关闭bat命令显示
+	@echo on 打开bat命令显示
+
+Excel:
+	【B列中找A列没有的值】 =VLOOKUP(B1,A:A,1,0)
+
+UnityYamlMerge:
+	mergespecfile.txt中修改语句：* use "%programs%\TortoiseSVN\bin\TortoiseMerge.exe" "%b" "%r" "%l"
+	svnSettings里增加.prefab的merge设置："C:\Program Files\Unity2017.4\Editor\Data\Tools\UnityYAMLMerge.exe" merge -o "d:\mergelog.txt" -p --force %base %theirs %mine %merged	

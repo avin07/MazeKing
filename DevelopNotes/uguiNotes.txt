@@ -1,2 +1,0 @@
-计算LayoutUtility.GetPreferredHeight之前，要rebuild下layout，不然得到的是旧的或者未初始化的高度。有可能很大。
-调用LayoutUtility.ForceRebuildLayoutImmediate，调用层级设置到content根节点。
